@@ -518,3 +518,23 @@ translate ptbr strings:
     old "Click 'Help' for the complete list."
     new "Clique em 'Ajuda' para ver a lista completa."
 
+# TODO: Translation updated at 2025-11-03 14:06
+
+translate ptbr strings:
+
+    # game/core/screens.rpy:878
+    old "Font Style"
+    new ""
+
+    # game/core/screens.rpy:880
+    old "Default Font"
+    new ""
+
+    # game/core/screens.rpy:881
+    old "You need to restart the game for the font change to take effect."
+    new ""
+
+    # game/core/screens.rpy:887
+    old "Alternate Font"
+    new ""
+

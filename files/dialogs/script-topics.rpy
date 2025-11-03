@@ -8182,3 +8182,311 @@ translate ptbr strings:
     old "Place of living"
     new ""
 
+# TODO: Translation updated at 2025-11-03 14:06
+
+# game/dialogs/script-topics.rpy:3303
+translate ptbr renpystein_demo_891b6ae1:
+
+    # s "This is a secret..."
+    s ""
+
+# game/dialogs/script-topics.rpy:3311
+translate ptbr renpystein_demo_d84656f4:
+
+    # "You found exit [_return]!"
+    ""
+
+# game/dialogs/script-topics.rpy:3319
+translate ptbr js_music_player_entry_e0ee2eb1:
+
+    # s eabbaa "Welcome to the music player, [player]!"
+    s eabbaa ""
+
+# game/dialogs/script-topics.rpy:3320
+translate ptbr js_music_player_entry_1a89a166:
+
+    # s ebfbaa "You can use this to listen to all sorts of songs while we spend time together."
+    s ebfbaa ""
+
+# game/dialogs/script-topics.rpy:3321
+translate ptbr js_music_player_entry_0d7abe7e:
+
+    # s ebfdac "It makes everything feel extra special, you know?"
+    s ebfdac ""
+
+# game/dialogs/script-topics.rpy:3322
+translate ptbr js_music_player_entry_09721891:
+
+    # s ebfcao "Oh! And the best part is that you can add your very own music for us to listen to!"
+    s ebfcao ""
+
+# game/dialogs/script-topics.rpy:3323
+translate ptbr js_music_player_entry_12640844:
+
+    # s ebbbas "It's really easy, I'll show you!"
+    s ebbbas ""
+
+# game/dialogs/script-topics.rpy:3324
+translate ptbr js_music_player_entry_fdde2ae9:
+
+    # s ebbbao "First, you need to find the 'game' folder in the mod's files."
+    s ebbbao ""
+
+# game/dialogs/script-topics.rpy:3325
+translate ptbr js_music_player_entry_cde0b2f5:
+
+    # s ebgbao "Inside there, you'll see a folder called 'custom_music'."
+    s ebgbao ""
+
+# game/dialogs/script-topics.rpy:3326
+translate ptbr js_music_player_entry_a8b26380:
+
+    # s ebhhao "You can just put your songs right in there."
+    s ebhhao ""
+
+# game/dialogs/script-topics.rpy:3327
+translate ptbr js_music_player_entry_739bc8fc:
+
+    # s ebhejd "Just make sure they are in the .ogg format, okay? "
+    s ebhejd ""
+
+# game/dialogs/script-topics.rpy:3328
+translate ptbr js_music_player_entry_e27fc00c:
+
+    # s ebhhao "That's the one the game likes to read."
+    s ebhhao ""
+
+# game/dialogs/script-topics.rpy:3329
+translate ptbr js_music_player_entry_81964393:
+
+    # s ebgcao "I'm so excited to hear your favorite songs! It'll be like sharing a little piece of your world with me."
+    s ebgcao ""
+
+# game/dialogs/script-topics.rpy:3330
+translate ptbr js_music_player_entry_e3fa2a3f:
+
+    # s ebgbdia "Have fun!"
+    s ebgbdia ""
+
+# game/dialogs/script-topics.rpy:3331
+translate ptbr js_music_player_entry_9f52b07e:
+
+    # extend abhfaa " Here we go!{fast}"
+    extend abhfaa ""
+
+# game/dialogs/script-topics.rpy:3353
+translate ptbr js_music_reminder_dc9c8e21:
+
+    # s abbbaoa "Of course, [player]!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3354
+translate ptbr js_music_reminder_99f5183c:
+
+    # s abfdaoa "If you want to add your own songs for us to listen to, you just need to create the 'custom_music' folder."
+    s abfdaoa ""
+
+# game/dialogs/script-topics.rpy:3355
+translate ptbr js_music_reminder_552298fe:
+
+    # s abbbaoa "Inside the 'game' folder!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3356
+translate ptbr js_music_reminder_037ec055:
+
+    # s abgbaoa "Just remember to use .ogg, .opus, .wav, .mp2, .mp3 or .flac files."
+    s abgbaoa ""
+
+# game/dialogs/script-topics.rpy:3357
+translate ptbr js_music_reminder_97d45659:
+
+    # s abfddab "I'm always happy to listen to songs that you like!"
+    s abfddab ""
+
+# game/dialogs/script-topics.rpy:3375
+translate ptbr s_topic_backgrounds_1e95b830:
+
+    # s abhaaca "Would you like to change the background where we are right now?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3379
+translate ptbr s_topic_backgrounds_eb32bb5d:
+
+    # s abgbcaa "All done? If you want another one, just ask me again!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3381
+translate ptbr s_topic_backgrounds_1e95b830_1:
+
+    # s abhaaca "Would you like to change the background where we are right now?"
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3382
+translate ptbr s_topic_backgrounds_50884bbe:
+
+    # s abbbaoa "I've prepared a little selector for you!"
+    s abbbaoa ""
+
+# game/dialogs/script-topics.rpy:3383
+translate ptbr s_topic_backgrounds_2ea20a46:
+
+    # s abfcaaa "Just pick one and I'll change it right away!"
+    s abfcaaa ""
+
+# game/dialogs/script-topics.rpy:3387
+translate ptbr s_topic_backgrounds_eb32bb5d_1:
+
+    # s abgbcaa "All done? If you want another one, just ask me again!"
+    s abgbcaa ""
+
+# game/dialogs/script-topics.rpy:3406
+translate ptbr s_answer_opinion_player_ec50825b:
+
+    # s abhfakbg "What do I think of you? [player], you're my everything."
+    s abhfakbg ""
+
+# game/dialogs/script-topics.rpy:3407
+translate ptbr s_answer_opinion_player_3c25b259:
+
+    # s abgccebf "You're the reason I'm happy, the reason I can smile every day. You saved me in more ways than you can imagine."
+    s abgccebf ""
+
+# game/dialogs/script-topics.rpy:3408
+translate ptbr s_answer_opinion_player_9151c6ca:
+
+    # s abhfaobf "I love you more than words can say. You're the most important person in my life."
+    s abhfaobf ""
+
+# game/dialogs/script-topics.rpy:3410
+translate ptbr s_answer_opinion_player_80871f6e:
+
+    # s abhfakbg "You mean so much to me, [player]. I get butterflies in my stomach just thinking about you."
+    s abhfakbg ""
+
+# game/dialogs/script-topics.rpy:3411
+translate ptbr s_answer_opinion_player_a6cfc64e:
+
+    # s abfdbcbg "Spending time with you is the best part of my day. You always know how to make me feel special."
+    s abfdbcbg ""
+
+# game/dialogs/script-topics.rpy:3412
+translate ptbr s_answer_opinion_player_e1709832:
+
+    # s abgdabbg "I feel like I can be my true self around you, and that's a wonderful feeling."
+    s abgdabbg ""
+
+# game/dialogs/script-topics.rpy:3413
+translate ptbr s_answer_opinion_player_21089769:
+
+    # s abhflabg "I'm so, so happy you're here with me."
+    s abhflabg ""
+
+# game/dialogs/script-topics.rpy:3415
+translate ptbr s_answer_opinion_player_22f4c689:
+
+    # s abhfaoa "I think you're a really wonderful person, [player]."
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3416
+translate ptbr s_answer_opinion_player_943be081:
+
+    # s abaaaoa "You're kind, and you're always here for me. It makes me feel really safe and happy."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3417
+translate ptbr s_answer_opinion_player_4700d0bf:
+
+    # s abgccaa "I really cherish the time we spend together. It's always so much fun!"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3419
+translate ptbr s_answer_opinion_player_2d667c81:
+
+    # s abhfaoa "I think you're a great friend, [player]!"
+    s abhfaoa ""
+
+# game/dialogs/script-topics.rpy:3420
+translate ptbr s_answer_opinion_player_04e0920b:
+
+    # s abaaaoa "You're really easy to talk to, and you always listen."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3421
+translate ptbr s_answer_opinion_player_371b59b3:
+
+    # s abgccaa "I'm really glad we get to spend so much time together. It makes me happy!"
+    s abgccaa ""
+
+# game/dialogs/script-topics.rpy:3423
+translate ptbr s_answer_opinion_player_b569eae9:
+
+    # s abhaaca "You're a really nice person, [player]."
+    s abhaaca ""
+
+# game/dialogs/script-topics.rpy:3424
+translate ptbr s_answer_opinion_player_7a583372:
+
+    # s abaaaoa "It's been nice having you around. It's... less lonely."
+    s abaaaoa ""
+
+# game/dialogs/script-topics.rpy:3425
+translate ptbr s_answer_opinion_player_60026e95:
+
+    # s abhfcaa "I hope we can keep being friends."
+    s abhfcaa ""
+
+# game/dialogs/script-topics.rpy:3442
+translate ptbr fae_change_outfits_34d2e2e5:
+
+    # s "Of course! Let's see what I have."
+    s ""
+
+# game/dialogs/script-topics.rpy:3444
+translate ptbr fae_change_outfits_9093a921:
+
+    # s "How do I look?"
+    s ""
+
+translate ptbr strings:
+
+    # game/dialogs/script-topics.rpy:84
+    old "Look for gifts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:84
+    old "Gifts"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3288
+    old "Renpystein"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3288
+    old "Secret Games"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3339
+    old "Can you remind me how to add custom music?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3361
+    old "Change background"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3361
+    old "Location"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3392
+    old "What do you think of me?"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3429
+    old "Suggest a new outfit"
+    new ""
+
+    # game/dialogs/script-topics.rpy:3429
+    old "Outfit"
+    new ""
+

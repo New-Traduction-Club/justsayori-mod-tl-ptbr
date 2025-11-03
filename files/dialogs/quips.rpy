@@ -39,8 +39,8 @@ translate ptbr strings:
     new "Vamos conversar, [player]."
 
     # game/dialogs/quips.rpy:19
-    old "Don't be shy, [player]."
-    new "Não fique com vergonha, [player]. Ehehe~"
+    # old "Don't be shy, [player]."
+    # new "Não fique com vergonha, [player]. Ehehe~"
 
     # game/dialogs/quips.rpy:34
     old "What would you like to talk about, [player]?"
@@ -87,8 +87,8 @@ translate ptbr strings:
     new "Claro que podemos conversar, [player]~"
 
     # game/dialogs/quips.rpy:53
-    old "Take all the time you need, [player]~"
-    new "Leve todo o tempo que precisar, [player]~"
+    # old "Take all the time you need, [player]~"
+    # new "Leve todo o tempo que precisar, [player]~"
 
     # game/dialogs/quips.rpy:53
     old "We can talk about whatever you'd like, [player]."
@@ -109,4 +109,16 @@ translate ptbr strings:
     # game/dialogs/quips.rpy:73
     old "Oh? Something...{w=0.3}{i}important{/i} on your mind, [player]?~"
     new "Ah? Você tem algo...{w=0.3}{i}importante{/i} em mente, [player]?~"
+
+# TODO: Translation updated at 2025-11-03 14:06
+
+translate ptbr strings:
+
+    # game/dialogs/quips.rpy:34
+    old "Don't be shy, [player]~"
+    new "Não fique com vergonha, [player]. Ehehe~"
+
+    # game/dialogs/quips.rpy:53
+    old "Take all the time you need, [player]."
+    new "Leve todo o tempo que precisar, [player]~"
 
