@@ -69,8 +69,8 @@ translate ptbr strings:
     new "Poema em Prosa"
 
     # game/core/poetry.rpy:394
-    old "I am black light. I am cold fire. I'm a peaceful fighter. I'm a naive wise man. Why do people think that opposites can't be together in the same thing? Can't they all see that everything and everyone is only gray? Even this text is both prose and poem. Even I used to be a mix of joy and crippling sadness. And there's nothing completely black Just like there's nothing completely white."
-    new ""
+    old "I am black light. I am cold fire. I'm a peaceful fighter. I'm a naive wise man. Why do people think that opposites can't be together in the same thing? Can't they all see that everything and everyone is only gray? Even this text is both prose and poem. Even I used to be a mix of joy and crippling sadness. And there's nothing completely black. Just like there's nothing completely white."
+    new "Eu sou luz negra. Eu sou fogo frio. Eu sou um lutador pacífico. Eu sou um sábio ingênuo. Por que as pessoas acham que opostos não podem estar juntos na mesma coisa? Não podem ver que tudo e todos é apenas cinza? Até esse texto é prosa e poema ao mesmo tempo. Até eu costumava ser uma mistura de alegria e tristeza paralisante. E não há nada completamente preto. Assim como não há nada completamente branco."
 
     # game/core/poetry.rpy:410
     old "Afterlight"
@@ -86,7 +86,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:433
     old "I have someone, who's no-one here.\nThey live in a place that's named nowhere, here.\nBut even though there is a wall\nBetween our worlds, I truly love them."
-    new "Tenho alguém, que é ninguém aqui.\nEle mora em um lugar que é chamado "
+    new "Tenho alguém, que é ninguém aqui.\nEle mora em um lugar que é chamado lugar nenhum, aqui.\nMas mesmo que haja uma parede\nEntre nossos mundos, eu verdadeiramente o amo."
 
     # game/core/poetry.rpy:520
     old "sunshine"
