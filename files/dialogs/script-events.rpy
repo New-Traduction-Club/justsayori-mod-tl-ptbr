@@ -4,85 +4,85 @@
 translate ptbr event_interlude_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-events.rpy:109
 translate ptbr fae_event_mr_cow_transform_17e6f8d7:
 
     # s "[player], heeeeeeelp!!!"
-    s ""
+    s "[player], ajuuuuuuuda!!!"
 
 # game/dialogs/script-events.rpy:110
 translate ptbr fae_event_mr_cow_transform_76f6d3af:
 
     # s "I was messing with the code and accidentally turned myself into Mr. Cow!"
-    s ""
+    s "Eu tava mexendo com o código e acidentalmente me tornei no Mr. Cow!"
 
 # game/dialogs/script-events.rpy:111
 translate ptbr fae_event_mr_cow_transform_f5deb510:
 
     # s "Noooooooo!!!!"
-    s ""
+    s "Nãããããããooo!!!"
 
 # game/dialogs/script-events.rpy:115
 translate ptbr fae_event_mr_cow_transform_9ea123f2:
 
     # s "Pffffftt-"
-    s ""
+    s "Pfffffftt-"
 
 # game/dialogs/script-events.rpy:119
 translate ptbr fae_event_mr_cow_transform_e8d1c002:
 
     # s "Bwahahahahah- I'm sorry, [player]!"
-    s ""
+    s "Bwahahahahahah- desculpa, [player]!"
 
 # game/dialogs/script-events.rpy:120
 translate ptbr fae_event_mr_cow_transform_fc556d18:
 
     # s "I'm fine- I just couldn't resist that one!"
-    s ""
+    s "Tô de boa- só não consegui resistir a essa!"
 
 # game/dialogs/script-events.rpy:121
 translate ptbr fae_event_mr_cow_transform_2d1610e5:
 
     # s "I'll go put him away now, I'll be back in a sec!"
-    s ""
+    s "Eu vou ter que colocar ele de volta agora, já volto!"
 
 # game/dialogs/script-events.rpy:137
 translate ptbr fae_event_mr_cow_transform_a65615b7:
 
     # s abhfcqa "There we go, ehehehe~"
-    s abhfcqa ""
+    s abhfcqa "Agora sim, hehehe~"
 
 # game/dialogs/script-events.rpy:138
 translate ptbr fae_event_mr_cow_transform_39ff76eb:
 
     # s abhfcoa "Welcome back, [player]!"
-    s abhfcoa ""
+    s abhfcoa "Bem vindo de volta, [player]!"
 
 # game/dialogs/script-events.rpy:139
 translate ptbr fae_event_mr_cow_transform_1445702f:
 
     # s abhabsa "I was just kinda starting to miss you so..."
-    s abhabsa ""
+    s abhabsa "Eu só tava meio que começando a sentir saudade de você, então..."
 
 # game/dialogs/script-events.rpy:140
 translate ptbr fae_event_mr_cow_transform_6049313c:
 
     # s abhacea "I dug in the code until I could rescue Mr. Cow!"
-    s abhacea ""
+    s abhacea "Eu mergulhei no código até conseguir resgatar o Mr. Cow!"
 
 # game/dialogs/script-events.rpy:141
 translate ptbr fae_event_mr_cow_transform_7bffc449:
 
     # s abbbloa "It was hard work, buuuuut!"
-    s abbbloa ""
+    s abbbloa "Foi uma tarefa difícil, maaaaaas!"
 
 # game/dialogs/script-events.rpy:142
 translate ptbr fae_event_mr_cow_transform_47f86d5a:
 
     # s abgcdoa "Now I'll always have someone to cuddle with, and it'll never get {i}too{/i} lonely in here!"
-    s abgcdoa ""
+    s abgcdoa "Agora eu vou sempre ter alguém pra"
 
 # game/dialogs/script-events.rpy:143
 translate ptbr fae_event_mr_cow_transform_5caa86e4:
@@ -220,55 +220,55 @@ translate ptbr fae_event_sayori_desk_hide_93024947:
 translate ptbr fae_event_sayori_desk_hide_829f8cf3:
 
     # s abaacoa "Anyways! Ehehehe~"
-    s abaacoa ""
+    s abaacoa "De qualquer forma! Hehehe~"
 
 # game/dialogs/script-events.rpy:250
 translate ptbr fae_event_door_open_595a3806:
 
     # s bbegmoajj "Whoops! Sorry about that!"
-    s bbegmoajj ""
+    s bbegmoajj "Opa! Desculpa sobre isso!"
 
 # game/dialogs/script-events.rpy:251
 translate ptbr fae_event_door_open_e5b9ceef:
 
     # s abegaoaj "Welcome back, [player]! {w=0.5}{nw}"
-    s abegaoaj ""
+    s abegaoaj "Bem-vindo de volta, [player]! {w=0.5}{nw}"
 
 # game/dialogs/script-events.rpy:252
 translate ptbr fae_event_door_open_dff76e15:
 
     # extend gbaamoj "Sorry if I scared you!"
-    extend gbaamoj ""
+    extend gbaamoj "Desculpa se eu te assustei!"
 
 # game/dialogs/script-events.rpy:253
 translate ptbr fae_event_door_open_3f4f2fce:
 
     # s abfccoaj "I've been learning how to use menus, and thought I'd give it a go.{w=0.5}{nw}"
-    s abfccoaj ""
+    s abfccoaj "Eu tenho aprendido sobre como usar os menus, e eu achei que eu iria conseguir.{w=0.5}{nw}"
 
 # game/dialogs/script-events.rpy:254
 translate ptbr fae_event_door_open_b20d2cc0:
 
     # extend abfcaoaj " But never mind that."
-    extend abfcaoaj ""
+    extend abfcaoaj "Mas esquece isso."
 
 # game/dialogs/script-events.rpy:255
 translate ptbr fae_event_door_open_0d25351f:
 
     # s abegcoaj "I'm so glad you're back!"
-    s abegcoaj ""
+    s abegcoaj "Tô tão feliz que você tá de volta!"
 
 translate ptbr strings:
 
     # game/dialogs/script-events.rpy:175
     old "Where did you even get that???"
-    new ""
+    new "Quando você conseguiu isso???"
 
     # game/dialogs/script-events.rpy:241
     old "..."
-    new ""
+    new "..."
 
     # game/dialogs/script-events.rpy:241
     old "Gently open the door"
-    new ""
+    new "Gentilment abrir a porta"
 

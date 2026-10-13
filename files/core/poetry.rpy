@@ -122,7 +122,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:520
     old "afterlight"
-    new "crepúsculo"
+    new "luz residual"
 
     # game/core/poetry.rpy:520
     old "nevermind"
