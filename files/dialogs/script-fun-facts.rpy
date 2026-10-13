@@ -274,7 +274,7 @@ translate ptbr strings:
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Can you tell me a fun fact?"
-    new "Pode me contar uma curiosidade?"
+    new "Me conta uma curiosidade?"
 
     # game/dialogs/script-fun-facts.rpy:36
     old "Misc"
