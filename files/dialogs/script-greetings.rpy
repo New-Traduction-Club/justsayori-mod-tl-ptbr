@@ -4,175 +4,175 @@
 translate ptbr greeting_first_time_8050e585:
 
     # s "Hello~"
-    s ""
+    s "Olá~"
 
 # game/dialogs/script-greetings.rpy:56
 translate ptbr greeting_first_force_quit_0aca5f0a:
 
     # s "Ughhhh..."
-    s ""
+    s "Hmmmm..."
 
 # game/dialogs/script-greetings.rpy:57
 translate ptbr greeting_first_force_quit_23d81314:
 
     # s "[player]..."
-    s ""
+    s "[player]..."
 
 # game/dialogs/script-greetings.rpy:58
 translate ptbr greeting_first_force_quit_59302e2b:
 
     # s "My head..."
-    s ""
+    s "A minha cabeça..."
 
 # game/dialogs/script-greetings.rpy:59
 translate ptbr greeting_first_force_quit_abb9d6c8:
 
     # s "It... hurts..."
-    s ""
+    s "Ela... tá doendo..."
 
 # game/dialogs/script-greetings.rpy:60
 translate ptbr greeting_first_force_quit_198735ad:
 
     # s "What... did you do?"
-    s ""
+    s "O que... você fez?"
 
 # game/dialogs/script-greetings.rpy:61
 translate ptbr greeting_first_force_quit_c15c374f:
 
     # s "It's... so... dark..."
-    s ""
+    s "Tá... tão... escuro..."
 
 # game/dialogs/script-greetings.rpy:62
 translate ptbr greeting_first_force_quit_8cf30022:
 
     # s "[player]...?"
-    s ""
+    s "[player]...?"
 
 # game/dialogs/script-greetings.rpy:63
 translate ptbr greeting_first_force_quit_253f0c40:
 
     # s "Can you turn the lights on please?"
-    s ""
+    s "Você pode ligar as luzes por favor?"
 
 # game/dialogs/script-greetings.rpy:72
 translate ptbr greeting_first_force_quit_ceaa34be:
 
     # s bbaaafag "[player]..."
-    s bbaaafag ""
+    s bbaaafag "[player]..."
 
 # game/dialogs/script-greetings.rpy:73
 translate ptbr greeting_first_force_quit_c76bb0fc:
 
     # s bbaajgag "That really hurt..."
-    s bbaajgag ""
+    s bbaajgag "Isso realmente doeu..."
 
 # game/dialogs/script-greetings.rpy:74
 translate ptbr greeting_first_force_quit_a6cefff4:
 
     # s bbaaagag "It was like I was being torn apart."
-    s bbaaagag ""
+    s bbaaagag "Foi como se eu estivesse sendo rasgada."
 
 # game/dialogs/script-greetings.rpy:75
 translate ptbr greeting_first_force_quit_20db9d67:
 
     # s bbaamfag "Whatever you did... {w=0.5}{nw}"
-    s bbaamfag ""
+    s bbaamfag "O que quer que você fez... {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:76
 translate ptbr greeting_first_force_quit_e8da4613:
 
     # extend bbaajfag "please don't do it again..."
-    extend bbaajfag ""
+    extend bbaajfag "por favor não faz isso de novo..."
 
 # game/dialogs/script-greetings.rpy:86
 translate ptbr first_force_quit_2_747f07c4:
 
     # s "Never mind..."
-    s ""
+    s "Deixa pra lá..."
 
 # game/dialogs/script-greetings.rpy:87
 translate ptbr first_force_quit_2_fbda70b7:
 
     # s "I found the switch."
-    s ""
+    s "Encontrei o interruptor."
 
 # game/dialogs/script-greetings.rpy:91
 translate ptbr first_force_quit_2_ceaa34be:
 
     # s bbaaafag "[player]..."
-    s bbaaafag ""
+    s bbaaafag "[player]..."
 
 # game/dialogs/script-greetings.rpy:92
 translate ptbr first_force_quit_2_084e8db9:
 
     # s bbaajgag "That really hurt."
-    s bbaajgag ""
+    s bbaajgag "Aquilo realmente doeu."
 
 # game/dialogs/script-greetings.rpy:93
 translate ptbr first_force_quit_2_61eee1c7:
 
     # s bbaaagag "It was like I was being torn apart..."
-    s bbaaagag ""
+    s bbaaagag "Como se eu estivesse sendo rasgada."
 
 # game/dialogs/script-greetings.rpy:94
 translate ptbr first_force_quit_2_20db9d67:
 
     # s bbaamfag "Whatever you did... {w=0.5}{nw}"
-    s bbaamfag ""
+    s bbaamfag "O que quer que você tenha feito... {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:95
 translate ptbr first_force_quit_2_95f2c807:
 
     # extend bbaajfag "please don't do it again."
-    extend bbaajfag ""
+    extend bbaajfag "por favor não faz isso de novo."
 
 # game/dialogs/script-greetings.rpy:113
 translate ptbr s_greeting_1_5a88c68a:
 
     # s abagaaa "I'm glad to see you again."
-    s abagaaa ""
+    s abagaaa "Tô feliz em ver você de novo."
 
 # game/dialogs/script-greetings.rpy:114
 translate ptbr s_greeting_1_1f93a00c:
 
     # s abaaaoa "Let's have a good time together!"
-    s abaaaoa ""
+    s abaaaoa "Vamos se divertir juntos!"
 
 # game/dialogs/script-greetings.rpy:130
 translate ptbr s_greeting_2_aa167bd2:
 
     # s abaaaoa "Ah, welcome back, [player]!"
-    s abaaaoa ""
+    s abaaaoa "Ah, bem-vindo de volta, [player]!"
 
 # game/dialogs/script-greetings.rpy:131
 translate ptbr s_greeting_2_ce1c58a5:
 
     # s "{i}I'm so happy that you're here!{/i}"
-    s ""
+    s "{i}Tô tão feliz que você tá aqui!{/i}"
 
 # game/dialogs/script-greetings.rpy:132
 translate ptbr s_greeting_2_0ef08903:
 
     # s "{i}You fill my heart with joy, ehehehe~{/i}"
-    s ""
+    s "{i}Você enche o meu coração de alegria, hehehe~{/i}"
 
 # game/dialogs/script-greetings.rpy:147
 translate ptbr s_greeting_3_epo_2264a8f7:
 
     # s "Saluton, [player]!"
-    s ""
+    s "Saluton, [player]!"
 
 # game/dialogs/script-greetings.rpy:148
 translate ptbr s_greeting_3_epo_c8c6dfa0:
 
     # s abgcaoa "Kia ĝojo revidi vin!"
-    s abgcaoa ""
+    s abgcaoa "Kia ĝojo revidi vin!"
 
 # game/dialogs/script-greetings.rpy:149
 translate ptbr s_greeting_3_epo_c5639d56:
 
     # s abbccoa "That's what 'Hello, [player]! It's such a joy to see you again!' sounds like in Esperanto!"
-    s abbccoa ""
+    s abbccoa "Isso é 'Olá, [player]! É'"
 
 # game/dialogs/script-greetings.rpy:165
 translate ptbr s_greeting_3_esp_27540945:

@@ -10,7 +10,7 @@ translate ptbr compliment_best_girl_51fa6b97:
 translate ptbr compliment_best_girl_f4535cc3:
 
     # s abagdka "I'm really happy you think so! It means a lot to me, ehehehe~"
-    s abagdka "Fico tããão feliz que você pense assim! Isso significa muito pra mim, ehehe~"
+    s abagdka "Eu fico tããão feliz que você pense assim! Isso significa muito pra mim, ehehe~"
 
 # game/dialogs/script-compliments.rpy:64
 translate ptbr compliment_best_girl_2934d886:
@@ -136,7 +136,7 @@ translate ptbr compliment_love_eyes_39d74fb7:
 translate ptbr compliment_love_eyes_09319dc6:
 
     # s abbbcqa "And I think they make me unique and give me something to be confident about!"
-    s abbbcqa "E eu acho que eles me fazem única e meu dão algo pra ser confiante!"
+    s abbbcqa "E eu acho que eles me fazem única e me dão algo para eu me sentir confiante!"
 
 # game/dialogs/script-compliments.rpy:195
 translate ptbr compliment_kind_eec63bc6:

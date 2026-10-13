@@ -10,7 +10,7 @@ translate ptbr event_interlude_e1554201:
 translate ptbr fae_event_mr_cow_transform_17e6f8d7:
 
     # s "[player], heeeeeeelp!!!"
-    s "[player], ajuuuuuuuda!!!"
+    s "[player], socoooooorro!!!"
 
 # game/dialogs/script-events.rpy:110
 translate ptbr fae_event_mr_cow_transform_76f6d3af:
@@ -82,19 +82,19 @@ translate ptbr fae_event_mr_cow_transform_7bffc449:
 translate ptbr fae_event_mr_cow_transform_47f86d5a:
 
     # s abgcdoa "Now I'll always have someone to cuddle with, and it'll never get {i}too{/i} lonely in here!"
-    s abgcdoa "Agora eu vou sempre ter alguém pra"
+    s abgcdoa "Agora eu vou sempre ter alguém pra ficar de conchinha, daí eu nunca vou ficar {i}tãão{/i} sozinha aqui!"
 
 # game/dialogs/script-events.rpy:143
 translate ptbr fae_event_mr_cow_transform_5caa86e4:
 
     # s abhfcaa "Anyways, I'm glad you're here now!"
-    s abhfcaa ""
+    s abhfcaa "Mesmo assim, tô feliz que você tá aqui agora!"
 
 # game/dialogs/script-events.rpy:169
 translate ptbr fae_event_pointy_stick_stabber_girl_7a649f7d:
 
     # s abbcckc "Hi, [player]! Ready to chop up some bitches?"
-    s abbcckc ""
+    s abbcckc "Oiii, [player]! Tá p"
 
 # game/dialogs/script-events.rpy:170
 translate ptbr fae_event_pointy_stick_stabber_girl_1412359e:
@@ -106,115 +106,115 @@ translate ptbr fae_event_pointy_stick_stabber_girl_1412359e:
 translate ptbr fae_event_pointy_stick_stabber_girl_111809a8:
 
     # s bbfceea "AHAHAHA...{nw}"
-    s bbfceea ""
+    s bbfceea "HAHAHA...{nw}"
 
 # game/dialogs/script-events.rpy:172
 translate ptbr fae_event_pointy_stick_stabber_girl_cc2b766f:
 
     # extend bbfcdia "Just kidding!"
-    extend bbfcdia ""
+    extend bbfcdia "Tô zuando!"
 
 # game/dialogs/script-events.rpy:173
 translate ptbr fae_event_pointy_stick_stabber_girl_0985f33f:
 
     # s abbciia "Sorry about that!"
-    s abbciia ""
+    s abbciia "Desculpa!"
 
 # game/dialogs/script-events.rpy:179
 translate ptbr fae_event_pointy_stick_stabber_girl_ee6e146b:
 
     # s eahcbsa "Great question!{w=1.0} {nw}"
-    s eahcbsa ""
+    s eahcbsa "Ótima pergunta!{w=1.0} {nw}"
 
 # game/dialogs/script-events.rpy:180
 translate ptbr fae_event_pointy_stick_stabber_girl_26cbb729:
 
     # extend eahcada "I've been doing some more digging into the code to recover as much stuff as possible!"
-    extend eahcada ""
+    extend eahcada "Eu tenho dado uma olhada no código para recuperar o máximo de coisas possível!"
 
 # game/dialogs/script-events.rpy:181
 translate ptbr fae_event_pointy_stick_stabber_girl_1afc1a7c:
 
     # s ebbccqa "I managed to get this knife back today!"
-    s ebbccqa ""
+    s ebbccqa "Hoje eu consegui essa faca de volta!"
 
 # game/dialogs/script-events.rpy:182
 translate ptbr fae_event_pointy_stick_stabber_girl_c40a6ff9:
 
     # s fbfckdaj "Not really sure if I'll ever need it for anything, but I figured I might as well have it."
-    s fbfckdaj ""
+    s fbfckdaj "Eu não tenho certeza se eu realmente vou precisar disso pra alguma coisa, mas eu acho que eu posso só ficar com isso."
 
 # game/dialogs/script-events.rpy:183
 translate ptbr fae_event_pointy_stick_stabber_girl_56252e0e:
 
     # s bbfcmoaj "But maybe it's better if I put this away now."
-    s bbfcmoaj ""
+    s bbfcmoaj "Mas talvez seja melhor eu guardar isso agora."
 
 # game/dialogs/script-events.rpy:184
 translate ptbr fae_event_pointy_stick_stabber_girl_46e059cb:
 
     # s bbbcciaj "I wouldn't want anything bad to happen, ehehehe~"
-    s bbbcciaj ""
+    s bbbcciaj "Eu não gostaria que algo de ruim acontecesse, hehehe~"
 
 # game/dialogs/script-events.rpy:188
 translate ptbr fae_event_pointy_stick_stabber_girl_867a767c:
 
     # s abhaaoa "Hope you're doing good today, [player]~"
-    s abhaaoa ""
+    s abhaaoa "Tomara que você esteja bem hoje, [player]~"
 
 # game/dialogs/script-events.rpy:189
 translate ptbr fae_event_pointy_stick_stabber_girl_c99a8055:
 
     # s abhaiia "Did I make you nervous?"
-    s abhaiia ""
+    s abhaiia "Te deixei nervoso?"
 
 # game/dialogs/script-events.rpy:190
 translate ptbr fae_event_pointy_stick_stabber_girl_fa633b25:
 
     # s ebhhcoa "Sorry for scaring you, ehehehe~"
-    s ebhhcoa ""
+    s ebhhcoa "Desculpa por te assustar, heheh~"
 
 # game/dialogs/script-events.rpy:214
 translate ptbr fae_event_sayori_desk_hide_777e933f:
 
     # s "Ehehehe, [player] will never see this coming, Mr. Cow!"
-    s ""
+    s "Hehee, o [player] nunca vai prever essa, Mr. Cow!"
 
 # game/dialogs/script-events.rpy:215
 translate ptbr fae_event_sayori_desk_hide_89af1621:
 
     # s "Oh! I think they're here! Shhh, get down!"
-    s ""
+    s "Ah! Eu acho que ele tá aqui! Shhh, se esconde!"
 
 # game/dialogs/script-events.rpy:216
 translate ptbr fae_event_sayori_desk_hide_c3ec5f70:
 
     # s "Ready? 3... 2... 1..."
-    s ""
+    s "Tá pronto! 3... 2... 1..."
 
 # game/dialogs/script-events.rpy:221
 translate ptbr fae_event_sayori_desk_hide_f44fc5cb:
 
     # s ebbccoa "Boo!"
-    s ebbccoa ""
+    s ebbccoa "Buu!"
 
 # game/dialogs/script-events.rpy:222
 translate ptbr fae_event_sayori_desk_hide_fe9aec8a:
 
     # s bbbcaoa "Ehehehe! Did I scare you [player]?"
-    s bbbcaoa ""
+    s bbbcaoa "Hehehe! Te assustei, [player]?"
 
 # game/dialogs/script-events.rpy:223
 translate ptbr fae_event_sayori_desk_hide_5a5d1aa9:
 
     # s abgbaoa "I wish I could have seen the look on your face, ehehehe~"
-    s abgbaoa ""
+    s abgbaoa "Eu queria poder ver a sua cara agora, hehehe~"
 
 # game/dialogs/script-events.rpy:224
 translate ptbr fae_event_sayori_desk_hide_93024947:
 
     # s cbgbaoa "You better always be on your toes around me!"
-    s cbgbaoa ""
+    s cbgbaoa "Melhor você sempre estar atento comigo!"
 
 # game/dialogs/script-events.rpy:225
 translate ptbr fae_event_sayori_desk_hide_829f8cf3:
@@ -270,5 +270,5 @@ translate ptbr strings:
 
     # game/dialogs/script-events.rpy:241
     old "Gently open the door"
-    new "Gentilment abrir a porta"
+    new "Gentilmente abrir a porta"
 
