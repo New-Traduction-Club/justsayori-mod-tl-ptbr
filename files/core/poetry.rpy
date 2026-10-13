@@ -82,7 +82,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:433
     old "A Valentine"
-    new "O Amor"
+    new "Uma Declaração"
 
     # game/core/poetry.rpy:433
     old "I have someone, who's no-one here.\nThey live in a place that's named nowhere, here.\nBut even though there is a wall\nBetween our worlds, I truly love them."
