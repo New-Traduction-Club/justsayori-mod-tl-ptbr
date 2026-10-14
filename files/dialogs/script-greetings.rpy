@@ -238,7 +238,7 @@ translate ptbr s_greeting_5_5ae53b39:
 translate ptbr s_greeting_5_5794c5f6:
 
     # s "Cause after all, you're the only friend I have left."
-    s "Porque afinal das contas, você é o único ámigo que sobrou."
+    s "Porque afinal das contas, você é o único amigo que sobrou."
 
 # game/dialogs/script-greetings.rpy:212
 translate ptbr s_greeting_5_8597c893:
