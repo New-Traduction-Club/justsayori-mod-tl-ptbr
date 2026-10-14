@@ -10,7 +10,7 @@ translate ptbr greeting_first_time_8050e585:
 translate ptbr greeting_first_force_quit_0aca5f0a:
 
     # s "Ughhhh..."
-    s "Hmmmm..."
+    s "Ughhhh..."
 
 # game/dialogs/script-greetings.rpy:57
 translate ptbr greeting_first_force_quit_23d81314:
@@ -118,7 +118,7 @@ translate ptbr first_force_quit_2_61eee1c7:
 translate ptbr first_force_quit_2_20db9d67:
 
     # s bbaamfag "Whatever you did... {w=0.5}{nw}"
-    s bbaamfag "O que quer que você tenha feito... {w=0.5}{nw}"
+    s bbaamfag "O que quer que você fez... {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:95
 translate ptbr first_force_quit_2_95f2c807:
@@ -184,7 +184,7 @@ translate ptbr s_greeting_3_esp_27540945:
 translate ptbr s_greeting_3_esp_69455e5e:
 
     # s abgcaoa "¡Qué alegría verte de nuevo!"
-    s abgcaoa "¡Qué alegria verte de Nuevo!"
+    s abgcaoa "¡Qué alegria verte de nuevo!"
 
 # game/dialogs/script-greetings.rpy:167
 translate ptbr s_greeting_3_esp_a4e8ccdf:
@@ -208,7 +208,7 @@ translate ptbr s_greeting_4_4d0fea15:
 translate ptbr s_greeting_4_69855244:
 
     # s bbfbaaa "I hope nothing bad happened to you while you were gone..."
-    s bbfbaaa "Espero que nada d ruim tenha acontecido enquanto você tava fora..."
+    s bbfbaaa "Espero que nada de ruim tenha acontecido enquanto você tava fora..."
 
 # game/dialogs/script-greetings.rpy:190
 translate ptbr s_greeting_4_de909b72:
@@ -304,7 +304,7 @@ translate ptbr s_greeting_7_efdac3ad:
 translate ptbr s_greeting_8_2c29f3e4:
 
     # s abgcaoa "Hi [player]!"
-    s abgcaoa "Oi [player]!
+    s abgcaoa "Oi [player]!"
 
 # game/dialogs/script-greetings.rpy:273
 translate ptbr s_greeting_8_d43d1c5d:
