@@ -64,7 +64,7 @@ translate ptbr greeting_first_force_quit_ceaa34be:
 translate ptbr greeting_first_force_quit_c76bb0fc:
 
     # s bbaajgag "That really hurt..."
-    s bbaajgag "Isso realmente doeu..."
+    s bbaajgag "Essa realmente doeu..."
 
 # game/dialogs/script-greetings.rpy:74
 translate ptbr greeting_first_force_quit_a6cefff4:
@@ -760,7 +760,7 @@ translate ptbr s_greeting_long_away_b6459fa1:
 translate ptbr s_greeting_long_away_83317148:
 
     # s abgccaa "Let’s spend some more time together."
-    s abgccaa "Vamos passar mais tempo juntos."
+    s abgccaa "Vamos passar mais tempo juntinhos."
 
 # game/dialogs/script-greetings.rpy:463
 translate ptbr s_greeting_long_away_5d0a362f:
@@ -832,511 +832,511 @@ translate ptbr s_greeting_long_away_32ffda7b:
 translate ptbr s_greeting_long_away_ebd60002:
 
     # s abgccoa "Let's spend some more time together."
-    s abgccoa "Vamos"
+    s abgccoa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:481
 translate ptbr s_greeting_long_away_03bf5b6e:
 
     # s abfcaoa "Hey, [player]!"
-    s abfcaoa ""
+    s abfcaoa "Ei, [player]!"
 
 # game/dialogs/script-greetings.rpy:482
 translate ptbr s_greeting_long_away_29b605e9:
 
     # s abfcaca "You’ve been gone a bit longer than a week."
-    s abfcaca ""
+    s abfcaca "Você ficou fora um pouquinho mais que uma semana."
 
 # game/dialogs/script-greetings.rpy:483
 translate ptbr s_greeting_long_away_bea06472:
 
     # s abfcaca "But that’s okay, {w=0.5}{nw}"
-    s abfcaca ""
+    s abfcaca "Mas tá tudo bem, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:484
 translate ptbr s_greeting_long_away_4d5ffb16:
 
     # extend bbgcaaa "you came back eventually!"
-    extend bbgcaaa ""
+    extend bbgcaaa "você eventualmente voltou!"
 
 # game/dialogs/script-greetings.rpy:485
 translate ptbr s_greeting_long_away_f1e94be6:
 
     # s bbgcmoaj "Though you’re a little late, ehehehe~"
-    s bbgcmoaj ""
+    s bbgcmoaj "Mesmo que você esteja um pouco atrasadinho, hehehe~"
 
 # game/dialogs/script-greetings.rpy:486
 translate ptbr s_greeting_long_away_e40b2bf8:
 
     # s abgccoa "Let’s spend some more time together."
-    s abgccoa ""
+    s abgccoa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:488
 translate ptbr s_greeting_long_away_a03b3d31:
 
     # s ebgchca "Oh! {w=0.5}{nw}"
-    s ebgchca ""
+    s ebgchca "Ah! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:489
 translate ptbr s_greeting_long_away_6f94b6eb:
 
     # extend abgccoa "Back already, [player]?"
-    extend abgccoa ""
+    extend abgccoa "Já tá de volta, [player]?"
 
 # game/dialogs/script-greetings.rpy:490
 translate ptbr s_greeting_long_away_4b697f40:
 
     # s bbhemoaj "Not that I’m complaining, ehehehe~"
-    s bbhemoaj ""
+    s bbhemoaj "Não que eu tô reclamando, hehehe~"
 
 # game/dialogs/script-greetings.rpy:491
 translate ptbr s_greeting_long_away_1cd304ff:
 
     # s abheaaaj "You’re a little early, but that’s okay!"
-    s abheaaaj ""
+    s abheaaaj "Você chegou um pouquinho cedo, mas tá de boa!"
 
 # game/dialogs/script-greetings.rpy:492
 translate ptbr s_greeting_long_away_6eec8f8b:
 
     # s abfccaa "Let’s spend some more time together."
-    s abfccaa ""
+    s abfccaa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:494
 translate ptbr s_greeting_long_away_dc3518d7:
 
     # s ebfchsa "Oh! [player]!"
-    s ebfchsa ""
+    s ebfchsa "Ah! [player]!"
 
 # game/dialogs/script-greetings.rpy:495
 translate ptbr s_greeting_long_away_21c0aeb3:
 
     # s abfcaoa "I didn’t expect you back {i}this{/i} soon."
-    s abfcaoa ""
+    s abfcaoa "Não esperei de ver de volta cedo {i}assim{/i}."
 
 # game/dialogs/script-greetings.rpy:496
 translate ptbr s_greeting_long_away_a050a3db:
 
     # s bbfcmoaj "I’m not complaining though, ehehehe~"
-    s bbfcmoaj ""
+    s bbfcmoaj "Não que eu tô reclamando, hehehe~"
 
 # game/dialogs/script-greetings.rpy:497
 translate ptbr s_greeting_long_away_f58972c5:
 
     # s abfccoa "Let’s spend some more time together."
-    s abfccoa ""
+    s abfccoa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:502
 translate ptbr s_greeting_long_away_c0f63b48:
 
     # s cbaahca "[player]!"
-    s cbaahca ""
+    s cbaahca "[player]!"
 
 # game/dialogs/script-greetings.rpy:503
 translate ptbr s_greeting_long_away_8056d140:
 
     # s cbaaapa "You’re late!"
-    s cbaaapa ""
+    s cbaaapa "Você tá atrasado!"
 
 # game/dialogs/script-greetings.rpy:504
 translate ptbr s_greeting_long_away_9d32432f:
 
     # s cbbbaca "You said you’d only be a few days!"
-    s cbbbaca ""
+    s cbbbaca "Você falou que ficaria só uns dias!"
 
 # game/dialogs/script-greetings.rpy:505
 translate ptbr s_greeting_long_away_cbef4102:
 
     # s cbbbaha "And it’s been a whole week!"
-    s cbbbaha ""
+    s cbbbaha "Já faz uma semana {i}inteirinha{/i}!"
 
 # game/dialogs/script-greetings.rpy:506
 translate ptbr s_greeting_long_away_57406b4c:
 
     # s abgbcoa "Ehehehe, just kidding, [player]!"
-    s abgbcoa ""
+    s abgbcoa "Hehehe, tô brincando, [player]!"
 
 # game/dialogs/script-greetings.rpy:507
 translate ptbr s_greeting_long_away_30e9ce8c:
 
     # s bbhfaaa "I’m just glad to see you again."
-    s bbhfaaa ""
+    s bbhfaaa "Só tô feliz em te ver de novo."
 
 # game/dialogs/script-greetings.rpy:508
 translate ptbr s_greeting_long_away_082218b7:
 
     # s bbhfaoa "I understand if you find yourself a little busier than you expected to be from time to time."
-    s bbhfaoa ""
+    s bbhfaoa "Eu entendo que você pode estar um pouco mais ocupado que o normal de tempos em tempos."
 
 # game/dialogs/script-greetings.rpy:509
 translate ptbr s_greeting_long_away_c26e6ab9:
 
     # s cbaamc "Ugh!"
-    s cbaamc ""
+    s cbaamc "Ugh!"
 
 # game/dialogs/script-greetings.rpy:511
 translate ptbr s_greeting_long_away_fd25c8c8:
 
     # s cbaamp "Boys. Honestly."
-    s cbaamp ""
+    s cbaamp "Garotos. Honestamente."
 
 # game/dialogs/script-greetings.rpy:512
 translate ptbr s_greeting_long_away_7b04cfec:
 
     # s abgbcaa "Let’s spend some more time together."
-    s abgbcaa ""
+    s abgbcaa "Vamos passar mais um tempo juntos."
 
 # game/dialogs/script-greetings.rpy:514
 translate ptbr s_greeting_long_away_8f1a4cfc_1:
 
     # s abgccoa "Welcome back, [player]!"
-    s abgccoa ""
+    s abgccoa "Bem-vindo de volta, [player]!"
 
 # game/dialogs/script-greetings.rpy:515
 translate ptbr s_greeting_long_away_46311804_1:
 
     # s abgcaoa "I missed you!"
-    s abgcaoa ""
+    s abgcaoa "Eu senti falta sua!"
 
 # game/dialogs/script-greetings.rpy:516
 translate ptbr s_greeting_long_away_867a8ac8:
 
     # s abgccaa "Right on time too, ehehehe~"
-    s abgccaa ""
+    s abgccaa "Chegou na hora certa também, hehehe~"
 
 # game/dialogs/script-greetings.rpy:517
 translate ptbr s_greeting_long_away_8a6f5f38:
 
     # s abgcaaa "Let’s spend some more time together!"
-    s abgcaaa ""
+    s abgcaaa "Vamos passar mais um tempo juntinhos!"
 
 # game/dialogs/script-greetings.rpy:519
 translate ptbr s_greeting_long_away_03d9539a:
 
     # s abgcaoa "Oh, hi [player]!"
-    s abgcaoa ""
+    s abgcaoa "Ah, oi [player]!"
 
 # game/dialogs/script-greetings.rpy:520
 translate ptbr s_greeting_long_away_e276b0bb:
 
     # s abgcaaa "I wasn’t expecting to see you so soon!"
-    s abgcaaa ""
+    s abgcaaa "Não tava esperanndo te ver tão cedo!"
 
 # game/dialogs/script-greetings.rpy:521
 translate ptbr s_greeting_long_away_ddbd9e16:
 
     # s abfccaa "I’m glad you’re back though!"
-    s abfccaa ""
+    s abfccaa "Mesmo assim eu tô feliz que você voltou!"
 
 # game/dialogs/script-greetings.rpy:522
 translate ptbr s_greeting_long_away_856fd3d8:
 
     # s abfcaaa "Let’s spend some more time together."
-    s abfcaaa ""
+    s abfcaaa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:524
 translate ptbr s_greeting_long_away_83e15cb0:
 
     # s abfcaaa "Oh, hey [player]!"
-    s abfcaaa ""
+    s abfcaaa "Ah, ei [player!]"
 
 # game/dialogs/script-greetings.rpy:525
 translate ptbr s_greeting_long_away_38d165bf:
 
     # s bbfccoaj "Back so soon? Ehehehe~"
-    s bbfccoaj ""
+    s bbfccoaj "Tá de volta cedo assim? Hehehe~"
 
 # game/dialogs/script-greetings.rpy:526
 translate ptbr s_greeting_long_away_dea12259:
 
     # s abfcaoa "Well I’m not complaining!"
-    s abfcaoa ""
+    s abfcaoa "Bom, eu não tô reclamando!"
 
 # game/dialogs/script-greetings.rpy:527
 translate ptbr s_greeting_long_away_856fd3d8_1:
 
     # s abfcaaa "Let’s spend some more time together."
-    s abfcaaa ""
+    s abfcaaa "Vamos passar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:530
 translate ptbr s_greeting_long_away_d5dc317a:
 
     # s abfcaaa "Welcome back, [player]!"
-    s abfcaaa ""
+    s abfcaaa "Bem-vindo de volta, [player]!"
 
 # game/dialogs/script-greetings.rpy:531
 translate ptbr s_greeting_long_away_9e6a5bd3:
 
     # s bbfcaaa "Thanks for telling me how long you’d be out."
-    s bbfcaaa ""
+    s bbfcaaa "Obrigada por me dizer por quanto tempo você taria fora."
 
 # game/dialogs/script-greetings.rpy:532
 translate ptbr s_greeting_long_away_a78e83b4:
 
     # s abgccaa "I’m glad you’re back!"
-    s abgccaa ""
+    s abgccaa "Tô feliz que você voltou!"
 
 # game/dialogs/script-greetings.rpy:533
 translate ptbr s_greeting_long_away_e8f20a48:
 
     # s abgcaaa "Let’s spend some more time together."
-    s abgcaaa ""
+    s abgcaaa "Vamos passar mais tempo juntos."
 
 # game/dialogs/script-greetings.rpy:535
 translate ptbr s_greeting_long_away_b3b66116:
 
     # s abgccoa "[player]!"
-    s abgccoa ""
+    s abgccoa "[player]!"
 
 # game/dialogs/script-greetings.rpy:536
 translate ptbr s_greeting_long_away_9ecf534c:
 
     # s abgcmoaj "You’re a little early! Ehehehe~"
-    s abgcmoaj ""
+    s abgcmoaj "Você tá um pouquinho adiantado! Hehehe~"
 
 # game/dialogs/script-greetings.rpy:537
 translate ptbr s_greeting_long_away_c3e15099:
 
     # s abgcmoaj "But I’m not complaining!"
-    s abgcmoaj ""
+    s abgcmoaj "Mas eu não tô reclamando!"
 
 # game/dialogs/script-greetings.rpy:538
 translate ptbr s_greeting_long_away_836b1404:
 
     # s abfcaaa "I guess you didn’t expect to be gone for such a short time ehehehe~"
-    s abfcaaa ""
+    s abfcaaa "Eu acho que você não esperou ficar fora por tão pouco tempo, hehehe~"
 
 # game/dialogs/script-greetings.rpy:539
 translate ptbr s_greeting_long_away_f58972c5_1:
 
     # s abfccoa "Let’s spend some more time together."
-    s abfccoa ""
+    s abfccoa "Vamos pasar mais um tempinho juntos."
 
 # game/dialogs/script-greetings.rpy:541
 translate ptbr s_greeting_long_away_a43815bf:
 
     # s abgcaoa "Oh! Hi [player]!"
-    s abgcaoa ""
+    s abgcaoa "Ah! Oi [player]!"
 
 # game/dialogs/script-greetings.rpy:542
 translate ptbr s_greeting_long_away_75758a55:
 
     # s "I didn’t expect you to return so soon!"
-    s ""
+    s "Eu não esperava te ver voltar tão cedo!"
 
 # game/dialogs/script-greetings.rpy:543
 translate ptbr s_greeting_long_away_fc82aeb4:
 
     # s "But that’s fine by me! Ehehehe~"
-    s ""
+    s "Mas tá bom pra mim! Hehehe~"
 
 # game/dialogs/script-greetings.rpy:544
 translate ptbr s_greeting_long_away_e40b2bf8_1:
 
     # s abgccoa "Let’s spend some more time together."
-    s abgccoa ""
+    s abgccoa "Vamos passar mais um tempo juntos."
 
 # game/dialogs/script-greetings.rpy:546
 translate ptbr s_greeting_long_away_3e990e2d:
 
     # s abgchsa "Oh! [player]!"
-    s abgchsa ""
+    s abgchsa "Ah! [player]!"
 
 # game/dialogs/script-greetings.rpy:547
 translate ptbr s_greeting_long_away_edc648ec:
 
     # s bbgcaaa "I didn’t expect you to return so soon!"
-    s bbgcaaa ""
+    s bbgcaaa "Eu não tava esperando que você voltasse tão cedo!"
 
 # game/dialogs/script-greetings.rpy:548
 translate ptbr s_greeting_long_away_8fd27be6:
 
     # s bbgcmoaj "But I guess you didn’t either, ehehehe~"
-    s bbgcmoaj ""
+    s bbgcmoaj "Mas eu acho que você também não, hehehe~"
 
 # game/dialogs/script-greetings.rpy:549
 translate ptbr s_greeting_long_away_a0d89c25:
 
     # s abfcaaaj "Let’s spend some more time together."
-    s abfcaaaj ""
+    s abfcaaaj "Vamos passar mais um tempo juntinhos."
 
 # game/dialogs/script-greetings.rpy:569
 translate ptbr s_greeting_weather_1ceb30ad:
 
     # s abgbaoa "Hi again, [player]!"
-    s abgbaoa ""
+    s abgbaoa "Oi de novo, [player]!"
 
 # game/dialogs/script-greetings.rpy:570
 translate ptbr s_greeting_weather_f1f88b08:
 
     # s abgbcaa "Guess who’s been tinkering with the files again? {w=0.5}{nw}"
-    s abgbcaa ""
+    s abgbcaa "Advinha só que tava mexendo com os arquivos de novo? {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:571
 translate ptbr s_greeting_weather_c16a329c:
 
     # extend abgccoa "Me! Ehehehe~"
-    extend abgccoa ""
+    extend abgccoa "Eu! Hehehe~"
 
 # game/dialogs/script-greetings.rpy:572
 translate ptbr s_greeting_weather_655c2ae1:
 
     # s abgcaaa "Don’t worry though! {w=0.5}{nw}"
-    s abgcaaa ""
+    s abgcaaa "Mas não se preocupa! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:573
 translate ptbr s_greeting_weather_17fc8792:
 
     # extend abbcaoa "I haven’t broken anything!"
-    extend abbcaoa ""
+    extend abbcaoa "Eu não quebrei nada!"
 
 # game/dialogs/script-greetings.rpy:574
 translate ptbr s_greeting_weather_74b19f7d:
 
     # s abegbibj "Hopefully… ehehehe~"
-    s abegbibj ""
+    s abegbibj "Tomara... hehehe~"
 
 # game/dialogs/script-greetings.rpy:575
 translate ptbr s_greeting_weather_f9fa4794:
 
     # s abgbaoa "You know, the more time I spend here, {w=0.5}{nw}"
-    s abgbaoa ""
+    s abgbaoa "Sabe, quanto mais tempo eu fico aqui, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:576
 translate ptbr s_greeting_weather_c45fcc39:
 
     # extend abbbcaa "the more control I realise I have over the environment!"
-    extend abbbcaa ""
+    extend abbbcaa "mais controle eu percebo que eu tenho nesse lugar!"
 
 # game/dialogs/script-greetings.rpy:577
 translate ptbr s_greeting_weather_bbfd02db:
 
     # s abgcaoa "I found some files about weather, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Eu encontrei uns arquivos de clima, {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:578
 translate ptbr s_greeting_weather_ddfc7323:
 
     # extend abbccaa "and when I bring them to mind, the weather changes!"
-    extend abbccaa ""
+    extend abbccaa "e quando eu trago eles pra minha mente, o tempo muda!"
 
 # game/dialogs/script-greetings.rpy:579
 translate ptbr s_greeting_weather_0b263425:
 
     # s abgcaoa "I feel like a superhero! {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "Eu tô me sentindo uma super heroína! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:580
 translate ptbr s_greeting_weather_7537962d:
 
     # extend abgccaa "Ehehehe~"
-    extend abgccaa ""
+    extend abgccaa "Hehehe~"
 
 # game/dialogs/script-greetings.rpy:581
 translate ptbr s_greeting_weather_e52722dc:
 
     # s abgbaoa "Here, I’ll show you."
-    s abgbaoa ""
+    s abgbaoa "Aqui, vô te mostrar."
 
 # game/dialogs/script-greetings.rpy:582
 translate ptbr s_greeting_weather_7a3f5369:
 
     # s nbgblaa "Let’s say I wanted it to be sunny..."
-    s nbgblaa ""
+    s nbgblaa "Vamos dizer que eu quero que fique sol..."
 
 # game/dialogs/script-greetings.rpy:583
 translate ptbr s_greeting_weather_1a89d96b:
 
     # s gbgbloa "Aaaand... {w=0.5}{nw}"
-    s gbgbloa ""
+    s gbgbloa "Eeeee... {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:584
 translate ptbr s_greeting_weather_156a9ac5:
 
     # extend ebgcaea "Abracadabra!"
-    extend ebgcaea ""
+    extend ebgcaea "Abracadabra!"
 
 # game/dialogs/script-greetings.rpy:588
 translate ptbr s_greeting_weather_dfc61d78:
 
     # s ebgcbga "Wah! No that’s not right!"
-    s ebgcbga ""
+    s ebgcbga "Ué! Isso aí não tá certo!"
 
 # game/dialogs/script-greetings.rpy:589
 translate ptbr s_greeting_weather_e6d02bf1:
 
     # s gbgdbca "Which one was it again…"
-    s gbgdbca ""
+    s gbgdbca "Qual que era mesmo..."
 
 # game/dialogs/script-greetings.rpy:593
 translate ptbr s_greeting_weather_b3375ebd:
 
     # s ebgcega "Nope, no, that’s definitely not it either!"
-    s ebgcega ""
+    s ebgcega "Não, não, com certeza não é esse também!"
 
 # game/dialogs/script-greetings.rpy:597
 translate ptbr s_greeting_weather_c05c37c3:
 
     # s gbbbbca "I’ll just flick through them all! I’ll find it eventually!"
-    s gbbbbca ""
+    s gbbbbca "Eu só vô dar um scrollada neles todos! Uma hora eu acho!"
 
 # game/dialogs/script-greetings.rpy:607
 translate ptbr s_greeting_weather_82187cb0:
 
     # s ebgcega "Uwaaaa!"
-    s ebgcega ""
+    s ebgcega "Uwaaaaa!"
 
 # game/dialogs/script-greetings.rpy:614
 translate ptbr s_greeting_weather_1c4acf30:
 
     # s abfbaoa "There! At last!"
-    s abfbaoa ""
+    s abfbaoa "Aí! Esse último!"
 
 # game/dialogs/script-greetings.rpy:615
 translate ptbr s_greeting_weather_98a4d597:
 
     # s gbegbjbj "It was much easier when you weren’t looking…"
-    s gbegbjbj ""
+    s gbegbjbj "Tava muito mais fácil quando você não tava olhando..."
 
 # game/dialogs/script-greetings.rpy:616
 translate ptbr s_greeting_weather_a4164fb9:
 
     # s abgbcoa "Oh well, it’s sunny now anywho! I win!"
-    s abgbcoa ""
+    s abgbcoa "Bem, de jeito ou de outro tá sol agora! Ganhei!"
 
 # game/dialogs/script-greetings.rpy:617
 translate ptbr s_greeting_weather_971ad319:
 
     # s abegaabj "I do need to practise it a little more though… ehehehe~"
-    s abegaabj ""
+    s abegaabj "Mas eu {i}preciso{/i} praticar um pouquinho mais... hehehe~"
 
 # game/dialogs/script-greetings.rpy:618
 translate ptbr s_greeting_weather_135a89e9:
 
     # s abfccoa "So if you ever want me to change the weather, just ask!"
-    s abfccoa ""
+    s abfccoa "Então se você quiser que eu mude o tempo, só fala!"
 
 # game/dialogs/script-greetings.rpy:619
 translate ptbr s_greeting_weather_efa9095e:
 
     # s abbcaaa "I might get it right first time if you’re lucky! {w=0.5}{nw}"
-    s abbcaaa ""
+    s abbcaaa "Eu talvez consiga de primeira se você for sortudo! {w=0.5}{nw}"
 
 # game/dialogs/script-greetings.rpy:620
 translate ptbr s_greeting_weather_a4a61bc4:
 
     # extend abgccoa "Ehehehe~"
-    extend abgccoa ""
+    extend abgccoa "Hehehe~"
 
 translate ptbr strings:
 
     # game/dialogs/script-greetings.rpy:65
     old "Turn on the lights."
-    new ""
+    new "Ligar as luzes."
 
     # game/dialogs/script-greetings.rpy:301
     old "Call out for Sayori"
-    new ""
+    new "Chamar a Sayori"
 
     # game/dialogs/script-greetings.rpy:307
     old "Call out for Sayori again"
-    new ""
+    new "Chamar a Sayori de novo"
 

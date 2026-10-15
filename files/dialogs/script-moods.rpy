@@ -4,181 +4,181 @@
 translate ptbr s_mood_angry_8ce23526:
 
     # s bbaaaca "Awh, [player]."
-    s bbaaaca ""
+    s bbaaaca "Awh, [player]."
 
 # game/dialogs/script-moods.rpy:64
 translate ptbr s_mood_angry_46e2eab1:
 
     # s "I think you should try to breathe slowly, so you calm down a little bit."
-    s ""
+    s "Eu acho que você devia tentar respirar devagar, pra você se acalmar um pouco."
 
 # game/dialogs/script-moods.rpy:65
 translate ptbr s_mood_angry_518a7ce8:
 
     # s "I promise, no matter what's wrong, being angry won't solve the problem."
-    s ""
+    s "Eu prometo, não importa tiver de errado, ficar bravo não vai resolver o problema."
 
 # game/dialogs/script-moods.rpy:66
 translate ptbr s_mood_angry_babd80ba:
 
     # s bbaacoa "It's easy to make impulsive decisions when you're mad, so let's make sure not to do that first!"
-    s bbaacoa ""
+    s bbaacoa "E é fácil fazer decisões impulsivas quando você tá bravo, então vamos ter certeza de não fazer isso primeiro!"
 
 # game/dialogs/script-moods.rpy:67
 translate ptbr s_mood_angry_5cf8d136:
 
     # s "That way, you don't end up doing something you'll regret when you've calmed down."
-    s ""
+    s "Desse jeito, você não vai acabar fazendo algo que você vai se arrepender quando se acalmar."
 
 # game/dialogs/script-moods.rpy:68
 translate ptbr s_mood_angry_83164dc5:
 
     # s bbaacoa "Do you need to vent for a bit? I'm here for you if you need to."
-    s bbaacoa ""
+    s bbaacoa "Você precisa desabafar um pouquinho? Eu tô aqui pra você se precisar."
 
 # game/dialogs/script-moods.rpy:71
 translate ptbr s_mood_angry_419f3b90:
 
     # s abhfcoa "Alright, I'm listening."
-    s abhfcoa ""
+    s abhfcoa "Beleza, tô escutando."
 
 # game/dialogs/script-moods.rpy:73
 translate ptbr s_mood_angry_8d876043:
 
     # s "{w}"
-    s ""
+    s "{w}"
 
 # game/dialogs/script-moods.rpy:74
 translate ptbr s_mood_angry_bc6143d7:
 
     # s gbhabfa "Yeah, I can see why that would make you angry."
-    s gbhabfa ""
+    s gbhabfa "É, eu consigo ver por que isso te deixaria bravo."
 
 # game/dialogs/script-moods.rpy:75
 translate ptbr s_mood_angry_0abc36ee:
 
     # s bbhaica "I'm sorry that happened, [player]."
-    s bbhaica ""
+    s bbhaica "Sinto muito que isso aconteceu, [player]."
 
 # game/dialogs/script-moods.rpy:77
 translate ptbr s_mood_angry_d80d187b:
 
     # s bbaaaoa "That's alright, we can do something else."
-    s bbaaaoa ""
+    s bbaaaoa "Tudo bem, a gente pode fazer outra coisa."
 
 # game/dialogs/script-moods.rpy:78
 translate ptbr s_mood_angry_a372cc50:
 
     # s fbaalhaj "Hmmmm... Lemme think..."
-    s fbaalhaj ""
+    s fbaalhaj "Hmmmm... Deixa eu ver..."
 
 # game/dialogs/script-moods.rpy:80
 translate ptbr s_mood_angry_5a1adc3c:
 
     # s ebbcaea "Oh, I know! Do you want to play a game with me? It will help distract you from whatever is making you feel like this, even if just for a little while."
-    s ebbcaea ""
+    s ebbcaea "Ah, eu sei! Você quer jogar um jogo comigo? Vai te ajudar a se distrair do que estiver te deixando assim, mesmo que seja só por um pouco."
 
 # game/dialogs/script-moods.rpy:83
 translate ptbr s_mood_angry_b2e8c211:
 
     # s fbgciea "Alright, give me your best!"
-    s fbgciea ""
+    s fbgciea "Ok, me dá o seu melhor!"
 
 # game/dialogs/script-moods.rpy:86
 translate ptbr s_mood_angry_dc788912:
 
     # s abfcaca "Not in the mood? That's okay too."
-    s abfcaca ""
+    s abfcaca "Não tá no humor? Tá tudo bem também."
 
 # game/dialogs/script-moods.rpy:87
 translate ptbr s_mood_angry_5823aa0e:
 
     # s bbhfmoaj "In that case, I have one last suggestion, but it might sound a bit silly..."
-    s bbhfmoaj ""
+    s bbhfmoaj "Nesse caso, eu tenho uma última sugestão, mas isso pode soar meio bobo..."
 
 # game/dialogs/script-moods.rpy:88
 translate ptbr s_mood_angry_39ed9768:
 
     # s ebbbcoaj "Have you had the time to do one biiiiiig stretch today yet?"
-    s ebbbcoaj ""
+    s ebbbcoaj "Você já teve tempo de fazer um boooooom alongamento hoje?"
 
 # game/dialogs/script-moods.rpy:89
 translate ptbr s_mood_angry_9c7b5be9:
 
     # s fbgcipbj "Hey, I know it sounds silly, but it works!!!"
-    s fbgcipbj ""
+    s fbgcipbj "É, eu sei que parece bobo, mas funciona!!!"
 
 # game/dialogs/script-moods.rpy:90
 translate ptbr s_mood_angry_5e391b5d:
 
     # s ebgccaa "Try getting one of those good stretches that make all the right places pop~"
-    s ebgccaa ""
+    s ebgccaa "Tenta fazer um desses bom alongamentos que fazem todos os lugares certos estalarem"
 
 # game/dialogs/script-moods.rpy:91
 translate ptbr s_mood_angry_f261ad5b:
 
     # s gbgcmjaj "It really does help!"
-    s gbgcmjaj ""
+    s gbgcmjaj "E realmente ajuda!"
 
 # game/dialogs/script-moods.rpy:92
 translate ptbr s_mood_angry_89acd01d:
 
     # s bbhaaoa "I hope you're feeling a little better, [player]."
-    s bbhaaoa ""
+    s bbhaaoa "Eu espero que você esteja se sentindo um pouquinho melhor, [player]."
 
 # game/dialogs/script-moods.rpy:93
 translate ptbr s_mood_angry_53b2c98b:
 
     # s ebhacoa "Remember, you can always come talk to me."
-    s ebhacoa ""
+    s ebhacoa "Lembra, você sempre pode falar comigo."
 
 # game/dialogs/script-moods.rpy:110
 translate ptbr s_mood_hungry_742d2309:
 
     # s bbfcaa "Aw… Well, I wish I could give you a cookie right now!"
-    s bbfcaa ""
+    s bbfcaa "Aw... Bem, eu queria poder te dar um biscoitinho agora!"
 
 # game/dialogs/script-moods.rpy:111
 translate ptbr s_mood_hungry_8841104a:
 
     # s bbhemma "I'm sure it would be super tasty, ehehe!"
-    s bbhemma ""
+    s bbhemma "Eu tenho certeza que seria {i}super{/i} saboroso, hehehe!"
 
 # game/dialogs/script-moods.rpy:112
 translate ptbr s_mood_hungry_9b230d72:
 
     # s bbfdmoaj "Though…{nw} "
-    s bbfdmoaj ""
+    s bbfdmoaj "Mas...{nw}"
 
 # game/dialogs/script-moods.rpy:113
 translate ptbr s_mood_hungry_366b8343:
 
     # extend bbfcaaa "That wouldn’t be a very good meal now, would it?{w=1.5}{nw}"
-    extend bbfcaaa ""
+    extend bbfcaaa "Não seria uma refeição muito boa agora, né?{w=1.5}{nw}"
 
 # game/dialogs/script-moods.rpy:114
 translate ptbr s_mood_hungry_d6614f15:
 
     # extend bbfcmoa " Sorry, ehehehe~"
-    extend bbfcmoa ""
+    extend bbfcmoa " Desculpa, hehehe~"
 
 # game/dialogs/script-moods.rpy:115
 translate ptbr s_mood_hungry_f579b820:
 
     # s abhfaaa "You should go eat something, [player]."
-    s abhfaaa ""
+    s abhfaaa "Você devia ir comer alguma coisa, [player]."
 
 # game/dialogs/script-moods.rpy:116
 translate ptbr s_mood_hungry_c4c73a84:
 
     # s abbcaaa "If you have to cook something yourself, I can wait till you're done!"
-    s abbcaaa ""
+    s abbcaaa "Se você tiver que cozinhar alguma coisa você mesmo, eu posso esperar até você acabar!"
 
 # game/dialogs/script-moods.rpy:117
 translate ptbr s_mood_hungry_4dfec68c:
 
     # s abfcaca "After all, skipping meals is a bad idea!"
-    s abfcaca ""
+    s abfcaca "Afinal, pular refeição é uma ideia horrível!"
 
 # game/dialogs/script-moods.rpy:118
 translate ptbr s_mood_hungry_99bf3106:
