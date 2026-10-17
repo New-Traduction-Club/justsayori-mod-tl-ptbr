@@ -10,7 +10,7 @@ translate ptbr mg_bnc_5fa563ba:
 translate ptbr mg_bnc_s_comment_fd0b0449:
 
     # s abaaaoa "I propose you a number of [bnc.guessed_len] digits..."
-    s abaaaoa "Eu te dou um número de [bnc.guessed_ten] dígitos..."
+    s abaaaoa "Te dou um número de [bnc.guessed_ten] dígitos..."
 
 # game/additional/mg_bnc.rpy:141
 translate ptbr mg_bnc_s_comment_f1211275:
@@ -70,7 +70,7 @@ translate ptbr mg_bnc_s_comment_4f687ab2:
 translate ptbr mg_bnc_s_comment_05bb0885:
 
     # s gbaaipa "OK, you win, {i}meanie{/i}!"
-    s gbaaipa "OK, você ganhou, seu {i}chato{/i}!"
+    s gbaaipa "Tá, você ganhou, seu {i}chato{/i}!"
 
 # game/additional/mg_bnc.rpy:160
 translate ptbr mg_bnc_s_comment_20dca1e6:
@@ -126,7 +126,7 @@ translate ptbr strings:
 
     # game/additional/mg_bnc.rpy:98
     old "Wrong length! Your answer should consist of [bnc.guessed_len] different digits."
-    new "Tamanho errado! A sua resposta deve consistir de [bnc.guessed_len] dígitos diferentes."
+    new "Tamanho errado! A sua resposta tem que ser de [bnc.guessed_len] dígitos diferentes."
 
     # game/additional/mg_bnc.rpy:102
     old "It stops being funny, [player]."
@@ -138,7 +138,7 @@ translate ptbr strings:
 
     # game/additional/mg_bnc.rpy:108
     old "Just type as more numbers as you can. This field has the needed max length anyway."
-    new "Só digita quantos números você conseguir. Esse campo tem o tamanho máximo necessário, de qualquer forma."
+    new "Só digita quantos números você conseguir. Esse campo tem o tamanho máximo necessário mesmo."
 
     # game/additional/mg_bnc.rpy:112
     old "I'm getting annoyed, [player]."

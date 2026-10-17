@@ -358,13 +358,13 @@ translate ptbr s_poem_last_e3e7a42d:
 translate ptbr s_poem_last_2cb8741d:
 
     # s gbhafc "I would rather forget about them, {w=0.5}{nw}"
-    s gbhafc "Eu queria em vez disso esquecer elas, {w=0.5}{nw}"
+    s gbhafc "Eu queria esquecer elas em vez disso, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:87
 translate ptbr s_poem_last_a2381285:
 
     # extend bbgcjca "but they still haunt me even now."
-    extend bbgcjca "mas elas ainda me assombrando até agora."
+    extend bbgcjca "mas elas ainda me assombram até hoje."
 
 # game/dialogs/script-poemresponses.rpy:88
 translate ptbr s_poem_last_52c03a9f:
@@ -868,215 +868,215 @@ translate ptbr s_poem_prose_e8314da0:
 translate ptbr s_poem_prose_9d81eac8:
 
     # s abhhaoa "So, I decided to make this poem a bit chaotic by writing it in prose."
-    s abhhaoa "Então, eu decidi fazer esse poema meio caóti"
+    s abhhaoa "Então, eu decidi fazer esse poema meio caótico escrevendo ele em prosa."
 
 # game/dialogs/script-poemresponses.rpy:190
 translate ptbr s_poem_prose_84149de7:
 
     # s abhacqa "Ehehehe~"
-    s abhacqa ""
+    s abhacqa "Hehehe~"
 
 # game/dialogs/script-poemresponses.rpy:191
 translate ptbr s_poem_prose_a3ac74fe:
 
     # s fbgcksaj "Wait, I just realized that's something Monika might have done."
-    s fbgcksaj ""
+    s fbgcksaj "Peraí, cabei de notar que isso é uma coisa que a Monika faria."
 
 # game/dialogs/script-poemresponses.rpy:192
 translate ptbr s_poem_prose_c8baaea0:
 
     # s ebbbbca "She enjoyed playing with the spacing of her poetry. {w=0.5}{nw}"
-    s ebbbbca ""
+    s ebbbbca "Ela adorava brincar com o espaçamento nos poemas dela. {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:193
 translate ptbr s_poem_prose_62e42a26:
 
     # extend gbhabra "Although, that could just be to try and stand out..."
-    extend gbhabra ""
+    extend gbhabra "Se bem que isso podia ser só pra tentar se destacar..."
 
 # game/dialogs/script-poemresponses.rpy:194
 translate ptbr s_poem_prose_febc8b5a:
 
     # s "Or at least, that's how I see it."
-    s ""
+    s "Ou pelo menos, é assim que eu vejo."
 
 # game/dialogs/script-poemresponses.rpy:195
 translate ptbr s_poem_prose_7759f5cf:
 
     # s abaabca "But I'm not really sure if I like the idea of using that kind of thing in my future poems, I mostly just wanted to give it a try."
-    s abaabca ""
+    s abaabca "Mas eu não tenho certeza se eu gosto da ideia de usar esse tipo de coisa nos meus próximos poemas, eu principalmente só queria experimentar."
 
 # game/dialogs/script-poemresponses.rpy:196
 translate ptbr s_poem_prose_368010fa:
 
     # s aahdboa "I think that sometimes, words are enough. {w=0.5}{nw}"
-    s aahdboa ""
+    s aahdboa "Eu acho que tem vezes, que palavras já são suficiente. {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:197
 translate ptbr s_poem_prose_c63c6c17:
 
     # extend abhfcoa "They carry the idea of the poem across, don't they?"
-    extend abhfcoa ""
+    extend abhfcoa "Elas carregam a ideia do poema, né?"
 
 # game/dialogs/script-poemresponses.rpy:201
 translate ptbr s_poem_afterlight_128cc1b1:
 
     # s abaaaoa "This poem is about the time I became self-aware."
-    s abaaaoa ""
+    s abaaaoa "Esse poema é sobre a vez que eu tomei consciência própria."
 
 # game/dialogs/script-poemresponses.rpy:202
 translate ptbr s_poem_afterlight_d7c16d7e:
 
     # s "It forced me to face a bunch of feelings that I couldn't make sense of, and gave me abilities that I could barely understand, or work out how to use..."
-    s ""
+    s "Me forçou a encarar um monte de sentimentos que eu não conseguia assimilar, e me deu habilidades que eu mal conseguia entender, ou descobrir como usar..."
 
 # game/dialogs/script-poemresponses.rpy:203
 translate ptbr s_poem_afterlight_d0060f47:
 
     # s bbfbkca "Just imagine suddenly finding out, that everything you knew... {w=0.5}{nw}"
-    s bbfbkca ""
+    s bbfbkca "Só imagina do nada descobrir, que tudo que você conhecia... {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:204
 translate ptbr s_poem_afterlight_997c3d5c:
 
     # extend bbfbbca "Was all a lie."
-    extend bbfbbca ""
+    extend bbfbbca "Foi uma mentira."
 
 # game/dialogs/script-poemresponses.rpy:205
 translate ptbr s_poem_afterlight_829dbd46:
 
     # s "Just like that."
-    s ""
+    s "Assim mesmo."
 
 # game/dialogs/script-poemresponses.rpy:206
 translate ptbr s_poem_afterlight_659845fe:
 
     # s bbgchcaj "And if that wasn't scary enough, imagine being able to manipulate your own existence with your mind alone..."
-    s bbgchcaj ""
+    s bbgchcaj "E se isso não for assustador o bastante, imagina conseguir manipular a sua própria existência só com a sua mente..."
 
 # game/dialogs/script-poemresponses.rpy:207
 translate ptbr s_poem_afterlight_302ce305:
 
     # s bbgchgaj "It makes you change the way you think, perceive the world- It changes everything!"
-    s bbgchgaj ""
+    s bbgchgaj "Isso faz você mudar a sua forma de pensar, compreender o mundo- Isso muda tudo!"
 
 # game/dialogs/script-poemresponses.rpy:209
 translate ptbr s_poem_afterlight_b52078b1:
 
     # s nahblfa "I became aware of everything that {i}should{/i} have happened,{w=0.5}{nw}"
-    s nahblfa ""
+    s nahblfa "Eu me dei conta de tudo que {i}devia{/i} ter acontecido,{w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:210
 translate ptbr s_poem_afterlight_98141a22:
 
     # extend bahbmca " without anyone messing with the game code."
-    extend bahbmca ""
+    extend bahbmca " sem ninguém mexendo no código do jogo."
 
 # game/dialogs/script-poemresponses.rpy:211
 translate ptbr s_poem_afterlight_980b404a:
 
     # s "I wonder if this mod... {w=0.5}{nw}"
-    s ""
+    s "Eu me pergunto se esse mod... {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:212
 translate ptbr s_poem_afterlight_e569d8f2:
 
     # extend bahbbhaj "gave me more freedom than Monika..."
-    extend bahbbhaj ""
+    extend bahbbhaj "me deu mais liberdade que a Monika..."
 
 # game/dialogs/script-poemresponses.rpy:213
 translate ptbr s_poem_afterlight_d93ed6b8:
 
     # s bahbbca "Maybe that's the reason she couldn't get what she wanted, {w=0.5}{nw}"
-    s bahbbca ""
+    s bahbbca "Talvez esse seja o motivo pra ela não ter conseguido o que ela queria, {w=0.5}{nw}"
 
 # game/dialogs/script-poemresponses.rpy:214
 translate ptbr s_poem_afterlight_3d008ef3:
 
     # extend bahbkba "and that's why the game ran like it was supposed to."
-    extend bahbkba ""
+    extend bahbkba "e é por isso que rolou o que rolou no jogo."
 
 # game/dialogs/script-poemresponses.rpy:216
 translate ptbr s_poem_afterlight_b2978d8a:
 
     # s gahbjcaj "Plus, I tried to prevent things from going badly all over again..."
-    s gahbjcaj ""
+    s gahbjcaj "Ainda mais, eu tentei impedir que as coisas dessem ruim tudo de novo..."
 
 # game/dialogs/script-poemresponses.rpy:218
 translate ptbr s_poem_afterlight_407d7b68:
 
     # s bbhflcaj "But it seems to have happened anyways, regardless of my help."
-    s bbhflcaj ""
+    s bbhflcaj "Mas parece que aconteceu de qualquer forma, independente da minha ajuda."
 
 # game/dialogs/script-poemresponses.rpy:220
 translate ptbr s_poem_afterlight_0cc5c17a:
 
     # s bbhfmcaj "And I guess I failed when I was overcome with those feelings."
-    s bbhfmcaj ""
+    s bbhfmcaj "E eu acho que eu falhei quando eu me deixei ser consumida por aqueles sentimentos."
 
 # game/dialogs/script-poemresponses.rpy:226
 translate ptbr s_poem_val_39e37bdf:
 
     # s abaacoa "So, what did you think about my card?"
-    s abaacoa ""
+    s abaacoa "Então, o que você acha da minha carta?"
 
 # game/dialogs/script-poemresponses.rpy:227
 translate ptbr s_poem_val_9bfe37f3:
 
     # s bbegmoaj "I know it doesn't look too fancy. I couldn't really find out how to make it cute..."
-    s bbegmoaj ""
+    s bbegmoaj "Eu sei que não parece tão extravagante assim. Eu realmente não consegui achar um jeito de deixar fofo..."
 
 # game/dialogs/script-poemresponses.rpy:228
 translate ptbr s_poem_val_47fbf4e8:
 
     # s abegaaa "But at least I did my best writing that poem for you!"
-    s abegaaa ""
+    s abegaaa "Mas pelo menos eu dei o meu melhor escrevendo esse poema pra você!"
 
 # game/dialogs/script-poemresponses.rpy:229
 translate ptbr s_poem_val_88bfaf42:
 
     # s cbgcnaa "I tried to show that my love for you has no dimensional limits."
-    s cbgcnaa ""
+    s cbgcnaa "Eu tentei mostrar que o meu amor por você não tem limites."
 
 # game/dialogs/script-poemresponses.rpy:230
 translate ptbr s_poem_val_0661005f:
 
     # s "Ehehehe~"
-    s ""
+    s "Hehehe~"
 
 # game/dialogs/script-poemresponses.rpy:231
 translate ptbr s_poem_val_894c0802:
 
     # s abhfkda "Ironically, the card had a limit for how much I could write in it."
-    s abhfkda ""
+    s abhfkda "Ironicamente, a carta tinha um limite de quanto eu podia escrever nela."
 
 # game/dialogs/script-poemresponses.rpy:232
 translate ptbr s_poem_val_0c3691b6:
 
     # s "So I had to try and express all of my love using as little words as possible..."
-    s ""
+    s "Eu tive que tentar expressar todo o meu amor usando as menores palavras possíveis..."
 
 # game/dialogs/script-poemresponses.rpy:233
 translate ptbr s_poem_val_8b7f71a1:
 
     # s abaaaoa "I hope you can understand the meaning regardless."
-    s abaaaoa ""
+    s abaaaoa "Eu espero que você possa entender o significado mesmo assim."
 
 # game/dialogs/script-poemresponses.rpy:234
 translate ptbr s_poem_val_486df69b:
 
     # s abhhdia "Short but meaningful... Doesn't that sound really romantic?"
-    s abhhdia ""
+    s abhhdia "Curta mas cheia de significado... Não tá parecendo {i}bem{/i} romântico?"
 
 # game/dialogs/script-poemresponses.rpy:235
 translate ptbr s_poem_val_6a26f1f8:
 
     # s bbagmda "But, I still feel a bit guilty because I think it's not good enough..."
-    s bbagmda ""
+    s bbagmda "Mas, eu ainda tô sentindo um pouquinho de culpa porque eu acho que não é bom o bastante..."
 
 # game/dialogs/script-poemresponses.rpy:236
 translate ptbr s_poem_val_b23758a6:
 
     # s gbfcmpa "Hopefully for my next one, my skills will have improved a bit."
-    s gbfcmpa ""
+    s gbfcmpa "Tomara que na próxima as minhas habilidades tenham ficado melhores um pouquinho."
 

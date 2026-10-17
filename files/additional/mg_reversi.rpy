@@ -46,7 +46,7 @@ translate ptbr mg_reversi_s_comment_29120090:
 translate ptbr mg_reversi_s_comment_9127f8d0:
 
     # s abagiia "You'll just have to watch out for my ultra smart moves~."
-    s abagiia "Você só vai precisar tomar cuidado com as minhas jogadas ultra espertas~."
+    s abagiia "Você só vai precisar tomar cuidado com as minhas jogadas ultra inteligentes~."
 
 # game/additional/mg_reversi.rpy:447
 translate ptbr mg_reversi_s_comment_23af0413:

@@ -22,7 +22,7 @@ translate ptbr mg_ttt_s_comment_cf3eef3c:
 translate ptbr mg_ttt_s_comment_6d99833d:
 
     # s 2a "Just work on your tactics and try again."
-    s 2a "Só trabalha nas suas táticas e tenta de novo."
+    s 2a "Só melhora as suas táticas e tenta de novo."
 
 # game/additional/mg_ttt.rpy:219
 translate ptbr mg_ttt_s_comment_3e81d1f2:
@@ -46,13 +46,13 @@ translate ptbr mg_ttt_s_comment_c9e6c07d:
 translate ptbr mg_ttt_s_comment_63b23100:
 
     # s 5a "Next time I'll be more crafty."
-    s 5a "Na próxima eu vou ser mais malandra."
+    s 5a "Da próxima vez eu vou ser mais malandra."
 
 # game/additional/mg_ttt.rpy:227
 translate ptbr mg_ttt_s_comment_a68f46ca:
 
     # s 1n "Oh, you've just got three in a row."
-    s 1n "Ah, você conseguiu três em seguida."
+    s 1n "Ah, você conseguiu três seguidas."
 
 # game/additional/mg_ttt.rpy:228
 translate ptbr mg_ttt_s_comment_3e22e250:
@@ -70,7 +70,7 @@ translate ptbr mg_ttt_s_comment_532a0df9:
 translate ptbr mg_ttt_s_comment_05b487b6:
 
     # s 1k "Oh, the board is full."
-    s 1k "Ah, o tabuleiro tá cheio."
+    s 1k "Ah, o tabuleiro ficou cheio."
 
 # game/additional/mg_ttt.rpy:234
 translate ptbr mg_ttt_s_comment_ece20f36:
@@ -94,7 +94,7 @@ translate ptbr mg_ttt_s_comment_2ab8610c:
 translate ptbr mg_ttt_s_comment_74ea3341:
 
     # s "Tic-Tac-Toe games often end up in a draw."
-    s "Partidas de Jogo da Velha frequentemente terminam em velha."
+    s "Partidas de Jogo da Velha muitas vezes terminam em velha."
 
 # game/additional/mg_ttt.rpy:239
 translate ptbr mg_ttt_s_comment_aa3ca34f:

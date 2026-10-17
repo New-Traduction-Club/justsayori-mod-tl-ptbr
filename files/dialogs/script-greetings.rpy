@@ -532,7 +532,7 @@ translate ptbr s_greeting_french_020383d0:
 translate ptbr s_greeting_french_60f223f3:
 
     # s abhfaaa "Do you speak any other languages, [player]?"
-    s abhfaaa "Você fala outras línguas, [player]?
+    s abhfaaa "Você fala outras línguas, [player]?"
 
 # game/dialogs/script-greetings.rpy:392
 translate ptbr s_greeting_french_b297d864:
