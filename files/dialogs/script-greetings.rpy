@@ -316,7 +316,7 @@ translate ptbr s_greeting_8_d43d1c5d:
 translate ptbr s_greeting_8_8f61a4d0:
 
     # s abfdcqa "I'll get you some right now then, ehehehe~"
-    s abfdcqa "Eu vou pegar um pouquinho pra você agora então, hehehe~"
+    s abfdcqa "Eu vou te dar um pouquinho pra você agora então, hehehe~"
 
 # game/dialogs/script-greetings.rpy:303
 translate ptbr s_return_long_absence_a371d223:
@@ -394,7 +394,7 @@ translate ptbr s_return_long_absence_f8fb1083:
 translate ptbr s_return_long_absence_469ac58f:
 
     # s abhaloa "That was a nice nap and all..."
-    s abhaloa "Foi uma bonequinha ótima e tals..."
+    s abhaloa "Foi uma sonequinha ótima e tals..."
 
 # game/dialogs/script-greetings.rpy:337
 translate ptbr s_return_long_absence_07dfba3b:

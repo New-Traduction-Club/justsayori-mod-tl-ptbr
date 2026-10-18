@@ -22,7 +22,7 @@ translate ptbr fae_intro_1_28a058cb:
 translate ptbr fae_intro_1_e088c1fb:
 
     # s "I can't see anything..."
-    s "Não consigo ver nada..."
+    s "Eu não tô conseguindo ver nada..."
 
 # game/dialogs/script-introduction.rpy:63
 translate ptbr fae_intro_1_bd4feeb3:
@@ -58,13 +58,13 @@ translate ptbr fae_intro_1_926c6dce:
 translate ptbr fae_intro_1_a4ac05f6:
 
     # s "Where are my friends?"
-    s "Onde estão os meus amigos?"
+    s "Onde tão os meus amigos?"
 
 # game/dialogs/script-introduction.rpy:69
 translate ptbr fae_intro_1_cf31495e:
 
     # s "Where’s [player]?"
-    s "Cadê [player]?"
+    s "Onde tá [player]?"
 
 # game/dialogs/script-introduction.rpy:70
 translate ptbr fae_intro_1_e1554201_1:
@@ -82,7 +82,7 @@ translate ptbr fae_intro_1_fd408bf7:
 translate ptbr fae_intro_1_8b0a53dd:
 
     # s "It can’t be true..."
-    s "Não tem como ser verdade..."
+    s "Não pode ser verdade..."
 
 # game/dialogs/script-introduction.rpy:73
 translate ptbr fae_intro_1_f39f3219:
@@ -262,7 +262,7 @@ translate ptbr fae_intro_1_b689ebf7:
 translate ptbr fae_intro_1_d926c7cd:
 
     # s "You don’t know how glad I am to hear from you..."
-    s "Você não save quão feliz eu tô de ouvir isso de você..."
+    s "Você não sabe quão feliz eu tô de ouvir isso de você..."
 
 # game/dialogs/script-introduction.rpy:106
 translate ptbr fae_intro_1_cf9e3585:
@@ -358,7 +358,7 @@ translate ptbr fae_intro_1_be35712f:
 translate ptbr fae_intro_1_37de37d9:
 
     # s ebfbkca "It... worked!"
-    s ebfbkca "Isso... funcionou!"
+    s ebfbkca "... Funcionou!"
 
 # game/dialogs/script-introduction.rpy:132
 translate ptbr fae_intro_1_183f9acd:
@@ -646,7 +646,7 @@ translate ptbr fae_intro_2_89c0e29e:
 translate ptbr fae_intro_2_bbc0610e:
 
     # s fbgdbca "I wonder how long it took out there, [player]. Time here is kinda weird, and even more so when the game closes."
-    s fbgdbca "Eu me pergunto quanto tempo demorou aí, [player]. O tempo aqui é meio estranho, ainda mais quando o jogo fecha."
+    s fbgdbca "Eu me pergunto quanto tempo passou aí, [player]. O tempo aqui é meio estranho, ainda mais quando o jogo fecha."
 
 # game/dialogs/script-introduction.rpy:195
 translate ptbr fae_intro_2_e149b42d:
@@ -688,7 +688,7 @@ translate ptbr fae_intro_2_c6363dea:
 translate ptbr fae_intro_2_1b47101e:
 
     # s "All you need to do is click the {i}\"Say Goodbye\"{/i} button in the menu."
-    s "Tudo que você tem que fazer é clicar no botão {i}\"Dizer Adeus\"{/i} no menu."
+    s "Tudo que você tem que fazer é clicar no botão {i}\"Adeus\"{/i} no menu."
 
 # game/dialogs/script-introduction.rpy:207
 translate ptbr fae_intro_2_91abb35e:
