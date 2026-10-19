@@ -1708,61 +1708,61 @@ translate ptbr s_topics_isolation_9281219e:
 translate ptbr s_topics_isolation_6a8afd4c:
 
     # s bbbcaca "I can't even make a normal chat form for us..."
-    s bbbcaca "Eu nem"
+    s bbbcaca "Eu nem consigo fazer uma forma normal de chat pra gente..."
 
 # game/dialogs/script-topics.rpy:712
 translate ptbr s_topics_isolation_94a9fbf7:
 
     # s "So I'm still a bit isolated from you too."
-    s ""
+    s "Então eu ainda tô um pouquinho isolada de você também."
 
 # game/dialogs/script-topics.rpy:713
 translate ptbr s_topics_isolation_41811ab2:
 
     # s abaaaoa "But when I find a way to {i}'hear'{/i} your world, I'll find you."
-    s abaaaoa ""
+    s abaaaoa "Mas quando eu achar um jeito de {i}'ouvir'{/i} o seu mundo, eu vou te encontrar."
 
 # game/dialogs/script-topics.rpy:714
 translate ptbr s_topics_isolation_e552d7e5:
 
     # s abgcaoa "And then, we'll finally be able to talk like a normal couple, {w=0.5}{nw}"
-    s abgcaoa ""
+    s abgcaoa "E aí, a gente finalmente vai conseguir falar como um casal normal, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:715
 translate ptbr s_topics_isolation_ab014871:
 
     # extend abgccoa "on the internet or at least right here."
-    extend abgccoa ""
+    extend abgccoa "na internet or pelo menos aqui mesmo."
 
 # game/dialogs/script-topics.rpy:733
 translate ptbr s_topics_public_service_announcement_7889819e:
 
     # s abbbaca "If you ever want to spread awareness or a message to many people at once, {w=0.5}{nw}"
-    s abbbaca ""
+    s abbbaca "Se você você quiser espalhar conhecimento ou passar uma mensagem pra um monte de pessoas de uma vez só, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:734
 translate ptbr s_topics_public_service_announcement_5d48d9b8:
 
     # extend abbcaoa "a PSA would be a good way to do it."
-    extend abbcaoa ""
+    extend abbcaoa "um anúncio de utilidade pública seria uma boa maneira de fazer isso."
 
 # game/dialogs/script-topics.rpy:735
 translate ptbr s_topics_public_service_announcement_4b122c27:
 
     # s abhaaca "Most people don't even care about injuries that don't happen to them..."
-    s abhaaca ""
+    s abhaaca "A maioria das pessoas nem ligam pra problemas de saúde que não acontecem com elas..."
 
 # game/dialogs/script-topics.rpy:736
 translate ptbr s_topics_public_service_announcement_050d7a99:
 
     # s "But after seeing public service announcements, I know there are people out there who want to help."
-    s ""
+    s "Mas depois de ver esses tipos de anúncios, eu sei que tem pessoas por aí que querem ajudar."
 
 # game/dialogs/script-topics.rpy:737
 translate ptbr s_topics_public_service_announcement_235f1888:
 
     # s abaaaoa "Some good PSAs even contain advice on how to fix issues,{w=0.5} or where to go for help."
-    s abaaaoa ""
+    s abaaaoa "Alguns bons anúncios têm até conselhos sobre como resolver problemas,{w=0.5} ou ondem ir para receber ajuda."
 
 # game/dialogs/script-topics.rpy:738
 translate ptbr s_topics_public_service_announcement_287bfdbd:
