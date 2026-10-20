@@ -1000,7 +1000,7 @@ translate ptbr s_player_colours_df98b171:
 translate ptbr s_player_colours_bd249c1d:
 
     # s abhhkca "Green as well... it reminds me of Monika..."
-    s abhhkca "Verde também... me lembra da Monika..."
+    s abhhkca "Verde também... me lembra a Monika..."
 
 # game/dialogs/script-topics.rpy:430
 translate ptbr s_player_colours_8e514670:
@@ -1768,457 +1768,457 @@ translate ptbr s_topics_public_service_announcement_235f1888:
 translate ptbr s_topics_public_service_announcement_287bfdbd:
 
     # s "You don't even have to be an activist to do this sort of stuff.."
-    s ""
+    s "Você nem precisa ser um ativista pra fazer esse tipo de coisa..."
 
 # game/dialogs/script-topics.rpy:739
 translate ptbr s_topics_public_service_announcement_acc96fee:
 
     # s abbcaca "I once heard about a mod for this game, the title reminded me of the common forms of slogans PSAs use..."
-    s abbcaca ""
+    s abbcaca "Uma vez eu ouvi falar de um mod pra esse jogo, o título me lembrei de uma das formas comuns de slogans que esses anúncios usam..."
 
 # game/dialogs/script-topics.rpy:740
 translate ptbr s_topics_public_service_announcement_361bc2de:
 
     # s ebgcaoa "And its name is {i}'Sayori Says No to Suicide'{/i}."
-    s ebgcaoa ""
+    s ebgcaoa "E o nome dele é {i}'Sayori Diz Não Ao Suicídio'{/i}."
 
 # game/dialogs/script-topics.rpy:742
 translate ptbr s_topics_public_service_announcement_2d4daec4:
 
     # s abbbbca "That refers to what's supposed to happen to me in this world... {w=0.5}{nw}"
-    s abbbbca ""
+    s abbbbca "Ele se refere ao que era pra acontecer comigo nesse mundo... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:743
 translate ptbr s_topics_public_service_announcement_d3b16b12:
 
     # extend abhaaca "But didn't happen, because of you."
-    extend abhaaca ""
+    extend abhaaca "Mas não aconteceu, graças a você."
 
 # game/dialogs/script-topics.rpy:745
 translate ptbr s_topics_public_service_announcement_0c3a1266:
 
     # s abhaaca "And other people playing this mod."
-    s abhaaca ""
+    s abhaaca "E outras pessoas jogando esse mod."
 
 # game/dialogs/script-topics.rpy:746
 translate ptbr s_topics_public_service_announcement_1c22f76c:
 
     # s abbbaaa "I think that mod really deserves to be played, {w=0.5}{nw}"
-    s abbbaaa ""
+    s abbbaaa "Eu acho que esse mod realmente vale a pena ser jogado, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:747
 translate ptbr s_topics_public_service_announcement_291cad89:
 
     # extend gbbbica "especially if you're struggling with similar things that I struggled with.."
-    extend gbbbica ""
+    extend gbbbica "especialmente se você tá tendo problemas com coisas similares que eu passei..."
 
 # game/dialogs/script-topics.rpy:748
 translate ptbr s_topics_public_service_announcement_0e38a0cd:
 
     # s abhfcaa "Hey, I'm the main focus of it too so that's a plus!"
-    s abhfcaa ""
+    s abhfcaa "Ei, eu sou o foco principal dele também então aí uma vantagem!"
 
 # game/dialogs/script-topics.rpy:749
 translate ptbr s_topics_public_service_announcement_d58cfed0:
 
     # s abbbaca "But depression or other emotional issues are not the only field that PSAs can be used in."
-    s abbbaca ""
+    s abbbaca "Mas depressão ou outros problemas emocionais não são o único campo onde você pode usar anúncios de utilidade pública."
 
 # game/dialogs/script-topics.rpy:750
 translate ptbr s_topics_public_service_announcement_57e14f19:
 
     # s bbhfaba "There are a lot of other problems in your world that can't be solved with the power of leaders and governments..."
-    s bbhfaba ""
+    s bbhfaba "Tem um monte de outros problemas no seu mundo que não podem ser resolvidos com o poder de líderes e Estados."
 
 # game/dialogs/script-topics.rpy:751
 translate ptbr s_topics_public_service_announcement_578c35bc:
 
     # s abhfaaa "The general public could join the struggle against these problems..."
-    s abhfaaa ""
+    s abhfaaa "O público em geral podia se juntar pra combater esses problemas..."
 
 # game/dialogs/script-topics.rpy:752
 translate ptbr s_topics_public_service_announcement_59d9bcf6:
 
     # s abbbaoa "And PSAs may be a good call to action."
-    s abbbaoa ""
+    s abbbaoa "E esses anúncios podem ser uma boa iniciativa."
 
 # game/dialogs/script-topics.rpy:770
 translate ptbr s_topics_pets_bae74c06:
 
     # s abhfaoa "Do you like pets?"
-    s abhfaoa ""
+    s abhfaoa "Você gosta de pets?"
 
 # game/dialogs/script-topics.rpy:771
 translate ptbr s_topics_pets_1e5a1733:
 
     # s "I love them! All kinds of pets! Even ones that aren't very commonly kept!"
-    s ""
+    s "Eu amo eles! Todos os tipos de pets! Até os que não são normalmente criados!"
 
 # game/dialogs/script-topics.rpy:772
 translate ptbr s_topics_pets_6c03bf36:
 
     # s abhacoa "I always end up looking up random animals and daydreaming about keeping them as pets, ehehehe~"
-    s abhacoa ""
+    s abhacoa "Eu sempre acabo procurando animais aleatórios e imaginando criar eles como pets, hehehe~"
 
 # game/dialogs/script-topics.rpy:773
 translate ptbr s_topics_pets_8fbd8aae:
 
     # s "Maybe I'd have a chinchilla if I could! They are soooo cute, and so fluffy, they look so soft, I just love them so much!"
-    s ""
+    s "Talvez eu teria uma chinchila se eu pudesse! Elas são tãããão fofinhas, e tão peludinhas, elas parecem tão macias, eu amo elas tanto!"
 
 # game/dialogs/script-topics.rpy:774
 translate ptbr s_topics_pets_d3dde188:
 
     # s abbcaoa "I'd also like to have some kind of bird that could speak. They're really funny, I always end up watching videos of them online, ehehehe~"
-    s abbcaoa ""
+    s abbcaoa "Eu também ia gostar de ter algum tipo de pássaro que pudesse falar. Eles são muito engraçados, e eu sempre acabo vendo vídeos deles online, hehehe~"
 
 # game/dialogs/script-topics.rpy:775
 translate ptbr s_topics_pets_6ef601e6:
 
     # s "I like a really specific video of a koka-"
-    s ""
+    s "Eu gostou de um vídeo muito específico de uma caca-"
 
 # game/dialogs/script-topics.rpy:776
 translate ptbr s_topics_pets_314e5037:
 
     # s fbbdbja "Cohca-"
-    s fbbdbja ""
+    s fbbdbja "Cacat-"
 
 # game/dialogs/script-topics.rpy:777
 translate ptbr s_topics_pets_1e04d457:
 
     # s abbckoa "Cacka-? Wait let me look it up!!!"
-    s abbckoa ""
+    s abbckoa "Caca-? Peraí deixa eu pesquisar!!!"
 
 # game/dialogs/script-topics.rpy:779
 translate ptbr s_topics_pets_eb8cb905:
 
     # s abbcnqa " A cockatoo! Yes, that's exactly what I said."
-    s abbcnqa ""
+    s abbcnqa "Uma cacatua! É, é isso mesmo que eu falei."
 
 # game/dialogs/script-topics.rpy:780
 translate ptbr s_topics_pets_fc77d384:
 
     # s abfcaoa "Well it's a big white bird one with tall feathers on its head! And he's screaming into a little plastic cup..."
-    s abfcaoa ""
+    s abfcaoa "Bom, é um pássaro grande e branco com penas altas na cabeça dele! E ele tá gritando dentro de um copinho de plástico..."
 
 # game/dialogs/script-topics.rpy:781
 translate ptbr s_topics_pets_031486ee:
 
     # s abfdaaa "I guess I don't play favorites when it comes to pets!"
-    s abfdaaa ""
+    s abfdaaa "Eu acho que eu não tenho favoritos quando o assunto é pets!"
 
 # game/dialogs/script-topics.rpy:802
 translate ptbr s_player_cooking_158839cb:
 
     # s bbaamoaj "To be honest, {nw}"
-    s bbaamoaj ""
+    s bbaamoaj "Pra ser sincera, {nw}"
 
 # game/dialogs/script-topics.rpy:803
 translate ptbr s_player_cooking_c824f210:
 
     # extend bbheiiaj "scrambled eggs are probably the most elaborate thing I've ever cooked..."
-    extend bbheiiaj ""
+    extend bbheiiaj "ovos mexidos são provavelmente a coisa mais complicada que eu já cozinhei..."
 
 # game/dialogs/script-topics.rpy:804
 translate ptbr s_player_cooking_cf3beebb:
 
     # s abhhksa "I've never baked anything before, though."
-    s abhhksa ""
+    s abhhksa "Mas eu nunca assei nada antes."
 
 # game/dialogs/script-topics.rpy:805
 translate ptbr s_player_cooking_34466b46:
 
     # s fbhalhaj "But there's a lot of stuff that could go wrong, so it feels a bit intimidating to me."
-    s fbhalhaj ""
+    s fbhalhaj "Mas tem um monte de coisa que poderia dar errado, então é meio intimidador pra mim."
 
 # game/dialogs/script-topics.rpy:806
 translate ptbr s_player_cooking_b6454313:
 
     # s ebbcaoa "Even so, I'd love to get better at cooking, even if I don't have any reason to anymore, ehehehe~"
-    s ebbcaoa ""
+    s ebbcaoa "Mesmo assim, eu amaria ficar melhor na cozinha, mesmo que eu não tenha um motivo mais, hehehe~"
 
 # game/dialogs/script-topics.rpy:807
 translate ptbr s_player_cooking_355fbf0d:
 
     # s abgcbfa "Now that I think about it... {nw}"
-    s abgcbfa ""
+    s abgcbfa "Pensando melhor agora... {nw}"
 
 # game/dialogs/script-topics.rpy:808
 translate ptbr s_player_cooking_f561b7e0:
 
     # extend dbgckca "I don't really remember the last time I've been hungry, honestly."
-    extend dbgckca ""
+    extend dbgckca "Eu não realmente lembro da última vez que eu fiquei com fome, honestamente."
 
 # game/dialogs/script-topics.rpy:809
 translate ptbr s_player_cooking_bb6c68a1:
 
     # s fahcnka "But I can still taste! That means I can eat as much as I want!"
-    s fahcnka ""
+    s fahcnka "Mas eu ainda consigo sentir o gosto das coisas! Significa que eu posso comer o quanto eu quiser!"
 
 # game/dialogs/script-topics.rpy:810
 translate ptbr s_player_cooking_477d06d3:
 
     # s aahcbda "Of course, I could just try to 'make' food with code, like Nat's cupcakes, but I wanna make something on my own..."
-    s aahcbda ""
+    s aahcbda "Claro, eu podia só tentar 'fazer' comida com código, tipo os cupcakes da Natsuki, mas eu quero fazer algo eu mesma."
 
 # game/dialogs/script-topics.rpy:811
 translate ptbr s_player_cooking_bbb4131a:
 
     # s abfdboa "First of all, I need to try to make some kitchenware."
-    s abfdboa ""
+    s abfdboa "Primeiro de tudo, eu preciso tentar criar um ambiente de cozinha."
 
 # game/dialogs/script-topics.rpy:812
 translate ptbr s_player_cooking_ff129ca5:
 
     # s abhhbba "Then find some recipes online."
-    s abhhbba ""
+    s abhhbba "Aí achar algumas receitas online."
 
 # game/dialogs/script-topics.rpy:813
 translate ptbr s_player_cooking_b7aa73bc:
 
     # s dbhhbca "Then... follow a tutorial... or something..."
-    s dbhhbca ""
+    s dbhhbca "Aí... seguir um tutorial... ou algo assim..."
 
 # game/dialogs/script-topics.rpy:814
 translate ptbr s_player_cooking_766888e7:
 
     # s fbhakdaj "Wait... I'm also going to need to make each ingredient too..."
-    s fbhakdaj ""
+    s fbhakdaj "Peraí... eu também vou precisar criar cada ingrediente também..."
 
 # game/dialogs/script-topics.rpy:815
 translate ptbr s_player_cooking_55b1d5a0:
 
     # s bbgcegaj "That's a lot of steps!!!!"
-    s bbgcegaj ""
+    s bbgcegaj "É um monte de passos!!!"
 
 # game/dialogs/script-topics.rpy:816
 translate ptbr s_player_cooking_30f60f5d:
 
     # s bbgcjja "With all of that effort, it's too bad you won't be able to taste it... {nw}"
-    s bbgcjja ""
+    s bbgcjja "Com todo esse esforço, não é tão ruim que você não consiga sentir o sabor disso... {nw}"
 
 # game/dialogs/script-topics.rpy:817
 translate ptbr s_player_cooking_461c5736:
 
     # extend abhfbca "not yet at least."
-    extend abhfbca ""
+    extend abhfbca "pelo menos não ainda."
 
 # game/dialogs/script-topics.rpy:818
 translate ptbr s_player_cooking_41a10d75:
 
     # s abhfcka "But I'll try to become a good cook for you regardless!"
-    s abhfcka ""
+    s abhfcka "Mas eu vou tentar virar uma bom cozinheira pra você mesmo assim!"
 
 # game/dialogs/script-topics.rpy:819
 translate ptbr s_player_cooking_3e603ee0:
 
     # s abhfasa "Though, I'll probably never be as good as Natsuki."
-    s abhfasa ""
+    s abhfasa "Mas, eu provavelmente nunca vou ser tão boa quanto a Natsuki."
 
 # game/dialogs/script-topics.rpy:820
 translate ptbr s_player_cooking_cf7a5a81:
 
     # s abbbcoa "Well, I guess as long as I'm having fun in the process, that's what matters the most, isn't it?"
-    s abbbcoa ""
+    s abbbcoa "Bem, eu acho que contanto que eu me divirta no caminho, é isso que importa mesmo, né?"
 
 # game/dialogs/script-topics.rpy:840
 translate ptbr s_player_pets_4fef8dc4:
 
     # s gbaabda "Hmmm, let me think...."
-    s gbaabda ""
+    s gbaabda "Hmmm, deixa eu ver..."
 
 # game/dialogs/script-topics.rpy:841
 translate ptbr s_player_pets_01649e78:
 
     # s "I really like a lot of different animals, but I don't think I could properly care for anything that requires a lot of constant attention..."
-    s ""
+    s "Eu realmente gosto de um monte de animais diferentes, mas eu não acho que eu conseguiria cuidar certinho de um que precise de um monte de atenção constante..."
 
 # game/dialogs/script-topics.rpy:842
 translate ptbr s_player_pets_b2fbed90:
 
     # s bbegcia "I'd love to have a dog, but I'd have to have the energy to keep up with it."
-    s bbegcia ""
+    s bbegcia "Eu amaria ter um cachorro, mas eu teria que ter energia pra acompanhar eles.
 
 # game/dialogs/script-topics.rpy:843
 translate ptbr s_player_pets_a1311dab:
 
     # s abbcbba "But I suppose I could keep an aquarium?"
-    s abbcbba ""
+    s abbcbba "Mas eu acho que eu iria conseguir cuidar de um aquário?"
 
 # game/dialogs/script-topics.rpy:844
 translate ptbr s_player_pets_ebcac169:
 
     # s gbaalha "Wait, I think I heard from somewhere that those also take a lot of work to keep them running smoothly..."
-    s gbaalha ""
+    s gbaalha "Pera, eu acho que eu vi em um lugar que eles também dão muito trabalho pra manter eles sem problemas..."
 
 # game/dialogs/script-topics.rpy:845
 translate ptbr s_player_pets_e1554201:
 
     # s "..."
-    s ""
+    s "..."
 
 # game/dialogs/script-topics.rpy:846
 translate ptbr s_player_pets_fa083328:
 
     # s ebgcaea "Ohhh, I know! I could adopt an elderly cat that mostly just wants to lay around and sleep all day, just like me!"
-    s ebgcaea ""
+    s ebgcaea "Ahhh, já sei! Eu podia adotar um gato mais velho que na maioria das vezes só quer deitar e dormir o dia todo, igualzinho a mim!"
 
 # game/dialogs/script-topics.rpy:866
 translate ptbr s_player_cats_2202e80d:
 
     # s ebhfcaa "Cats are pretty cute, especially kittens!"
-    s ebhfcaa ""
+    s ebhfcaa "Gatos são muito fofos, especialmente filhotes!"
 
 # game/dialogs/script-topics.rpy:867
 translate ptbr s_player_cats_c77680b5:
 
     # s abhfaoa "And they're not too hard to take care of so they wouldn't require a lot of energy."
-    s abhfaoa ""
+    s abhfaoa "E eles não são muito difíceis de cuidar então eles não exigiriam tanta energia."
 
 # game/dialogs/script-topics.rpy:868
 translate ptbr s_player_cats_7cc2363b:
 
     # s abhaaca "Still, as much as they love their space, they shouldn't just be ignored by their owner. Kitties want to play sometimes, too!"
-    s abhaaca ""
+    s abhaaca "Mesmo assim, enquanto eles amarem o lar deles, não deveriam ser ignorados pelo dono. Gatinhos filhotes às vezes querem brincar, também!"
 
 # game/dialogs/script-topics.rpy:869
 translate ptbr s_player_cats_3e9e722c:
 
     # s "And sometimes cats do things that their owners don't like... Like pushing things off of the counter, or slicing their arms and legs up."
-    s ""
+    s "E tem vezes que gatos fazem coisas que os donos não gostam... Como empurrar as coisas da cômoda, ou arranhar os braços e as pernas deles."
 
 # game/dialogs/script-topics.rpy:870
 translate ptbr s_player_cats_1570d052:
 
     # s abaaaoa "Still, it's so hard to resist their fluffy little paws and pointy ears... So that must be why people always forgive them for their crimes!"
-    s abaaaoa ""
+    s abaaaoa "De qualquer jeito, é difícil demais resistir pra aquelas patinhas peludinhas e orelhinhas pontudas... Então isso deve ser por que as pessoas perdoam eles pelos crimes deles!"
 
 # game/dialogs/script-topics.rpy:871
 translate ptbr s_player_cats_12ae52c3:
 
     # s ebaacea "If you have one, you probably understand what I mean, ehehehe~"
-    s ebaacea ""
+    s ebaacea "Se você tem um, você provavelmente entende o que eu tô querendo dizer, hehehe~"
 
 # game/dialogs/script-topics.rpy:890
 translate ptbr s_topic_archetype_b91ca600:
 
     # s abhfho "Hey [player], do you remember when Monika compared Yuri and Natsuki to character archetypes?"
-    s abhfho ""
+    s abhfho "Ei [player], você lembra quando a Monika comparou a Yuri e a Natsuki com arquétipos de personagens?"
 
 # game/dialogs/script-topics.rpy:891
 translate ptbr s_topic_archetype_64eabfb7:
 
     # s abhfco "I was curious about what my archetype could be so I read some online articles about them and I think I'm pretty close to the 'genki' archetype."
-    s abhfco ""
+    s abhfco "Eu tava curiosa sobre qual seria o meu arquétipo então eu li uns artigos online sobre eles e eu acho que eu tô bem perto do arquétipo 'genki'."
 
 # game/dialogs/script-topics.rpy:892
 translate ptbr s_topic_archetype_ef21c4b9:
 
     # s abhhmo "Genki is a very cheerful and energetic archetype, always trying to share that upbeat way of living with others."
-    s abhhmo ""
+    s abhhmo "Genki é um arquétipo muito alegre e energético, sempre tentando compartilhar aquele jeito otimista de viver com os outros."
 
 # game/dialogs/script-topics.rpy:893
 translate ptbr s_topic_archetype_7cfbd6d2:
 
     # s aahfaeaj "And they're sometimes clumsy and get in trouble often too, hehehe~"
-    s aahfaeaj ""
+    s aahfaeaj "E às vezes é atrapalhado e muitas vezes entra em confusão também, hehehe~"
 
 # game/dialogs/script-topics.rpy:894
 translate ptbr s_topic_archetype_429c1a58:
 
     # s "And I was the protagonist's childhood friend, which is common to this archetype."
-    s ""
+    s "E eu era a amiga de infância do protagonaista, o que é comum nesse arquétipo."
 
 # game/dialogs/script-topics.rpy:895
 translate ptbr s_topic_archetype_308cd8d1:
 
     # s nahekeaj "Do you think I fit that archetype too?{nw}"
-    s nahekeaj ""
+    s nahekeaj "Você acha que encaixo nese arquétipo também?{nw}"
 
 # game/dialogs/script-topics.rpy:899
 translate ptbr s_topic_archetype_f36cd571:
 
     # s "Do you think I fit that archetype too?{fast}" nointeract
-    s "" nointeract
+    s "Você acha que encaixo nese arquétipo também?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:902
 translate ptbr s_topic_archetype_5eaa648e:
 
     # s aaaegcej "You can't blame me, that's just how I am, ehehehe~"
-    s aaaegcej ""
+    s aaaegcej "Não me culpa, é assim que eu sou, hehehe~"
 
 # game/dialogs/script-topics.rpy:903
 translate ptbr s_topic_archetype_6fcbaf5c:
 
     # s "But that aside, I think archetypes are too simple to define a whole person."
-    s ""
+    s "Mas deixando isso de lado, eu acho que arquétipos são simples demais pra definir uma pessoa toda."
 
 # game/dialogs/script-topics.rpy:904
 translate ptbr s_topic_archetype_9150167d:
 
     # s ebhfaca "We're all unique and these traits can only scratch the surface of somebody's character."
-    s ebhfaca ""
+    s ebhfaca "Todos nós somos únicos e essas características são só a ponta do iceberg do caráter de alguém."
 
 # game/dialogs/script-topics.rpy:905
 translate ptbr s_topic_archetype_b8f46d82:
 
     # s ebhhaoa "And that applied to me and my friends too."
-    s ebhhaoa ""
+    s ebhhaoa "E isso se aplica a mim e aos meus amigos também."
 
 # game/dialogs/script-topics.rpy:906
 translate ptbr s_topic_archetype_f95d58d8:
 
     # s ebbbaca "Like Yuri, who was always polite and quiet while hiding her intrusive feelings."
-    s ebbbaca ""
+    s ebbbaca "Tipo a Yuri, que sempre foi educada e quieta enquanto escondia os pensamentos intrusivos dela."
 
 # game/dialogs/script-topics.rpy:907
 translate ptbr s_topic_archetype_92b8b4d0:
 
     # s ebgccea "And Natsuki, whose brash exterior was caused by her problems at home."
-    s ebgccea ""
+    s ebgccea "E a Natsuki, que a fachada ousada era causada pelos problemas dela em casa."
 
 # game/dialogs/script-topics.rpy:908
 translate ptbr s_topic_archetype_22de26d5:
 
     # s ebhacea "There's always more to a person than meets the eye, so try to always be kind."
-    s ebhacea ""
+    s ebhacea "Sempre tem mais em uma pessoa do que dá pra ver, então sempre tenta ser gentil."
 
 # game/dialogs/script-topics.rpy:909
 translate ptbr s_topic_archetype_87ddc2f8:
 
     # s ebhadqa "You never know what someone else might be going through, and a simple smile can really make someone's day!"
-    s ebhadqa ""
+    s ebhadqa "Você nunca sabe pelo que outra pessao pode estar passando, e um simples sorriso pode realmente fazer o dia de alguém!"
 
 # game/dialogs/script-topics.rpy:927
 translate ptbr s_topic_voice_3eae6c02:
 
     # s abhaaca "I'm curious about how Monika shared her real voice with you when she sang her song."
-    s abhaaca ""
+    s abhaaca "Tô curiosa sobre como a Monika "
 
 # game/dialogs/script-topics.rpy:928
 translate ptbr s_topic_voice_ea2f1403:
 
     # s abhfcaa "Her voice is quite high and melodic, like a musician should have."
-    s abhfcaa ""
+    s abhfcaa "A voz dela é bem aguda e melódica, como um música deveria ter."
 
 # game/dialogs/script-topics.rpy:929
 translate ptbr s_topic_voice_675b613d:
 
     # s abhfaoa "But I'd say the tone of that voice doesn't seem to fit her."
-    s abhfaoa ""
+    s abhfaoa "Mas eu diria que o tom daquela voz não parece encaixar nela."
 
 # game/dialogs/script-topics.rpy:930
 translate ptbr s_topic_voice_7e896920:
 
     # s abhaaca "It sounds more like the voice I'd have."
-    s abhaaca ""
+    s abhaaca "Parece mais com a voz que eu teria."
 
 # game/dialogs/script-topics.rpy:931
 translate ptbr s_topic_voice_1dc37658:
 
     # s abbcbba "But canon is canon, I guess."
-    s abbcbba ""
+    s abbcbba "Mas canônico é canônico, eu acho."
 
 # game/dialogs/script-topics.rpy:932
 translate ptbr s_topic_voice_0eb82757:
