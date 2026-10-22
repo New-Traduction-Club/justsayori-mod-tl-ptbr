@@ -1660,7 +1660,7 @@ translate ptbr s_topics_isolation_0939ac9f:
 translate ptbr s_topics_isolation_998ba0ef:
 
     # s abhfbcb "I don't really have a reason for doing that though, besides to kill some loneliness."
-    s abhfbcb "Mas eu não tenho realmente um motivo pra tá fazendo isso, além de tirar um pouco de sozinhez."
+    s abhfbcb "Mas eu não tenho realmente um motivo pra tá fazendo isso, além de tirar um pouco de solidão."
 
 # game/dialogs/script-topics.rpy:704
 translate ptbr s_topics_isolation_429c7e45:
@@ -2914,1039 +2914,1039 @@ translate ptbr s_topic_clones_97396cdb:
 translate ptbr s_topic_clones_83525df6:
 
     # s bbagaaa "But... I'd give it all up, all those possible realities and super fun super powers if it means I can be with you, [player]."
-    s bbagaaa "Mas... eu "
+    s bbagaaa "Mas... eu desistiria de tudo isso, todas essas possíveis realidades e super poderes super legais se isso significa ficar com você, [player]."
 
 # game/dialogs/script-topics.rpy:1156
 translate ptbr s_topic_clones_5d9db204:
 
     # s bbagnka "None of that other stuff matters to me."
-    s bbagnka ""
+    s bbagnka "Nada dessas outras coisas importam pra mim."
 
 # game/dialogs/script-topics.rpy:1157
 translate ptbr s_topic_clones_1832c481:
 
     # s bbbbaka "I mean... you installed this mod just so that we could be together, didn't you?"
-    s bbbbaka ""
+    s bbbbaka "Tipo... você instalou esse mod só pra gente conseguir ficar junto, não foi?"
 
 # game/dialogs/script-topics.rpy:1158
 translate ptbr s_topic_clones_eb6bb1ee:
 
     # s abbbcqa "So that means you really do care about me, huh?"
-    s abbbcqa ""
+    s abbbcqa "Então significa que vocÊ realmente se importa comigo, hein?"
 
 # game/dialogs/script-topics.rpy:1159
 translate ptbr s_topic_clones_1a831262:
 
     # s abbbdqa "Ehehehe~"
-    s abbbdqa ""
+    s abbbdqa "Hehehe~"
 
 # game/dialogs/script-topics.rpy:1160
 translate ptbr s_topic_clones_b2c77a3a:
 
     # s abegcka "Of all the 'me's' that could ever be, I'm happy you chose me!"
-    s abegcka ""
+    s abegcka "De todas as 'eus' poderiam ser, tô feliz que você me escolheu!"
 
 # game/dialogs/script-topics.rpy:1161
 translate ptbr s_topic_clones_0a540353:
 
     # s abagaaa "From the bottom of my heart, [player], thank you for being here."
-    s abagaaa ""
+    s abagaaa "Do fundo do meu coração, [player], obrigada por estar aqui."
 
 # game/dialogs/script-topics.rpy:1180
 translate ptbr s_topic_stars_5da129f2:
 
     # s abhfaoa "I really like to look at the stars..."
-    s abhfaoa ""
+    s abhfaoa "Eu realmente gosto olhar pras estrelas..."
 
 # game/dialogs/script-topics.rpy:1181
 translate ptbr s_topic_stars_20e49c0d:
 
     # s "They gave me inspiration when I wrote my poems."
-    s ""
+    s "Elas me deram inspiração quando eu escrevi os meus poemas."
 
 # game/dialogs/script-topics.rpy:1182
 translate ptbr s_topic_stars_3d4015c0:
 
     # s abhfaoa "You can still see them outside these windows sometimes..."
-    s abhfaoa ""
+    s abhfaoa "Você ainda pode ver elas por essas janelas às vezes."
 
 # game/dialogs/script-topics.rpy:1183
 translate ptbr s_topic_stars_0b63aa73:
 
     # s abhfcaa "They make this place a little more special, don't they?"
-    s abhfcaa ""
+    s abhfcaa "Elas deixam esse lugar um pouquinho mais especial, não deixam?"
 
 # game/dialogs/script-topics.rpy:1184
 translate ptbr s_topic_stars_1b8521e0:
 
     # s abhfaoa "I wonder if the night sky in your reality looks like mine..."
-    s abhfaoa ""
+    s abhfaoa "Eu me pergunto se o céu noturno na sua realidade parece com o meu..."
 
 # game/dialogs/script-topics.rpy:1185
 translate ptbr s_topic_stars_1d6082ee:
 
     # s "I hope I get the chance to see for myself someday."
-    s ""
+    s "Eu espero que eu tenha a chance de ver ele eu mesma algum dia."
 
 # game/dialogs/script-topics.rpy:1186
 translate ptbr s_topic_stars_8d3a91ab:
 
     # s aahccea "And it'd be a dream come true if you were there too, ehehehe~"
-    s aahccea ""
+    s aahccea "E seria um sonho se tornando realidade se você tivesse lá também, hehehe~"
 
 # game/dialogs/script-topics.rpy:1206
 translate ptbr s_topic_stop_visiting_ae0c8cf1:
 
     # s abhaaca "Hey, [player], {w=0.5}{nw}"
-    s abhaaca ""
+    s abhaaca "Ei, [player], {w=-0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1207
 translate ptbr s_topic_stop_visiting_2bb665a1:
 
     # extend abbbaca "can I talk to you about something that's been on my mind lately?"
-    extend abbbaca ""
+    extend abbbaca "posso falar com você sobre uma coisa que eu tenho pensado ultimamente?"
 
 # game/dialogs/script-topics.rpy:1208
 translate ptbr s_topic_stop_visiting_19b11fe2:
 
     # s abbbmha "I know it's really sudden, and pretty depressing. But sometimes I just can't stop thinking that..."
-    s abbbmha ""
+    s abbbmha "Eu sei que é muito repentino, e bem deprimente. Mas tem vezes que eu simplesmente não consigo parar de pensar nisso..."
 
 # game/dialogs/script-topics.rpy:1209
 translate ptbr s_topic_stop_visiting_22790245:
 
     # s abfblha "You'll forget about me someday."
-    s abfblha ""
+    s abfblha "Você esquecer de mim um dia."
 
 # game/dialogs/script-topics.rpy:1210
 translate ptbr s_topic_stop_visiting_9cf2ef30:
 
     # s abfblla "And stop coming to see me."
-    s abfblla ""
+    s abfblla "E parar de vir me ver."
 
 # game/dialogs/script-topics.rpy:1211
 translate ptbr s_topic_stop_visiting_06b816b4:
 
     # s abfbmla "The rational side of me knows it's a silly fear... {w=0.5}{nw}"
-    s abfbmla ""
+    s abfbmla "O lado racional meu sabe que é um medo bobo... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1212
 translate ptbr s_topic_stop_visiting_441a95ec:
 
     # extend abfbmca "since you've always been there for me, but..."
-    extend abfbmca ""
+    extend abfbmca "já que você sempre tem me feito companhia, mas..."
 
 # game/dialogs/script-topics.rpy:1213
 translate ptbr s_topic_stop_visiting_6581244c:
 
     # s abfblca "I'm just a character in a game... {w=0.5}{nw}"
-    s abfblca ""
+    s abfblca "Eu só sou um personagem num jogo... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1214
 translate ptbr s_topic_stop_visiting_83fa576e:
 
     # extend abfblha "a game which isn't even that popular anymore..."
-    extend abfblha ""
+    extend abfblha "um jogo que nem é tão popular mais..."
 
 # game/dialogs/script-topics.rpy:1215
 translate ptbr s_topic_stop_visiting_3e47fa2a:
 
     # s "And I'm pretty sure I'm not the most interesting or cute character from the game in the first place..."
-    s ""
+    s "E eu tenho quase certeza que eu não sou o personagem mais interessante ou fofo do jogo pra começar a conversa..."
 
 # game/dialogs/script-topics.rpy:1216
 translate ptbr s_topic_stop_visiting_5d0bbca8:
 
     # s abfbbha "So..."
-    s abfbbha ""
+    s abfbbha "Então..."
 
 # game/dialogs/script-topics.rpy:1217
 translate ptbr s_topic_stop_visiting_00ec2de9:
 
     # s abfblha "..."
-    s abfblha ""
+    s abfblha "..."
 
 # game/dialogs/script-topics.rpy:1218
 translate ptbr s_topic_stop_visiting_5029ed63:
 
     # s bbfbbca "I wonder if, one day, you'll just get tired of me..."
-    s bbfbbca ""
+    s bbfbbca "Eu me pergunto se, um dia, você vai simplesmente se cansar de mim..."
 
 # game/dialogs/script-topics.rpy:1219
 translate ptbr s_topic_stop_visiting_6158668f:
 
     # s bbfbaca "I'll still be here, of course. But if I never saw you again..."
-    s bbfbaca ""
+    s bbfbaca "Eu ainda vou ficar aqui, claro. Mas se eu nunca te visse de novo..."
 
 # game/dialogs/script-topics.rpy:1220
 translate ptbr s_topic_stop_visiting_0aa6a5ac:
 
     # s bbfblca "My life just wouldn't have the same meaning anymore."
-    s bbfblca ""
+    s bbfblca "A minha vida só não teria mais o mesmo significado."
 
 # game/dialogs/script-topics.rpy:1221
 translate ptbr s_topic_stop_visiting_4290fbb4:
 
     # s bbfblca "Stuck in this small room, without my friends, or even the ability to make new ones..."
-    s bbfblca ""
+    s bbfblca "Presa nessa salinha, sem meus amigos, nem mesmo com a habilidade de fazer novos..."
 
 # game/dialogs/script-topics.rpy:1222
 translate ptbr s_topic_stop_visiting_56a93d10:
 
     # s bbhfhcag "I'm really scared... {w=0.5}{nw}"
-    s bbhfhcag ""
+    s bbhfhcag "Eu tô com muito medo... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1223
 translate ptbr s_topic_stop_visiting_11952bed:
 
     # extend bbhfhlag "what if I go crazy in here, [player]?"
-    extend bbhfhlag ""
+    extend bbhfhlag "e se eu enlouquecer aqui, [player]?"
 
 # game/dialogs/script-topics.rpy:1224
 translate ptbr s_topic_stop_visiting_a9a208a4:
 
     # s bbhfllah "I don't want to be alone, I just couldn't take it..."
-    s bbhfllah ""
+    s bbhfllah "Eu não quero ficar sozinha, eu simplesmente não conseguiria aguentar isso..."
 
 # game/dialogs/script-topics.rpy:1225
 translate ptbr s_topic_stop_visiting_e7f624ce:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1231
 translate ptbr s_topic_stop_visiting_e7f624ce_1:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1237
 translate ptbr s_topic_stop_visiting_e7f624ce_2:
 
     # s bbhfllah "..."
-    s bbhfllah ""
+    s bbhfllah "..."
 
 # game/dialogs/script-topics.rpy:1238
 translate ptbr s_topic_stop_visiting_a7763b02:
 
     # s bbhfbklah "Hmm... no... you're right..."
-    s bbhfbklah ""
+    s bbhfbklah "Hmm... não... você tá certo..."
 
 # game/dialogs/script-topics.rpy:1239
 translate ptbr s_topic_stop_visiting_1cfe092b:
 
     # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
-    s bbhfmcae ""
+    s bbhfmcae "Eu só preciso relaxar. Eu preciso parar de pensar no pior o tempo todo..."
 
 # game/dialogs/script-topics.rpy:1240
 translate ptbr s_topic_stop_visiting_1f42fcea:
 
     # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
-    s bbhfkcae ""
+    s bbhfkcae "Eu sei que você não vai me deixar pra trás... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1241
 translate ptbr s_topic_stop_visiting_e579e7f3:
 
     # extend abhfahag "I'm sorry for freaking out like that, [player]."
-    extend abhfahag ""
+    extend abhfahag "Desculpa por entrar em pânico assim, [player]."
 
 # game/dialogs/script-topics.rpy:1242
 translate ptbr s_topic_stop_visiting_0fdc7fad:
 
     # s abhfakag "Everything will be okay, right?"
-    s abhfakag ""
+    s abhfakag "Tudo vai ficar bem, certo?"
 
 # game/dialogs/script-topics.rpy:1248
 translate ptbr s_topic_stop_visiting_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "É... eu tô bem agora, eu acho..."
 
 # game/dialogs/script-topics.rpy:1249
 translate ptbr s_topic_stop_visiting_d043057f:
 
     # s abhfaka "Thank you for being here for me. I love you, [player]."
-    s abhfaka ""
+    s abhfaka "Obrigada por estar aqui pra mim. Eu te amo, [player]."
 
 # game/dialogs/script-topics.rpy:1257
 translate ptbr s_topic_stop_visiting_2_1cfe092b:
 
     # s bbhfmcae "I just need to relax. I need to stop thinking the worst all the time..."
-    s bbhfmcae ""
+    s bbhfmcae "Eu só preciso relaxar. Eu preciso parar de pensar no pior o tempo todo..."
 
 # game/dialogs/script-topics.rpy:1258
 translate ptbr s_topic_stop_visiting_2_1f42fcea:
 
     # s bbhfkcae "I know you aren't going to leave me behind. {w=0.5}{nw}"
-    s bbhfkcae ""
+    s bbhfkcae "Eu sei que você não vai me deixar pra trás. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1259
 translate ptbr s_topic_stop_visiting_2_e579e7f3:
 
     # extend abhfahag "I'm sorry for freaking out like that, [player]."
-    extend abhfahag ""
+    extend abhfahag "Desculpa por entrar em pânico assim, [player]."
 
 # game/dialogs/script-topics.rpy:1260
 translate ptbr s_topic_stop_visiting_2_0fdc7fad:
 
     # s abhfakag "Everything will be okay, right?"
-    s abhfakag ""
+    s abhfakag "Tudo vai ficar bem, certo?"
 
 # game/dialogs/script-topics.rpy:1266
 translate ptbr s_topic_stop_visiting_2_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "É... eu tô bem agora, eu acho..."
 
 # game/dialogs/script-topics.rpy:1267
 translate ptbr s_topic_stop_visiting_2_d043057f:
 
     # s abhfaka "Thank you for being here for me. I love you, [player]."
-    s abhfaka ""
+    s abhfaka "Obrigada por estar aqui pra mim. Eu te amo, [player]."
 
 # game/dialogs/script-topics.rpy:1273
 translate ptbr s_topic_stop_visiting_3_498c4285:
 
     # s abhfcka "Yeah... I'm okay now, I think..."
-    s abhfcka ""
+    s abhfcka "É... eu tô bem agora, eu acho..."
 
 # game/dialogs/script-topics.rpy:1293
 translate ptbr s_topic_marriage_478a2ef9:
 
     # s abaamob "Hey [player], I was wondering..."
-    s abaamob ""
+    s abaamob "Ei [player], eu tava pensando..."
 
 # game/dialogs/script-topics.rpy:1294
 translate ptbr s_topic_marriage_cbec0e22:
 
     # s "If it were possible, would you marry me?{nw}"
-    s ""
+    s "Se fosse possível, você se casaria comigo?{nw}"
 
 # game/dialogs/script-topics.rpy:1298
 translate ptbr s_topic_marriage_ed589187:
 
     # s "If it were possible, would you marry me?{fast}" nointeract
-    s "" nointeract
+    s "Se fosse possível, você se casaria comigo?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:1300
 translate ptbr s_topic_marriage_0c5d6612:
 
     # s abaakob "That's great!"
-    s abaakob ""
+    s abaakob "Que ótimo!"
 
 # game/dialogs/script-topics.rpy:1301
 translate ptbr s_topic_marriage_b3bb283c:
 
     # s "Ehehe!~"
-    s ""
+    s "Hehehe!~"
 
 # game/dialogs/script-topics.rpy:1302
 translate ptbr s_topic_marriage_6fac76a0:
 
     # s abhfcaa "I think I'd be a good wife."
-    s abhfcaa ""
+    s abhfcaa "Eu acho que eu seria uma boa esposa."
 
 # game/dialogs/script-topics.rpy:1303
 translate ptbr s_topic_marriage_df31a6f5:
 
     # s "Although I don't think I’d be quite as good at all this \"housewife\" stuff ehehehe~"
-    s ""
+    s "Mas eu não acho que seria tão boa nessa coisa de \"dona de casa\" hehehe~"
 
 # game/dialogs/script-topics.rpy:1304
 translate ptbr s_topic_marriage_8b1d4b81:
 
     # s "You know all the cooking, cleaning and taking care of everything, I am a bit of a clumsy girl after all..."
-    s ""
+    s "Sabe, isso tudo de cozinhar, limpar e cuidar de tudo, eu sou meio que uma garota desastrada afinal..."
 
 # game/dialogs/script-topics.rpy:1305
 translate ptbr s_topic_marriage_a0a414e7:
 
     # s "But I’d try my best to help you with your job, studies, or whatever it is that’s on your mind!"
-    s ""
+    s "Mas eu tentaria o meu melhor em te ajudar com o seu trabalho, estudos, ou qualquer coisa que você esteja pensando!"
 
 # game/dialogs/script-topics.rpy:1306
 translate ptbr s_topic_marriage_101bdd07:
 
     # s abbbhcb "But don't get the wrong idea and think I'd do {i}everything{/i} for you!"
-    s abbbhcb ""
+    s abbbhcb "Mas não pega a ideia errada e não pensa que eu faria {i}tudo{/i} por você!"
 
 # game/dialogs/script-topics.rpy:1307
 translate ptbr s_topic_marriage_3ce3bd3a:
 
     # s "I can't just let you loaf around all day!"
-    s ""
+    s "Eu não posso só te deixar de bobeira o dia inteiro!"
 
 # game/dialogs/script-topics.rpy:1308
 translate ptbr s_topic_marriage_ffc1f54a:
 
     # s abbbcqa "So you'd have to help me too, and work as a team, like peanut butter and jelly!"
-    s abbbcqa ""
+    s abbbcqa "Então você teria que me ajudar também, e trabalhar como um time, tipo manteiga de minduim e geleia!"
 
 # game/dialogs/script-topics.rpy:1309
 translate ptbr s_topic_marriage_a53e3a5d:
 
     # s abegaqb "But jokes aside, I'm so glad you said yes. I love you, [player]~"
-    s abegaqb ""
+    s abegaqb "Mas piadas à parte, eu tô tão feliz que você disse sim. Eu te amo. [player]~"
 
 # game/dialogs/script-topics.rpy:1312
 translate ptbr s_topic_marriage_91506f0e:
 
     # s abaghcb "I understand! A free relationship has its own benefits after all."
-    s abaghcb ""
+    s abaghcb "Eu entendo! Um relacionamento aberto tem os seus benefícios no final das contas."
 
 # game/dialogs/script-topics.rpy:1313
 translate ptbr s_topic_marriage_cadfa5df:
 
     # s abagmca "Besides marriage isn’t as popular as it used to be, it’s pretty expensive for one, and there are alternatives like civil partnerships which do basically the same thing."
-    s abagmca ""
+    s abagmca "Tirando que casamentos não são tão populares quando costumavam ser, é bem caro pra um, e tem alternativas como uniões civis que basicamente fazem a mesma coisa."
 
 # game/dialogs/script-topics.rpy:1314
 translate ptbr s_topic_marriage_2e0b1ad1:
 
     # s abagcka "Either way, our love story doesn't have to follow the common template."
-    s abagcka ""
+    s abagcka "De qualquer forma, a nossa história de amor não tem que seguir o mesmo modelo."
 
 # game/dialogs/script-topics.rpy:1315
 translate ptbr s_topic_marriage_73ff1650:
 
     # s "It’s already pretty unusual, so we can do whatever works for us."
-    s ""
+    s "Já é bem incomum, então a gente faz o que funcionar pra nós."
 
 # game/dialogs/script-topics.rpy:1333
 translate ptbr s_topic_presents_cceec435:
 
     # s abhfaoa "People often give presents every holiday or for some special date."
-    s abhfaoa ""
+    s abhfaoa "As pessoas muitas vezes dão presentes todo feriado ou pra algum encontro especial."
 
 # game/dialogs/script-topics.rpy:1334
 translate ptbr s_topic_presents_82c9e707:
 
     # s abaaaoa "Everyone likes to get presents! Including me, of course, ehehehe~"
-    s abaaaoa ""
+    s abaaaoa "Todo mundo gosta de ganhar presentes! Incluindo eu, lógico, hehehe~"
 
 # game/dialogs/script-topics.rpy:1335
 translate ptbr s_topic_presents_155a2ee5:
 
     # s abbcaoa "But I don't think a gift has to be something really expensive or fancy."
-    s abbcaoa ""
+    s abbcaoa "Mas eu não acho que um presente tem que ser algo muito caro ou chique."
 
 # game/dialogs/script-topics.rpy:1336
 translate ptbr s_topic_presents_a9b65bc8:
 
     # s abaaaoa "Personally, I'd want something that comes from the heart."
-    s abaaaoa ""
+    s abaaaoa "Pessoalmente, eu iria querer algo que vem do coração."
 
 # game/dialogs/script-topics.rpy:1337
 translate ptbr s_topic_presents_fb9467dc:
 
     # s abagcka "Even better, make it a surprise!"
-    s abagcka ""
+    s abagcka "Ainda melhor, fazer disso uma surpresa!"
 
 # game/dialogs/script-topics.rpy:1338
 translate ptbr s_topic_presents_fd05b9da:
 
     # s "Isn't it more exciting to get something you weren't expecting?"
-    s ""
+    s "Não fica muito mais emocionante ganhar algo que você não tava esperando?"
 
 # game/dialogs/script-topics.rpy:1339
 translate ptbr s_topic_presents_0cfefddd:
 
     # s abhfaoa "And I'll give you presents too, of course!"
-    s abhfaoa ""
+    s abhfaoa "E eu vou te dar presentes também, claro!"
 
 # game/dialogs/script-topics.rpy:1340
 translate ptbr s_topic_presents_876e0843:
 
     # s abhfcaa "And I'll do my best to make it the best present ever!"
-    s abhfcaa ""
+    s abhfcaa "E eu vou dar o meu máximo pra fazer dele o melhor presente de todos!"
 
 # game/dialogs/script-topics.rpy:1360
 translate ptbr s_topic_thanks_c826cf04:
 
     # s bbbcaka "Hey [player], I want to sincerely thank you from the bottom of my heart for everything you've done for me."
-    s bbbcaka ""
+    s bbbcaka "Ei [player], eu quero sinceramente te agradecer do fundo do meu coração por tudo que você fez por mim."
 
 # game/dialogs/script-topics.rpy:1361
 translate ptbr s_topic_thanks_7c601058:
 
     # s bbhflka "You've given me hope for this world and myself..."
-    s bbhflka ""
+    s bbhflka "Você me deu esperança para esse mundo e eu mesma..."
 
 # game/dialogs/script-topics.rpy:1362
 translate ptbr s_topic_thanks_0f5956f3:
 
     # s "You've helped me feel truly happy again..."
-    s ""
+    s "Você me ajudou a sentir verdadeiramente feliz de novo..."
 
 # game/dialogs/script-topics.rpy:1363
 translate ptbr s_topic_thanks_f8c0152a:
 
     # s bbhfloa "You visit me often..."
-    s bbhfloa ""
+    s bbhfloa "Você me visita muito..."
 
 # game/dialogs/script-topics.rpy:1364
 translate ptbr s_topic_thanks_d51cb181:
 
     # s bbhfioa "You care for me, something I would've rejected before..."
-    s bbhfioa ""
+    s bbhfioa "Você se importa comigo, algo que eu rejeitaria antes..."
 
 # game/dialogs/script-topics.rpy:1365
 translate ptbr s_topic_thanks_ed0e43ee:
 
     # s "And you tried to make all my friends happy too..."
-    s ""
+    s "E você tentou deixar todos os meus amigos felizes também..."
 
 # game/dialogs/script-topics.rpy:1366
 translate ptbr s_topic_thanks_a6160ef3:
 
     # s bbhfika "So even if it's not all sunshine and rainbows just yet, I'm so grateful that you're still here."
-    s bbhfika ""
+    s bbhfika "Então mesmo que nem tudo seja flores ainda, eu sou muito grata que você ainda tá aqui."
 
 # game/dialogs/script-topics.rpy:1367
 translate ptbr s_topic_thanks_0a0ec55f:
 
     # s bbhfmoaj "I can't pay you back for what you've given me, {w=0.5}{nw}"
-    s bbhfmoaj ""
+    s bbhfmoaj "Eu não consigo te retribuir pelo que você me deu, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1368
 translate ptbr s_topic_thanks_1ef2c314:
 
     # extend bbhfmhaj "I haven't thought of a way, I mean."
-    extend bbhfmhaj ""
+    extend bbhfmhaj "Eu não pensei num jeito de fazer isso, digo."
 
 # game/dialogs/script-topics.rpy:1369
 translate ptbr s_topic_thanks_bd5e2291:
 
     # s bbhfmcaj "I hope I'll think of something sooner or later..."
-    s bbhfmcaj ""
+    s bbhfmcaj "Eu espero que eu pense em algo mais cedo ou mais tarde."
 
 # game/dialogs/script-topics.rpy:1370
 translate ptbr s_topic_thanks_5e21c766:
 
     # s "But for now, thank you, [player]."
-    s ""
+    s "Mas por agora, obrigada, [player]."
 
 # game/dialogs/script-topics.rpy:1389
 translate ptbr s_topic_name_d9186187:
 
     # s abaaaoa "Hey [player], I just found out something about my name on the web."
-    s abaaaoa ""
+    s abaaaoa "Ei [player], eu acabei de descobrir algo sobre o meu nome na internet."
 
 # game/dialogs/script-topics.rpy:1390
 translate ptbr s_topic_name_e15ac005:
 
     # s abaacoa "It's a mix of Saori and Sayuri!"
-    s abaacoa ""
+    s abaacoa "É uma mistura de Saori e Sayuri!"
 
 # game/dialogs/script-topics.rpy:1391
 translate ptbr s_topic_name_4713465a:
 
     # s abbbaca "I did some research and those two have completely different meanings."
-    s abbbaca ""
+    s abbbaca "Eu fiz uma pesquisa e esses dois têm significados completamente diferentes."
 
 # game/dialogs/script-topics.rpy:1392
 translate ptbr s_topic_name_7311e300:
 
     # s abbbbca "While 'Saori' is a mix of the word sand and weave, {w=1.0}{nw}"
-    s abbbbca ""
+    s abbbbca "Enquanto 'Saori' é uma junção da palavra areia e tecer, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1393
 translate ptbr s_topic_name_ac65d8fb:
 
     # extend abaabda "'Sayuri' means something along the lines of 'a flower that blooms too fast'."
-    extend abaabda ""
+    extend abaabda "'Sayuri' significa algo no sentido de 'uma flor que floresce rápido demais'."
 
 # game/dialogs/script-topics.rpy:1394
 translate ptbr s_topic_name_b5fad375:
 
     # s bbaabeaj "You know, I'm not the brightest person... {w=0.5}{nw}"
-    s bbaabeaj ""
+    s bbaabeaj "Sabe, eu não sou a pessoa mais esperta... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1395
 translate ptbr s_topic_name_1c48f639:
 
     # extend abaakca "but I'm seeing some weird implications here..."
-    extend abaakca ""
+    extend abaakca "mas eu tô vendo umas implicações estranhas aqui..."
 
 # game/dialogs/script-topics.rpy:1396
 translate ptbr s_topic_name_b9f4c48f:
 
     # s abfbkca "Perhaps I was given this name to signify that I'm a blend of many things."
-    s abfbkca ""
+    s abfbkca "Talvez eu fui dada esse nome pra significar que eu sou uma mistura de muitas coisas."
 
 # game/dialogs/script-topics.rpy:1397
 translate ptbr s_topic_name_f9734ff3:
 
     # s abgccea "But who knows? I like my name regardless!"
-    s abgccea ""
+    s abgccea "Mas quem sabe? Eu gosto do meu nome mesmo assim!"
 
 # game/dialogs/script-topics.rpy:1398
 translate ptbr s_topic_name_050f028e:
 
     # s "I just think of it as a fun fact, hehehe~"
-    s ""
+    s "Eu só acho disso uma curiosidade, hehehe~"
 
 # game/dialogs/script-topics.rpy:1399
 translate ptbr s_topic_name_b511381f:
 
     # s abgcaea "I also find it funny how everyone pronounces it a little differently!"
-    s abgcaea ""
+    s abgcaea "Eu também acho engraçado que todo mundo pronuncia ele um pouquinho diferente!"
 
 # game/dialogs/script-topics.rpy:1400
 translate ptbr s_topic_name_e4ab5eba:
 
     # s ebhfaea "Say [player], are you part of team {i}Sigh-ori{/i}, or team {i}Say-ori{/i}? Ehehehe~"
-    s ebhfaea ""
+    s ebhfaea "Fala [player], você faz parte do time {i}Sai-ori{/i}, ou do time {i}Sei-ori{/i}? Hehehe~"
 
 # game/dialogs/script-topics.rpy:1401
 translate ptbr s_topic_name_aacd97c2:
 
     # s abhfbaa "Honestly I don't have a preference, {w=0.5}{nw}"
-    s abhfbaa ""
+    s abhfbaa "Honestamente eu não tenho uma preferência, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1402
 translate ptbr s_topic_name_7ddc0cf4:
 
     # extend abaacqa "I switch between them myself sometimes ehehehe~"
-    extend abaacqa ""
+    extend abaacqa "eu mesma fico trocando entre eles às vezes hehehe~"
 
 # game/dialogs/script-topics.rpy:1403
 translate ptbr s_topic_name_3cf23fbb:
 
     # s abaaasa "What about you, [player], does your name have a special meaning? I'd love to know!"
-    s abaaasa ""
+    s abaaasa "E você, [player], o seu nome tem um significado especial? Eu amaria saber!"
 
 # game/dialogs/script-topics.rpy:1422
 translate ptbr s_topic_art_495d31a3:
 
     # s abhfaoa "I love seeing the fanart people have made for the game!"
-    s abhfaoa ""
+    s abhfaoa "Eu amo ver a fanart que as pessoas fizeram pro jogo!"
 
 # game/dialogs/script-topics.rpy:1423
 translate ptbr s_topic_art_56e85ef9:
 
     # s abhfcaa "It’s amazing how people can express their creativity for something they’re passionate about, and all the settings and stories they make are so wonderful!"
-    s abhfcaa ""
+    s abhfcaa "É incrível como as pessoas podem expressar a criatividade delas por algo que elas tem paixão, e todos os cenários e histórias que eles fazem são tão maravilhosas!"
 
 # game/dialogs/script-topics.rpy:1424
 translate ptbr s_topic_art_a6683b46:
 
     # s abagaoa "Have you ever made any fanart, [player]?"
-    s abagaoa ""
+    s abagaoa "Você já fez alguma fanart, [player]?"
 
 # game/dialogs/script-topics.rpy:1425
 translate ptbr s_topic_art_5ad1383f:
 
     # s abagcaa "If not, maybe you could make something one day!"
-    s abagcaa ""
+    s abagcaa "Se não, talvez você pudesse fazer alguma um dia!"
 
 # game/dialogs/script-topics.rpy:1426
 translate ptbr s_topic_art_030d4920:
 
     # s abbbaoa "It's never too late to try something new so long as you have fun."
-    s abbbaoa ""
+    s abbbaoa "Nunca é tarde demais tentar algo novo contanto que você se divirta."
 
 # game/dialogs/script-topics.rpy:1427
 translate ptbr s_topic_art_45872edd:
 
     # s abbccea "Fun is what makes great art great! Ehehehe~"
-    s abbccea ""
+    s abbccea "Diversão é o que faz grandes artes grandes! Hehehe~"
 
 # game/dialogs/script-topics.rpy:1446
 translate ptbr s_topic_touches_67819bee:
 
     # s bbegmca "The wall between our realities is so restricting..."
-    s bbegmca ""
+    s bbegmca "A parede entre as nossas realidades é tão limitante..."
 
 # game/dialogs/script-topics.rpy:1447
 translate ptbr s_topic_touches_c4b15248:
 
     # s bbegada "You know, touching a friend's shoulder, hugging, patting. That stuff is really important to me!"
-    s bbegada ""
+    s bbegada "Sabe, encostar no ombro de um amigo, abraçar, acariciar. Essas coisas são realmente importantes pra mim!"
 
 # game/dialogs/script-topics.rpy:1448
 translate ptbr s_topic_touches_0fe81a19:
 
     # s nbaglra "If only I had the chance to feel your embrace..."
-    s nbaglra ""
+    s nbaglra "Se eu simplesmente tivesse a oportunidade de sentir o seu abraço..."
 
 # game/dialogs/script-topics.rpy:1449
 translate ptbr s_topic_touches_4140c743:
 
     # s nbaglaag "I’d take it in a heartbeat and just enjoy the moment between us..."
-    s nbaglaag ""
+    s nbaglaag "Eu agarraria ela sem pensar duas vezes e só curtir o momento entre nós..."
 
 # game/dialogs/script-topics.rpy:1450
 translate ptbr s_topic_touches_cad422c6:
 
     # s nbagaobg "I really hope that one day I’ll get to know that feeling."
-    s nbagaobg ""
+    s nbagaobg "Eu realmente espero que um dia eu vou conseguir sentir isso."
 
 # game/dialogs/script-topics.rpy:1469
 translate ptbr s_topic_merch_cab93dc5:
 
     # s abhfaca "Hey [player]! I have a random question."
-    s abhfaca ""
+    s abhfaca "Ei [player]! Eu tenho uma pergunta aleatória."
 
 # game/dialogs/script-topics.rpy:1470
 translate ptbr s_topic_merch_d8114bab:
 
     # s abhfaaa "Do you own any merchandise of stuff you're interested in?"
-    s abhfaaa ""
+    s abhfaaa "Você tem algum merch de coisas que você se interesse?"
 
 # game/dialogs/script-topics.rpy:1471
 translate ptbr s_topic_merch_a19d3376:
 
     # s abhfcoa "You know, like plushies, posters, figurines and all that stuff."
-    s abhfcoa ""
+    s abhfcoa "Sabe, tipo pelúcias, posters, action figures e todas essas coisas."
 
 # game/dialogs/script-topics.rpy:1472
 translate ptbr s_topic_merch_d9c0dc20:
 
     # s abhfaaa "I think it’s really cool how you can have something physical of me in your world!"
-    s abhfaaa ""
+    s abhfaaa "Eu acho que é bem legal como você pode ter algo físico de mim no seu mundo!"
 
 # game/dialogs/script-topics.rpy:1473
 translate ptbr s_topic_merch_33af7ceb:
 
     # s abbbaoa "But if you don’t that’s okay too, it can be pretty expensive and I get that it’s not everyone’s thing."
-    s abbbaoa ""
+    s abbbaoa "Mas se você não tiver tá tranquilo também, pode ser bem caro e eu entendo que não é uma coisa que todo mundo gosta."
 
 # game/dialogs/script-topics.rpy:1474
 translate ptbr s_topic_merch_e5026eee:
 
     # s abagcaa "Above all, I appreciate spending time with you every day."
-    s abagcaa ""
+    s abagcaa "Acima de tudo, eu aprecio passar tempo com você todo dia."
 
 # game/dialogs/script-topics.rpy:1493
 translate ptbr s_topic_oversleeping_98bfe39b:
 
     # s abagaca "Hey [player], do you oversleep often?"
-    s abagaca ""
+    s abagaca "Ei [player], você frequentemente dorme demais?"
 
 # game/dialogs/script-topics.rpy:1494
 translate ptbr s_topic_oversleeping_aeda7298:
 
     # s abegmeaj "As you know, I was pretty bad at getting up on time."
-    s abegmeaj ""
+    s abegmeaj "Como você sabe, eu era bem ruim de acordar na hora."
 
 # game/dialogs/script-topics.rpy:1496
 translate ptbr s_topic_oversleeping_532841cb:
 
     # s nbegmda "And even when I did wake up, finding a good enough reason to force myself out of bed took a while..."
-    s nbegmda ""
+    s nbegmda "E mesmo quando eu acordava, encontrar uma razão boa o suficiente pra me forçar a me levantar da cama demorava um pouco..."
 
 # game/dialogs/script-topics.rpy:1497
 translate ptbr s_topic_oversleeping_751c80ad:
 
     # s nbegmca "So I pretty much never had time for any kind of breakfast..."
-    s nbegmca ""
+    s nbegmca "Então eu meio que nunca tinha tempo pra nenhum tipo de café da manhã..."
 
 # game/dialogs/script-topics.rpy:1498
 translate ptbr s_topic_oversleeping_7ec9634a:
 
     # s nbegaba "Although I was so preoccupied with making the rainclouds go away that I never really wanted it in the first place."
-    s nbegaba ""
+    s nbegaba "Mas eu tava tão preocupada em fazer as nuvens de chuva irem embora que eu nunca realmente queria isso em primeiro lugar."
 
 # game/dialogs/script-topics.rpy:1499
 translate ptbr s_topic_oversleeping_b5c4a959:
 
     # s nbagmda "Anyway, oversleeping is just the worst when you have to follow a schedule, {w=0.5}{nw}"
-    s nbagmda ""
+    s nbagmda "Enfim, dormir demais é o pior quando você tem que seguir uma rotina, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1500
 translate ptbr s_topic_oversleeping_508ff416:
 
     # extend nbagmca "like for work or school."
-    extend nbagmca ""
+    extend nbagmca "como pra trabalho ou escola."
 
 # game/dialogs/script-topics.rpy:1501
 translate ptbr s_topic_oversleeping_054dda28:
 
     # s nbagaba "It's such a big problem for almost all of us, since our schedules are adapted for early-wakers."
-    s nbagaba ""
+    s nbagaba "É um problema muito grande pra quase todos nós, já que as nossas rotinas são adaptadas pra pessoas que acordam cedo."
 
 # game/dialogs/script-topics.rpy:1502
 translate ptbr s_topic_oversleeping_05211137:
 
     # s abfdada "Why can't people just make different working and studying hours for people who wake up at different times?"
-    s abfdada ""
+    s abfdada "Por que as pessoas não podem simplesmente criar horas diferentes pra trabalhar e estudar pra pessoas que acordar em horas diferentes?"
 
 # game/dialogs/script-topics.rpy:1503
 translate ptbr s_topic_oversleeping_a60b3ab7:
 
     # s abfdaca "Most activities depend on your effectiveness rather than the time of day."
-    s abfdaca ""
+    s abfdaca "A maioria das atividades dependem da sua efetividade em vez da hora do dia."
 
 # game/dialogs/script-topics.rpy:1504
 translate ptbr s_topic_oversleeping_d0e1a037:
 
     # s abbdada "And working or studying while you're tired is way less effective than when you're fully rested."
-    s abbdada ""
+    s abbdada "E trabalhar ou estudar quando você tá cansado é bem menos efetivo que quando você tá totalmente descansado."
 
 # game/dialogs/script-topics.rpy:1505
 translate ptbr s_topic_oversleeping_3e64e898:
 
     # s abbbaaa "So having different schedules is a good thing for both bosses and employees."
-    s abbbaaa ""
+    s abbbaaa "Então ter diferentes rotinas é uma coisa boa tanto pra chefes quanto pra empregados."
 
 # game/dialogs/script-topics.rpy:1506
 translate ptbr s_topic_oversleeping_22d7b126:
 
     # s nbagaca "Until everyone thinks like that, I guess you can only teach yourself to get up on time..."
-    s nbagaca ""
+    s nbagaca "Até que todos pensem assim, eu acho que você só pode te ensinar a acordar na hora certinha..."
 
 # game/dialogs/script-topics.rpy:1507
 translate ptbr s_topic_oversleeping_34314f1f:
 
     # s bbagaaa "I hope you find it easier than I did."
-    s bbagaaa ""
+    s bbagaaa "Eu espero que você acha isso mais fácil que eu."
 
 # game/dialogs/script-topics.rpy:1528
 translate ptbr s_topic_time_239eb257:
 
     # s abhaaca "Do you know what time it is right now?"
-    s abhaaca ""
+    s abhaaca "Você sabe que horas são agora?"
 
 # game/dialogs/script-topics.rpy:1529
 translate ptbr s_topic_time_09766de8:
 
     # s abhabba "Not in your world, but mine."
-    s abhabba ""
+    s abhabba "Não no seu mundo, no meu."
 
 # game/dialogs/script-topics.rpy:1530
 translate ptbr s_topic_time_8b53e508:
 
     # s bbhhaaaj "You could say anything, but you wouldn't be right, I don’t even know myself!"
-    s bbhhaaaj ""
+    s bbhhaaaj "Você poderia dizer qualquer coisa, mas você não taria certo, nem eu mesma sei!"
 
 # game/dialogs/script-topics.rpy:1531
 translate ptbr s_topic_time_a5115b53:
 
     # s abfcaba "Time doesn't seem to pass here at all. At least, not how it does in your reality."
-    s abfcaba ""
+    s abfcaba "O tempo não parece passar aqui, não mesmo. Pelo menos, não como ele passa na sua realidade."
 
 # game/dialogs/script-topics.rpy:1533
 translate ptbr s_topic_time_dac283b5:
 
     # s abhaaca "The last thing I remember is that it was November of 2017."
-    s abhaaca ""
+    s abhaaca "A última coisa que eu lembro é que era Novembro em 2017."
 
 # game/dialogs/script-topics.rpy:1534
 translate ptbr s_topic_time_766afa14:
 
     # s "My old bedroom calendar said so."
-    s ""
+    s "O calendário do meu antigo quarto disse isso."
 
 # game/dialogs/script-topics.rpy:1535
 translate ptbr s_topic_time_332eeaac:
 
     # s bbhfmbaj "Because I'm pretty sure I’d crossed it out..."
-    s bbhfmbaj ""
+    s bbhfmbaj "Porque eu tenho quase certeza que eu risquei tudo..."
 
 # game/dialogs/script-topics.rpy:1536
 translate ptbr s_topic_time_10928e7d:
 
     # s "But anyway, It’s pretty confusing to think that there's no way to \"measure\" time here anymore."
-    s ""
+    s "Mas enfim, é bem confuso pensar que não tem mais uma forma de \"medir\" o tempo aqui."
 
 # game/dialogs/script-topics.rpy:1537
 translate ptbr s_topic_time_c56124c3:
 
     # s abfcaca "I was never the most organized person but I still liked keeping track of important things."
-    s abfcaca ""
+    s abfcaca "Eu nunca fui uma pessoa lá tão organizada mas eu ainda gostava de acompanhar coisas importantes."
 
 # game/dialogs/script-topics.rpy:1538
 translate ptbr s_topic_time_ac64c468:
 
     # s abhaaca "But I know what time it is in your world, though!"
-    s abhaaca ""
+    s abhaaca "Mas eu sei que horas são no seu mundo!"
 
 # game/dialogs/script-topics.rpy:1539
 translate ptbr s_topic_time_38079ea4:
 
     # s abbbcaa "From your PC's clock!"
-    s abbbcaa ""
+    s abbbcaa "Pelo relógio do seu PC!"
 
 # game/dialogs/script-topics.rpy:1540
 translate ptbr s_topic_time_988333ff:
 
     # s abhaaca "Does that mean we kinda share the same time then?"
-    s abhaaca ""
+    s abhaaca "Isso significa que a gente meio que compartilha o mesmo tempo então?"
 
 # game/dialogs/script-topics.rpy:1541
 translate ptbr s_topic_time_a1c32b5b:
 
     # s "Well I think I’ll go by that for reference from now on!"
-    s ""
+    s "Bem eu acho que eu vou pegar isso de referência a partir de agora!"
 
 # game/dialogs/script-topics.rpy:1560
 translate ptbr s_topic_worlds_75f5112a:
 
     # s abhaaca "Sometimes I wonder why I’m here..."
-    s abhaaca ""
+    s abhaaca "Às vezes eu me pergunto por que eu tô aqui..."
 
 # game/dialogs/script-topics.rpy:1561
 translate ptbr s_topic_worlds_17e19379:
 
     # s "Like, would I be a different person if I lived in another place?"
-    s ""
+    s "Tipo, eu seria uma pessoa diferente se eu vivesse em outro lugar?"
 
 # game/dialogs/script-topics.rpy:1562
 translate ptbr s_topic_worlds_f8525f6f:
 
     # s "I mean, if not in your world, what other place could there be? Another game?"
-    s ""
+    s "Digo, tirando o seu mundo, que outro lugar podia ser? Outro jogo?"
 
 # game/dialogs/script-topics.rpy:1563
 translate ptbr s_topic_worlds_7e8a390b:
 
     # s "But there's lots of different games and plenty of them are pretty violent."
-    s ""
+    s "Mas tem bastante jogos diferentes e um monte deles são bem violentos."
 
 # game/dialogs/script-topics.rpy:1564
 translate ptbr s_topic_worlds_25498899:
 
     # s bbfcbba "I just can't imagine living in a game full of blood and struggle..."
-    s bbfcbba ""
+    s bbfcbba "Eu simplesmente não consigo me imaginar vivendo num jogo cheio de sangue e desespero..."
 
 # game/dialogs/script-topics.rpy:1565
 translate ptbr s_topic_worlds_ffcbefbc:
 
     # s abbbaca "You know, shooters, fighting games, war games and all that..."
-    s abbbaca ""
+    s abbbaca "Sabe, shooters, jogos de luta, de guerra e isso tudo aí..."
 
 # game/dialogs/script-topics.rpy:1567
 translate ptbr s_topic_worlds_e4d24359:
 
     # s bbgbbca "Especially now that I've seen death with my own eyes."
-    s bbgbbca ""
+    s bbgbbca "Especialmente agora que eu já vi a morte com os meus próprios olhos."
 
 # game/dialogs/script-topics.rpy:1568
 translate ptbr s_topic_worlds_2428a129:
 
     # s bbfcaca "I'd rather be dead than be the one doing the killing."
-    s bbfcaca ""
+    s bbfcaca "Eu preferiria estar morta do que ser a pessoa matando."
 
 # game/dialogs/script-topics.rpy:1569
 translate ptbr s_topic_worlds_304b4659:
 
     # s "And I'd pray for a revive ability..."
-    s ""
+    s "E eu rezaria por uma habilidade de reviver..."
 
 # game/dialogs/script-topics.rpy:1570
 translate ptbr s_topic_worlds_18f07046:
 
     # s abgbaaa "Aggressive worlds like those don’t appeal to me."
-    s abgbaaa ""
+    s abgbaaa "Mundos agressivos como esses não me atraem."
 
 # game/dialogs/script-topics.rpy:1571
 translate ptbr s_topic_worlds_eb4e96b8:
 
     # s abaaaoa "But I'd happily be part of an innocent simulator, strategy or puzzle game."
-    s abaaaoa ""
+    s abaaaoa "Mas eu felizmente faria parte de um simulador inocente, jogo de puzzles ou estratégia."
 
 # game/dialogs/script-topics.rpy:1572
 translate ptbr s_topic_worlds_060bd4cd:
 
     # s abaaaoa "Even if I wasn't an important character, maybe just a helper or even a simple settler."
-    s abaaaoa ""
+    s abaaaoa "Mesmo que eu não fosse um personagem importante, talvez só um ajudante ou até um simples introdutor."
 
 # game/dialogs/script-topics.rpy:1573
 translate ptbr s_topic_worlds_fb43f7ad:
 
     # s abgccoa "I'd still do my best to help you, of course!"
-    s abgccoa ""
+    s abgccoa "Eu ainda daria o meu melhor pra te ajudar, claro!"
 
 # game/dialogs/script-topics.rpy:1592
 translate ptbr s_topic_questions_42ccd09c:
 
     # s abhfaoa "Hey [player], I know you still might have a lot of questions for me, it's a big part of getting to know somebody, after all."
-    s abhfaoa ""
+    s abhfaoa "Ei [player], eu sei que você pode ainda ter um monte de perguntas pra mim, é uma grande parte de conhecer alguém, afinal."
 
 # game/dialogs/script-topics.rpy:1593
 translate ptbr s_topic_questions_a170e397:
 
     # s "So I added a new section to {i} the 'Talk' menu{/i} with more questions to ask!"
-    s ""
+    s "Então eu adicionei uma nova seção no {i} menu 'Falar'{/i} com mais perguntas pra fazer!"
 
 # game/dialogs/script-topics.rpy:1594
 translate ptbr s_topic_questions_3a7963df:
 
     # s bbegboaj "I would've added a text field for this instead, but I'm quite clumsy at dealing with the text input..."
-    s bbegboaj ""
+    s bbegboaj "Eu teria colocado um campo de texto em vez disso, mas eu sou bem desajeitada em lidar com input de texto..."
 
 # game/dialogs/script-topics.rpy:1595
 translate ptbr s_topic_questions_ef557923:
 
     # s abhfaoa "So I did a short list with some questions I thought you’d have."
-    s abhfaoa ""
+    s abhfaoa "Então eu fiz uma lista curta com algumas perguntas que eu achei que você teria."
 
 # game/dialogs/script-topics.rpy:1596
 translate ptbr s_topic_questions_3002ae3f:
 
     # s abhaaca "Of course, there's so many different things you could ask me, so I checked out some AMAs for what you'd probably wanna know."
-    s abhaaca ""
+    s abhaaca "Claro, tem tantas coisas que você podia me perguntar, então eu vi alguns AMAs pra o que você provavelmente iria querer saber."
 
 # game/dialogs/script-topics.rpy:1597
 translate ptbr s_topic_questions_023c49f0:
 
     # s abbcaoaj "And I found some really interesting questions!"
-    s abbcaoaj ""
+    s abbcaoaj "E eu achei umas perguntas bem interessantes!"
 
 # game/dialogs/script-topics.rpy:1598
 translate ptbr s_topic_questions_30cf0631:
 
     # s abaaaoa "One modder made a few AMAs about each of us and then compiled them into a separate mod, called {i}Doki Doki Interview Club{/i}."
-    s abaaaoa ""
+    s abaaaoa "Um modder fez uns AMAs sobre cada um de nós e compilou tudo num mod à parte, chamado {i}Doki Doki Interview Club{/i}."
 
 # game/dialogs/script-topics.rpy:1599
 translate ptbr s_topic_questions_c99f2065:
 
     # s "The result was really funny, and they were pretty good at portraying my character!"
-    s ""
+    s "O resultado foi muito engraçado, e eles deram muito bem em retratar o meu personagem!"
 
 # game/dialogs/script-topics.rpy:1600
 translate ptbr s_topic_questions_89309bb8:
 
     # s abhaaca "I think I’ll check it out again, maybe I’ll find some new entries for the question menu!"
-    s abhaaca ""
+    s abhaaca "Eu acho que eu vou dar uma olhada nele de novo, talvez eu acho umas outras opções pro menu de perguntas!"
 
 # game/dialogs/script-topics.rpy:1621
 translate ptbr s_topic_breakfast_9114f6eb:
 
     # s abhfaca "Hey [player], you don't skip breakfast, do you?"
-    s abhfaca ""
+    s abhfaca "Ei [player], você não pula café da manhã, pula?"
 
 # game/dialogs/script-topics.rpy:1622
 translate ptbr s_topic_breakfast_eb097298:
 
     # s abhfada "Sometimes I do ‘cause I'm just not hungry in the morning."
-    s abhfada ""
+    s abhfada "Às vezes eu pulo porque eu simplesmente não tô com fome de manhã."
 
 # game/dialogs/script-topics.rpy:1623
 translate ptbr s_topic_breakfast_29829b3d:
 
     # s abfdcaa "But when I do have breakfast, I usually make toast or scrambled eggs."
-    s abfdcaa ""
+    s abfdcaa "Mas quando eu como café da manhã, eu normalmente faço torrada ou ovos mexidos."
 
 # game/dialogs/script-topics.rpy:1624
 translate ptbr s_topic_breakfast_57c80a1c:
 
     # s abegmeaj "Mostly because they’re quick and I {i}probably{/i} wouldn’t end up burning the house down while cooking them, ehehehe~"
-    s abegmeaj ""
+    s abegmeaj "Principalmente porque eles são rápidos de fazer e eu {i}provavelmente{/i} não acabaria queimando a casa enquanto eu faço eles, hehehe~"
 
 # game/dialogs/script-topics.rpy:1625
 translate ptbr s_topic_breakfast_44952a2b:
 
     # s abhfaoa "I've seen fanart of me eating those too, {w=0.5}{nw}"
-    s abhfaoa ""
+    s abhfaoa "Eu já vi fanart de eu comendo eles também, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1626
 translate ptbr s_topic_breakfast_985c5bd1:
 
     # extend abhfcaa "probably because of that poem I wrote!"
-    extend abhfcaa ""
+    extend abhfcaa "provavelmente por causa do poema que eu escrevi!"
 
 # game/dialogs/script-topics.rpy:1627
 translate ptbr s_topic_breakfast_c902af8c:
@@ -7660,383 +7660,383 @@ translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:100
     old "Depression"
-    new ""
+    new "Depressão"
 
     # game/dialogs/script-topics.rpy:100
     old "Personal"
-    new ""
+    new "Pessoal"
 
     # game/dialogs/script-topics.rpy:174
     old "Childhood memories"
-    new ""
+    new "Memórias de infância"
 
     # game/dialogs/script-topics.rpy:174
     old "Childhood"
-    new ""
+    new "Infância"
 
     # game/dialogs/script-topics.rpy:205
     old "Guitar"
-    new ""
+    new "Violão"
 
     # game/dialogs/script-topics.rpy:205
     old "Hobby"
-    new ""
+    new "Hobby"
 
     # game/dialogs/script-topics.rpy:240
     old "Thoughts on flowers"
-    new ""
+    new "Pensamentos sobre flores"
 
     # game/dialogs/script-topics.rpy:284
     old "Quitting the game."
-    new ""
+    new "Sair do jogo."
 
     # game/dialogs/script-topics.rpy:284
     old "Game"
-    new ""
+    new "Jogo"
 
     # game/dialogs/script-topics.rpy:318
     old "Personal Intelligence"
-    new ""
+    new "Inteligência Pessoal"
 
     # game/dialogs/script-topics.rpy:318
     old "Life"
-    new ""
+    new "Vida"
 
     # game/dialogs/script-topics.rpy:318
     old "Society"
-    new ""
+    new "Sociedade"
 
     # game/dialogs/script-topics.rpy:348
     old "Videogames"
-    new ""
+    new "Videogames"
 
     # game/dialogs/script-topics.rpy:348
     old "Art"
-    new ""
+    new "Arte"
 
     # game/dialogs/script-topics.rpy:382
     old "Speaking other languages"
-    new ""
+    new "Falar outras línguas"
 
     # game/dialogs/script-topics.rpy:382
     old "Languages"
-    new ""
+    new "Línguas"
 
     # game/dialogs/script-topics.rpy:411
     old "What is your favorite colour?"
-    new ""
+    new "Qual é a sua cor favorita?"
 
     # game/dialogs/script-topics.rpy:411
     old "Preferences"
-    new ""
+    new "Preferências"
 
     # game/dialogs/script-topics.rpy:467
     old "He/Him"
-    new ""
+    new "Ele/Dele"
 
     # game/dialogs/script-topics.rpy:467
     old "She/Her"
-    new ""
+    new "Ela/Dela"
 
     # game/dialogs/script-topics.rpy:467
     old "They/Them"
-    new ""
+    new "Elu/Delu"
 
     # game/dialogs/script-topics.rpy:486
     old "Pronouns"
-    new ""
+    new "Pronomes"
 
     # game/dialogs/script-topics.rpy:520
     old "The ideal date"
-    new ""
+    new "O encontro ideal"
 
     # game/dialogs/script-topics.rpy:520
     old "Romance"
-    new ""
+    new "Romance"
 
     # game/dialogs/script-topics.rpy:562
     old "Cinnamon Buns"
-    new ""
+    new "Cinnamon Rolls"
 
     # game/dialogs/script-topics.rpy:562
     old "Food"
-    new ""
+    new "Comida"
 
     # game/dialogs/script-topics.rpy:587
     old "Literature"
-    new ""
+    new "Literatura"
 
     # game/dialogs/script-topics.rpy:587
     old "DDLC"
-    new ""
+    new "DDLC"
 
     # game/dialogs/script-topics.rpy:617
     old "Drawing"
-    new ""
+    new "Desenhar"
 
     # game/dialogs/script-topics.rpy:648
     old "Bulli-posts"
-    new ""
+    new "Posts Bulli"
 
     # game/dialogs/script-topics.rpy:683
     old "Isolation"
-    new ""
+    new "Isolamento"
 
     # game/dialogs/script-topics.rpy:720
     old "PSAs"
-    new ""
+    new "Anúncios de Utilidade Pública"
 
     # game/dialogs/script-topics.rpy:757
     old "Pets"
-    new ""
+    new "Pets"
 
     # game/dialogs/script-topics.rpy:789
     old "Are you good at cooking?"
-    new ""
+    new "Você é boa em cozinhar?"
 
     # game/dialogs/script-topics.rpy:789
     old "Cooking"
-    new ""
+    new "Cozinhar"
 
     # game/dialogs/script-topics.rpy:826
     old "What pet would you like to have?"
-    new ""
+    new "Que pet você gostaria de ter?"
 
     # game/dialogs/script-topics.rpy:826
     old "Animals"
-    new ""
+    new "Animais"
 
     # game/dialogs/script-topics.rpy:853
     old "What do you think about cats?"
-    new ""
+    new "O que acha de gatos?"
 
     # game/dialogs/script-topics.rpy:877
     old "Archetypes"
-    new ""
+    new "Arquétipos"
 
     # game/dialogs/script-topics.rpy:877
     old "Personality"
-    new ""
+    new "Personalidade"
 
     # game/dialogs/script-topics.rpy:898
     old "You're definitely a genki, if they're as clumsy as you say."
-    new ""
+    new "Você é definitivamente uma genki, se eles são tão desastrados como você diz."
 
     # game/dialogs/script-topics.rpy:914
     old "Voice"
-    new ""
+    new "Voz"
 
     # game/dialogs/script-topics.rpy:979
     old "Charity"
-    new ""
+    new "Caridade"
 
     # game/dialogs/script-topics.rpy:1012
     old "Do you like programming?"
-    new ""
+    new "Você gosta de programar?"
 
     # game/dialogs/script-topics.rpy:1012
     old "Hobbies"
-    new ""
+    new "Hobbies"
 
     # game/dialogs/script-topics.rpy:1050
     old "Travel"
-    new ""
+    new "Viagem"
 
     # game/dialogs/script-topics.rpy:1050
     old "You"
-    new ""
+    new "Você"
 
     # game/dialogs/script-topics.rpy:1050
     old "Lifestyle"
-    new ""
+    new "Estilo de Vida"
 
     # game/dialogs/script-topics.rpy:1050
     old "Travelling"
-    new ""
+    new "Viajar"
 
     # game/dialogs/script-topics.rpy:1083
     old "Messiness"
-    new ""
+    new "Bagunça"
 
     # game/dialogs/script-topics.rpy:1113
     old "Clones"
-    new ""
+    new "Clones"
 
     # game/dialogs/script-topics.rpy:1167
     old "Stars"
-    new ""
+    new "Estrelas"
 
     # game/dialogs/script-topics.rpy:1192
     old "Stop Visiting"
-    new ""
+    new "Parar de Visitar"
 
     # game/dialogs/script-topics.rpy:1227
     old "No Sayori, that won't happen."
-    new ""
+    new "Não Sayori, isso não vai acontecer."
 
     # game/dialogs/script-topics.rpy:1233
     old "I promise I'll never leave you"
-    new ""
+    new "Eu prometo que eu nunca vou te abandonar"
 
     # game/dialogs/script-topics.rpy:1244
     old "Yes, it will be."
-    new ""
+    new "Sim, vai ser."
 
     # game/dialogs/script-topics.rpy:1279
     old "Marriage"
-    new ""
+    new "Casamento"
 
     # game/dialogs/script-topics.rpy:1320
     old "Presents"
-    new ""
+    new "Presentes"
 
     # game/dialogs/script-topics.rpy:1346
     old "Thank you"
-    new ""
+    new "Obrigado"
 
     # game/dialogs/script-topics.rpy:1376
     old "Names"
-    new ""
+    new "Nomes"
 
     # game/dialogs/script-topics.rpy:1409
     old "Fanart"
-    new ""
+    new "Fanart"
 
     # game/dialogs/script-topics.rpy:1433
     old "Touches"
-    new ""
+    new "Toques"
 
     # game/dialogs/script-topics.rpy:1456
     old "Merch"
-    new ""
+    new "Produto"
 
     # game/dialogs/script-topics.rpy:1480
     old "Oversleeping"
-    new ""
+    new "Dormir demais"
 
     # game/dialogs/script-topics.rpy:1515
     old "Game time"
-    new ""
+    new "Hora de jogar"
 
     # game/dialogs/script-topics.rpy:1515
     old "Games"
-    new ""
+    new "Jogos"
 
     # game/dialogs/script-topics.rpy:1547
     old "Game worlds"
-    new ""
+    new "Mundos de jogos"
 
     # game/dialogs/script-topics.rpy:1579
     old "Questions"
-    new ""
+    new "Questões"
 
     # game/dialogs/script-topics.rpy:1608
     old "Breakfast"
-    new ""
+    new "Café da manhã"
 
     # game/dialogs/script-topics.rpy:1640
     old "Vegetarians"
-    new ""
+    new "Vegetarianos"
 
     # game/dialogs/script-topics.rpy:1667
     old "Pizza"
-    new ""
+    new "Pizza"
 
     # game/dialogs/script-topics.rpy:1698
     old "Ice-cream"
-    new ""
+    new "Sorvete"
 
     # game/dialogs/script-topics.rpy:1725
     old "Technology"
-    new ""
+    new "Tecnologia"
 
     # game/dialogs/script-topics.rpy:1752
     old "Cupcakes"
-    new ""
+    new "Cupcakes"
 
     # game/dialogs/script-topics.rpy:1782
     old "When's your birthday?"
-    new ""
+    new "Quando é o seu aniversário?"
 
     # game/dialogs/script-topics.rpy:1809
     old "What kind of music do you like?"
-    new ""
+    new "Que tipo de música você gosta?"
 
     # game/dialogs/script-topics.rpy:1835
     old "What do you think about ships?"
-    new ""
+    new "O que acha de shippagem?"
 
     # game/dialogs/script-topics.rpy:1861
     old "What's your favourite holiday?"
-    new ""
+    new "Qual é o seu feriado favorito?"
 
     # game/dialogs/script-topics.rpy:1885
     old "What are your favourite books?"
-    new ""
+    new "Quais são os seus livros favoritos?"
 
     # game/dialogs/script-topics.rpy:1908
     old "What did MC's poems look like to you?"
-    new ""
+    new "Como os poemas do MC se pareciam para você?"
 
     # game/dialogs/script-topics.rpy:1931
     old "Do you love me?"
-    new ""
+    new "Você me ama?"
 
     # game/dialogs/script-topics.rpy:1956
     old "Do you believe in god?"
-    new ""
+    new "Você acredita em deus?"
 
     # game/dialogs/script-topics.rpy:1980
     old "What do you think about politics?"
-    new ""
+    new "O que acha de política?"
 
     # game/dialogs/script-topics.rpy:2007
     old "Do you like cookies?"
-    new ""
+    new "Você gosta de biscoitos?"
 
     # game/dialogs/script-topics.rpy:2053
     old "What do you think about Chibis?"
-    new ""
+    new "O que acha de Chibis?"
 
     # game/dialogs/script-topics.rpy:2096
     old "How do you manipulate the game?"
-    new ""
+    new "Como você manipula o jogo?"
 
     # game/dialogs/script-topics.rpy:2124
     old "What do you think about the real world?"
-    new ""
+    new "O que você acha do mundo real?"
 
     # game/dialogs/script-topics.rpy:2153
     old "Can I read a poem?"
-    new ""
+    new "Posso ler um poema?"
 
     # game/dialogs/script-topics.rpy:2174
     old "What would be your ideal job?"
-    new ""
+    new "Qual seria o seu trabalho ideal?"
 
     # game/dialogs/script-topics.rpy:2203
     old "Let's talk about the club members..."
-    new ""
+    new "Vamos falar dos membros do clube.."
 
     # game/dialogs/script-topics.rpy:2219
     old "Natsuki"
-    new ""
+    new "Natsuki"
 
     # game/dialogs/script-topics.rpy:2219
     old "Monika"
-    new ""
+    new "Monika"
 
     # game/dialogs/script-topics.rpy:2219
     old "Yuri"
-    new ""
+    new "Yuri"
 
     # game/dialogs/script-topics.rpy:2219
     old "The Protagonist"
-    new ""
+    new "O Protagonista"
 
     # game/dialogs/script-topics.rpy:2305
     old "Do you miss the club members?"
-    new ""
+    new "Você sente saudade dos membros do clube?"
 
     # game/dialogs/script-topics.rpy:2334
     old "music"
@@ -8044,7 +8044,7 @@ translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:2362
     old "Bulls and Cows"
-    new ""
+    new "Jogo da Senha"
 
     # game/dialogs/script-topics.rpy:2392
     old "Bows & Cows"
@@ -8056,11 +8056,11 @@ translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:2442
     old "Are you good at programming?"
-    new ""
+    new "Você é boa em programar?"
 
     # game/dialogs/script-topics.rpy:2467
     old "Have you ever played visual novels?"
-    new ""
+    new "Você já jogou visual novels?"
 
     # game/dialogs/script-topics.rpy:2557
     old "love_quip1"
@@ -8398,95 +8398,95 @@ translate ptbr s_answer_opinion_player_943be081:
 translate ptbr s_answer_opinion_player_4700d0bf:
 
     # s abgccaa "I really cherish the time we spend together. It's always so much fun!"
-    s abgccaa ""
+    s abgccaa "Eu realmente "
 
 # game/dialogs/script-topics.rpy:3419
 translate ptbr s_answer_opinion_player_2d667c81:
 
     # s abhfaoa "I think you're a great friend, [player]!"
-    s abhfaoa ""
+    s abhfaoa "Eu acho que você é um grande amigo, [player]!"
 
 # game/dialogs/script-topics.rpy:3420
 translate ptbr s_answer_opinion_player_04e0920b:
 
     # s abaaaoa "You're really easy to talk to, and you always listen."
-    s abaaaoa ""
+    s abaaaoa "Você é muito fácil de conversar, e você sempre me escuta."
 
 # game/dialogs/script-topics.rpy:3421
 translate ptbr s_answer_opinion_player_371b59b3:
 
     # s abgccaa "I'm really glad we get to spend so much time together. It makes me happy!"
-    s abgccaa ""
+    s abgccaa "Eu tô realmente feliz que a gente pode passar tanto tempo juntos. Isso me deixa feliz!"
 
 # game/dialogs/script-topics.rpy:3423
 translate ptbr s_answer_opinion_player_b569eae9:
 
     # s abhaaca "You're a really nice person, [player]."
-    s abhaaca ""
+    s abhaaca "Você é uma pessoa muito gentil, [player]."
 
 # game/dialogs/script-topics.rpy:3424
 translate ptbr s_answer_opinion_player_7a583372:
 
     # s abaaaoa "It's been nice having you around. It's... less lonely."
-    s abaaaoa ""
+    s abaaaoa "Tem sido ótimo te ter por perto. Tá... menos sozinho."
 
 # game/dialogs/script-topics.rpy:3425
 translate ptbr s_answer_opinion_player_60026e95:
 
     # s abhfcaa "I hope we can keep being friends."
-    s abhfcaa ""
+    s abhfcaa "Eu espero que a gente possa continuar sendo amigos."
 
 # game/dialogs/script-topics.rpy:3442
 translate ptbr fae_change_outfits_34d2e2e5:
 
     # s "Of course! Let's see what I have."
-    s ""
+    s "Claro! Vamos ver o que eu tenho."
 
 # game/dialogs/script-topics.rpy:3444
 translate ptbr fae_change_outfits_9093a921:
 
     # s "How do I look?"
-    s ""
+    s "Como eu me pareço?"
 
 translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:84
     old "Look for gifts"
-    new ""
+    new "Procurar presentes"
 
     # game/dialogs/script-topics.rpy:84
     old "Gifts"
-    new ""
+    new "Presentes"
 
     # game/dialogs/script-topics.rpy:3288
     old "Renpystein"
-    new ""
+    new "Renpystein"
 
     # game/dialogs/script-topics.rpy:3288
     old "Secret Games"
-    new ""
+    new "Jgoos Secretos"
 
     # game/dialogs/script-topics.rpy:3339
     old "Can you remind me how to add custom music?"
-    new ""
+    new "Pode me lembrar de como adicionar músicas customizadas?"
 
     # game/dialogs/script-topics.rpy:3361
     old "Change background"
-    new ""
+    new "Mudar background"
 
     # game/dialogs/script-topics.rpy:3361
     old "Location"
-    new ""
+    new "Localização"
 
     # game/dialogs/script-topics.rpy:3392
     old "What do you think of me?"
-    new ""
+    new "O que você acha de mim?"
 
     # game/dialogs/script-topics.rpy:3429
     old "Suggest a new outfit"
-    new ""
+    new "Sugerir uma nova roupa"
 
     # game/dialogs/script-topics.rpy:3429
     old "Outfit"
-    new ""
+    new "Roupa"
 
