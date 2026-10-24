@@ -4882,31 +4882,31 @@ translate ptbr s_answer_reality_6169c02f:
 translate ptbr s_answer_reality_ba5dafc6:
 
     # s bbbbaca "It's pretty detailed and colorful, while my world is kinda simple."
-    s bbbbaca "É muito detalhada e colorida, enquanto o meu mundo"
+    s bbbbaca "É muito detalhada e colorida, enquanto o meu mundo é meio simples."
 
 # game/dialogs/script-topics.rpy:2147
 translate ptbr s_answer_reality_d1acc7d1:
 
     # s ebbccoa "But eh, that doesn't matter to me, so long as I’m by your side~"
-    s ebbccoa ""
+    s ebbccoa "Mas é, isso não importa pra mim, enquanto eu teja do seu lado~"
 
 # game/dialogs/script-topics.rpy:2166
 translate ptbr s_answer_read_7bfd16e5:
 
     # s ebbcaoa "Okay! Just pick the one you want to read."
-    s ebbcaoa ""
+    s ebbcaoa "Ok! Só escolhe um que você queira ler."
 
 # game/dialogs/script-topics.rpy:2187
 translate ptbr s_answer_profession_c94bc18f:
 
     # s abhaaca "To be honest, I've never really thought about it."
-    s abhaaca ""
+    s abhaaca "Pra ser honesta, eu nunca realmente pensei sobre isso."
 
 # game/dialogs/script-topics.rpy:2188
 translate ptbr s_answer_profession_b24685ef:
 
     # s abhaaaa "I've always found fulfillment in socializing and helping others."
-    s abhaaaa ""
+    s abhaaaa "Eu sempre encontrei"
 
 # game/dialogs/script-topics.rpy:2189
 translate ptbr s_answer_profession_5fb90d71:
