@@ -142,7 +142,7 @@ translate ptbr s_poem_bottles_56433baa:
 translate ptbr s_poem_bottles_214750c9:
 
     # extend bbfcjoaj "I didn't even have time to get my homework done, ehehehe..."
-    extend bbfcjoaj "eu tinha tempo nem pra fazer a minha lição de casa, hehehe..."
+    extend bbfcjoaj "eu tinha tempo nem pra fazer a minha lição de casa, ehehehe..."
 
 # game/dialogs/script-poemresponses.rpy:38
 translate ptbr s_poem_bottles_4580a7ad:
@@ -280,7 +280,7 @@ translate ptbr s_poem_flower_73198d4a:
 translate ptbr s_poem_flower_4eda87b0:
 
     # s bbbccia "I'll just keep watering them in the meantime, ehehehe~"
-    s bbbccia "Eu só vou continuar regando elas enquanto isso, hehehe~"
+    s bbbccia "Eu só vou continuar regando elas enquanto isso, ehehehe~"
 
 # game/dialogs/script-poemresponses.rpy:72
 translate ptbr s_poem_last_f01e1316:
@@ -664,7 +664,7 @@ translate ptbr s_poem_angel_3666acfe:
 translate ptbr s_poem_angel_d475a6b7:
 
     # s bbegmoaj "Maybe if Monika hadn't done any of this in the first place, I would still have done it, and nothing would have changed."
-    s bbegmoaj "Talvez se a Monika não tivesse feito nada disso pra começar, eu ainda teria feito isso, e nada teria mudado."
+    s bbegmoaj "Talvez se pra começar a Monika não tivesse feito nada disso, eu ainda teria feito isso, e nada teria mudado."
 
 # game/dialogs/script-poemresponses.rpy:147
 translate ptbr s_poem_angel_c0bd3bf8:
@@ -874,7 +874,7 @@ translate ptbr s_poem_prose_9d81eac8:
 translate ptbr s_poem_prose_84149de7:
 
     # s abhacqa "Ehehehe~"
-    s abhacqa "Hehehe~"
+    s abhacqa "Ehehehe~"
 
 # game/dialogs/script-poemresponses.rpy:191
 translate ptbr s_poem_prose_a3ac74fe:
