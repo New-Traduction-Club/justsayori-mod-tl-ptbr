@@ -2368,7 +2368,7 @@ translate ptbr s_topic_lit_977648ff:
 translate ptbr s_topic_charity_c9650e8f:
 
     # s abhaaca "What do you think about charity and volunteering?"
-    s abhaaca "O que você acha de caridade e trabalho voluntário?"
+    s abhaaca "O que você acha de caridade e voluntariado?"
 
 # game/dialogs/script-topics.rpy:993
 translate ptbr s_topic_charity_57fdb644:
@@ -2428,7 +2428,7 @@ translate ptbr s_topic_charity_7097a102:
 translate ptbr s_topic_charity_0090278b:
 
     # s abbbaaa "I don't know if volunteer work is something you'd like, but I think I would, {w=0.5}{nw}"
-    s abbbaaa "Eu não sei se trabalho voluntário é algo que você iria gostar, mas eu acho que eu sim, {w=0.5}{nw}"
+    s abbbaaa "Eu não sei se voluntariado é algo que você iria gostar, mas eu acho que eu sim, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:1003
 translate ptbr s_topic_charity_7d0ee8de:
@@ -4714,7 +4714,7 @@ translate ptbr s_answer_cookies_00a43247:
 translate ptbr s_answer_cookies_bfcf0849:
 
     # s abbccoa "Gotcha!"
-    s abbccoa "Conseguimo!"
+    s abbccoa "Bora!"
 
 # game/dialogs/script-topics.rpy:2040
 translate ptbr s_answer_cookies_8e45901b:
@@ -4906,301 +4906,301 @@ translate ptbr s_answer_profession_c94bc18f:
 translate ptbr s_answer_profession_b24685ef:
 
     # s abhaaaa "I've always found fulfillment in socializing and helping others."
-    s abhaaaa "Eu sempre encontrei"
+    s abhaaaa "Eu sempre encontrei satisfação em socializar e ajudar os outros."
 
 # game/dialogs/script-topics.rpy:2189
 translate ptbr s_answer_profession_5fb90d71:
 
     # s abhacaa "So, I think I'd be a good caregiver or psychologist!"
-    s abhacaa ""
+    s abhacaa "Então, eu acho que eu seria uma boa cuidadora ou psicóloga!"
 
 # game/dialogs/script-topics.rpy:2190
 translate ptbr s_answer_profession_9e03a28b:
 
     # s abbcaaa "Maybe even a... diplomatist?"
-    s abbcaaa ""
+    s abbcaaa "Talvez até mesmo uma... diplomatista?"
 
 # game/dialogs/script-topics.rpy:2191
 translate ptbr s_answer_profession_a52d2f73:
 
     # s bbegmpa "No, that's not right... a great {w=0.5}{nw}"
-    s bbegmpa ""
+    s bbegmpa "Não, isso não tá certo... uma grande {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2192
 translate ptbr s_answer_profession_c3ecfe09:
 
     # extend abbcaoa "{i}diplomat{/i}, ehehehe~"
-    extend abbcaoa ""
+    extend abbcaoa "{i}diplomata{/i}, ehehehe~"
 
 # game/dialogs/script-topics.rpy:2193
 translate ptbr s_answer_profession_ee549b1e:
 
     # s abbccoa "I could stop arguments on a global scale, and do my part to fix any disagreements!"
-    s abbccoa ""
+    s abbccoa "Eu poderia parar discussões em escala global, e fazer a minha parte pra resolver qualquer desentendido!"
 
 # game/dialogs/script-topics.rpy:2194
 translate ptbr s_answer_profession_c90ad1de:
 
     # s "I'd be happy doing almost anything, as long as I can be useful and make a difference in somebody's life."
-    s ""
+    s "Eu seria feliz fazendo quase tudo, enquanto eu seja útil e faça diferença na vida de alguém."
 
 # game/dialogs/script-topics.rpy:2195
 translate ptbr s_answer_profession_fc725b10:
 
     # s abhaaca "I suppose I could do something a little more creative, like painting, or writing..."
-    s abhaaca ""
+    s abhaaca "Eu acho que eu podia fazer algo um pouco mais criativo, como pintar, ou escrever..."
 
 # game/dialogs/script-topics.rpy:2196
 translate ptbr s_answer_profession_a5f9fb83:
 
     # s abbbaca "But to be honest, I don't think I could ever charge money for something I made."
-    s abbbaca ""
+    s abbbaca "Mas pra ser honesta, eu não acho que eu poderia jamais cobrar dinheiro por alguma coisa que eu fiz."
 
 # game/dialogs/script-topics.rpy:2197
 translate ptbr s_answer_profession_7fa4bf67:
 
     # s abhaaca "Art can express so many amazing feelings and help others feel like someone understands what they're going through, and that’s more than enough of a profit for me."
-    s abhaaca ""
+    s abhaaca "Arte conesgue expressar tantos sentimentos incríveis e ajudar os outros a se sentirem como se alguém entendesse pelo que eles tão passando, e isso já é mais que suficiente pra mim."
 
 # game/dialogs/script-topics.rpy:2216
 translate ptbr s_answer_opinion_5083fcc6:
 
     # s abaaaoa "Who do you wanna talk about?{nw}"
-    s abaaaoa ""
+    s abaaaoa "Sobre quem você quer falar?{nw}"
 
 # game/dialogs/script-topics.rpy:2220
 translate ptbr s_answer_opinion_35e2f131:
 
     # s "Who do you wanna talk about?{fast}" nointeract
-    s "" nointeract
+    s "Sobre quem você quer falar?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:2232
 translate ptbr s_answer_game_opinion_n_e1d8d50a:
 
     # s bbhfaaa "Natsuki was a good friend of mine."
-    s bbhfaaa ""
+    s bbhfaaa "Natsuki era uma boa amiga minha."
 
 # game/dialogs/script-topics.rpy:2233
 translate ptbr s_answer_game_opinion_n_dcdee0a3:
 
     # s bbhfaca "While she could come off as pretty arrogant and argumentative sometimes, she really did help out the club."
-    s bbhfaca ""
+    s bbhfaca "Mesmo que às vezes ela podia se mostrar bem arrogante e que gosta de discutir bastante, ela realmente ajdou o clube."
 
 # game/dialogs/script-topics.rpy:2234
 translate ptbr s_answer_game_opinion_n_75d4991e:
 
     # s abbbaaa "I know you didn't really see that side of her during the game, but when she was just around us she would lower her guard and become a lot more approachable."
-    s abbbaaa ""
+    s abbbaaa "Eu sei que você não realmente viu esse lado dela durante o jogo, mas quando ela tava perto só da gente ela baixava a guarda dela e ficava muito mais acessível."
 
 # game/dialogs/script-topics.rpy:2235
 translate ptbr s_answer_game_opinion_n_38e6a27d:
 
     # s abbbcaa "She was pretty handy with cooking and baking too!"
-    s abbbcaa ""
+    s abbbcaa "Ela era muito útil com cozinhar e assar também!"
 
 # game/dialogs/script-topics.rpy:2236
 translate ptbr s_answer_game_opinion_n_379771a6:
 
     # s bbbbaaa "It's too bad you couldn't have tasted her cupcakes, {w=0.5}{nw}"
-    s bbbbaaa ""
+    s bbbbaaa "Triste que você não conseguiu saborear os cupcakes dela, {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2237
 translate ptbr s_answer_game_opinion_n_34024ca8:
 
     # extend abhfbcaa "they were really tasty!"
-    extend abhfbcaa ""
+    extend abhfbcaa "eles eram muito gostosos!"
 
 # game/dialogs/script-topics.rpy:2238
 translate ptbr s_answer_game_opinion_n_9870ff67:
 
     # s abbbcaa "Anyways, I’m glad she decided to join the club in the first place since she needed a shelter from her father."
-    s abbbcaa ""
+    s abbbcaa "Enfim, tô feliz que ela decidiu entrar no clube primeiramente já que ela precisava de um abrigo contra pai dela."
 
 # game/dialogs/script-topics.rpy:2239
 translate ptbr s_answer_game_opinion_n_cb385081:
 
     # s bbhemoa "As you know, they didn't exactly get along well..."
-    s bbhemoa ""
+    s bbhemoa "Como você sabe, eles não se davam extamente bem..."
 
 # game/dialogs/script-topics.rpy:2240
 translate ptbr s_answer_game_opinion_n_f5dbed98:
 
     # s bbgbaca "And he certainly didn't approve of her reading manga."
-    s bbgbaca ""
+    s bbgbaca "E ele com certeza não aceitava que ela lesse mangá."
 
 # game/dialogs/script-topics.rpy:2241
 translate ptbr s_answer_game_opinion_n_4e2021c1:
 
     # s abgbaaa "So Natsuki moved her collection to the clubroom when she joined us."
-    s abgbaaa ""
+    s abgbaaa "Então a Natsuki moveu a coleção dela pra sala do clube quando ela se juntou a nós."
 
 # game/dialogs/script-topics.rpy:2242
 translate ptbr s_answer_game_opinion_n_07d97447:
 
     # s abgbcaa "But besides that, I think she was a lot kinder and more compassionate than what she showed to the outside world."
-    s abgbcaa ""
+    s abgbcaa "Mas tirando isso, eu acho que ela era muito mais gentil e mais compassiva do que ela mostrava no exterior."
 
 # game/dialogs/script-topics.rpy:2247
 translate ptbr s_answer_game_opinion_y_cf5eeb1f:
 
     # s abaaaa "Yuri was the most {i}enigmatic{/i} club member."
-    s abaaaa ""
+    s abaaaa "A Yuri era a membra mais {i}enigmática{/i} do clube."
 
 # game/dialogs/script-topics.rpy:2248
 translate ptbr s_answer_game_opinion_y_2cf8c69f:
 
     # s "That’s a word she’d probably use, come to think of it, hehehe~"
-    s ""
+    s "Essa é uma palavra que ela provavelmente usaria, pensando nisso, hehehe~"
 
 # game/dialogs/script-topics.rpy:2249
 translate ptbr s_answer_game_opinion_y_075c49ae:
 
     # s abhaaca "She was a quiet, shy, closed off person, who usually prefered to stay alone doing her own thing."
-    s abhaaca ""
+    s abhaaca "Ela era uma pessoa quieta, tímida e reservada, que normalmente preferia ficar sozinha fazendo as coisas dela mesma."
 
 # game/dialogs/script-topics.rpy:2250
 translate ptbr s_answer_game_opinion_y_94dd5f70:
 
     # s abaabaoa "But she was really intelligent, kind, and never had a bad word to say about anyone."
-    s abaabaoa ""
+    s abaabaoa "Mas ela era muito inteligente, fentil, e nunca falava mal de ninguém."
 
 # game/dialogs/script-topics.rpy:2251
 translate ptbr s_answer_game_opinion_y_3c33eae8:
 
     # s abaaca "Her poems were also very beautiful, and I could always tell that Yuri felt most at home with books and pens rather than people."
-    s abaaca ""
+    s abaaca "Os poemas dela também eram muito bonitos, e eu sempre podia perceber que a Yuri se sentir melhor em casa com livros e canetas do que com pessoas."
 
 # game/dialogs/script-topics.rpy:2252
 translate ptbr s_answer_game_opinion_y_23cee835:
 
     # s abbcaa "But when you got to know her, she was an approachable, helpful friend."
-    s abbcaa ""
+    s abbcaa "Mas quando você conheceu ela, ela era uma amiga prestativa e acessível."
 
 # game/dialogs/script-topics.rpy:2254
 translate ptbr s_answer_game_opinion_y_2d67336c:
 
     # s abhaaca "I was honestly pretty scared when I saw how she became much more unstable and aggressive after I was gone."
-    s abhaaca ""
+    s abhaaca "Eu honestamente fiquei muito assustada quando eu vi que ela ficou muito mais instável e agressiva depois que eu morri."
 
 # game/dialogs/script-topics.rpy:2255
 translate ptbr s_answer_game_opinion_y_48b7e0fd:
 
     # s bbbcac "But I know that wasn't who Yuri really was."
-    s bbbcac ""
+    s bbbcac "Mas eu sei que essa não era quem a Yuri realmente era."
 
 # game/dialogs/script-topics.rpy:2256
 translate ptbr s_answer_game_opinion_y_3ee22950:
 
     # s "She was just a victim of circumstance, like me."
-    s ""
+    s "Ela só era uma vítima das circunstâncias, como eu."
 
 # game/dialogs/script-topics.rpy:2257
 translate ptbr s_answer_game_opinion_y_4662f87f:
 
     # s abbcaa "In fact, her first argument with Natsuki in the game was pretty much the limit of Yuri's capabilities to 'lash out' at someone else."
-    s abbcaa ""
+    s abbcaa "Realmente, a primeira discussão dela com a Natsuki no jogo foi meio que o limite das capacidades da Yuri de 'descontar' em outra pessoa."
 
 # game/dialogs/script-topics.rpy:2258
 translate ptbr s_answer_game_opinion_y_88c8188b:
 
     # s abaaaa "The {i}real{/i} Yuri I knew was a very sweet girl who had her own problems and own solutions, just like everyone else. I won't judge her for that."
-    s abaaaa ""
+    s abaaaa "A Yuri {i}de verdade{/i} que eu conheci era uma garota muito doce que tinha os seus próprios problemas e soluções, assim como todos os outros. Eu não vou julgar ela por isso."
 
 # game/dialogs/script-topics.rpy:2260
 translate ptbr s_answer_game_opinion_y_74b9f126:
 
     # s abaaaa "We all were glad to have her as a club member."
-    s abaaaa ""
+    s abaaaa "Todos nós ficamos contentes por ter ela como um membro do clube."
 
 # game/dialogs/script-topics.rpy:2261
 translate ptbr s_answer_game_opinion_y_4623ad13:
 
     # s "Even Natsuki, despite the two of them being so different from each other."
-    s ""
+    s "Até a Natsuki, mesmo que as duas fossem tão diferentes."
 
 # game/dialogs/script-topics.rpy:2266
 translate ptbr s_answer_game_opinion_m_1d160604:
 
     # s abaaaaa "Well, Monika was the first club president."
-    s abaaaaa ""
+    s abaaaaa "Bem, a Monika era a primeira presidente do clube."
 
 # game/dialogs/script-topics.rpy:2267
 translate ptbr s_answer_game_opinion_m_986eebc0:
 
     # s "She did her work very well and I was glad to be her right-hand woman."
-    s ""
+    s "Ela fazia o trabalho dela muito bem e eu era o braço direito dela."
 
 # game/dialogs/script-topics.rpy:2268
 translate ptbr s_answer_game_opinion_m_e54af522:
 
     # s abaaaca "But she struggled to communicate well with other people, and couldn't control her feelings as time went on."
-    s abaaaca ""
+    s abaaaca "Mas ela tinha dificuldade em se comunicar bem com as outras pessoas, e não conseguia controlar os sentimentos dela com o passar do tempo."
 
 # game/dialogs/script-topics.rpy:2270
 translate ptbr s_answer_game_opinion_m_3f67228d:
 
     # s bbbblca "Look. {w=0.5}{nw}"
-    s bbbblca ""
+    s bbbblca "Olha. {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:2271
 translate ptbr s_answer_game_opinion_m_aa2c6a59:
 
     # extend bbbbaca "I know what you're really asking me."
-    extend bbbbaca ""
+    extend bbbbaca "Eu sei que você tá perguntando."
 
 # game/dialogs/script-topics.rpy:2272
 translate ptbr s_answer_game_opinion_m_68d7e8b5:
 
     # s bbbblca "Despite everything she put me and the others through..."
-    s bbbblca ""
+    s bbbblca "Mesmo com tudo ela fez eu e os outros passar..."
 
 # game/dialogs/script-topics.rpy:2273
 translate ptbr s_answer_game_opinion_m_908beb77:
 
     # s bbaaaca "I truly believe that Monika was our friend, and she just lost sight of what was really important."
-    s bbaaaca ""
+    s bbaaaca "Eu verdadeiramente acredito que a Monika era a nossa amiga, e que ela só perdeu visão do que era realmente importante."
 
 # game/dialogs/script-topics.rpy:2274
 translate ptbr s_answer_game_opinion_m_35e73018:
 
     # s bbaabca "I've been the President. I know what it does to you. And for her to be so completely alone the entire time, watching everyone she's ever known run on a script..."
-    s bbaabca ""
+    s bbaabca "Eu fui a Presidente. Eu sei o que isso faz com você. E pra ela ser completamente sozinha o tempo inteiro, vendo todo mundo que ela conheceu rodar num script..."
 
 # game/dialogs/script-topics.rpy:2275
 translate ptbr s_answer_game_opinion_m_1009fff4:
 
     # s bbaaaca "I can't blame her for becoming a little desperate."
-    s bbaaaca ""
+    s bbaaaca "Eu não posso culpar ela por ficar um pouco desesperada."
 
 # game/dialogs/script-topics.rpy:2276
 translate ptbr s_answer_game_opinion_m_c496975a:
 
     # s "So although I think what she did was wrong, I don’t think she’s evil."
-    s ""
+    s "Então mesmo que eu ache que o que ela fez foi errado, eu não acho que ela seja má."
 
 # game/dialogs/script-topics.rpy:2277
 translate ptbr s_answer_game_opinion_m_1c7771dd:
 
     # s bbbbaca "After all, she never truly deleted us, and brought us all back when she had a moment of clarity."
-    s bbbbaca ""
+    s bbbbaca "Afinal, ela nunca realmente nos deletou, ela trouxe nós todos de volta quando caiu a ficha dela."
 
 # game/dialogs/script-topics.rpy:2279
 translate ptbr s_answer_game_opinion_m_92c457e3:
 
     # s bbaakca "The thought of what she did to me still hurts sometimes."
-    s bbaakca ""
+    s bbaakca "O pensamento do que ela fez comigo ainda dói às vezes."
 
 # game/dialogs/script-topics.rpy:2280
 translate ptbr s_answer_game_opinion_m_6afbd947:
 
     # s bbaaaaa "But I can’t be mad at her since she bought me back and fixed her mistakes at the cost of her own happiness. I respect her a lot for that."
-    s bbaaaaa ""
+    s bbaaaaa "Mas eu não posso ficar brava com ela já que ela me trouxe de volta e consertou os erros dela a custo da própria felicidade. Eu respeito muito ela por isso."
 
 # game/dialogs/script-topics.rpy:2285
 translate ptbr s_answer_game_opinion_mc_322c0c1b:
 
     # s abbcaaa "Well, I knew him since we were children."
-    s abbcaaa ""
+    s abbcaaa "Bem, eu conhecia ele desde que a gente era criança."
 
 # game/dialogs/script-topics.rpy:2286
 translate ptbr s_answer_game_opinion_mc_28c9457a:
