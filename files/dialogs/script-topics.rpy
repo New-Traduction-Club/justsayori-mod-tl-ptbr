@@ -754,13 +754,13 @@ translate ptbr s_topics_intelligence_9dfbf938:
 translate ptbr s_topics_intelligence_0c2e4e45:
 
     # s "Maybe because I was always daydreaming... {w=0.5}{nw}"
-    s "Talvez porque eu sempre tava viajando na maionese... {w=0.5}{nw}"
+    s "Talvez porque eu sempre tava sonhando acordada... {w=0.5}{nw}"
 
 # game/dialogs/script-topics.rpy:335
 translate ptbr s_topics_intelligence_c60c9a75:
 
     # extend abbbaca "and wasn't as broad-minded as Monika and Yuri."
-    extend abbbaca "e que eu não tinha uma mente tão aberta quanto a Monika ou a Yuri."
+    extend abbbaca "e que eu não era tão mente aberta quanto à Monika ou à Yuri."
 
 # game/dialogs/script-topics.rpy:336
 translate ptbr s_topics_intelligence_eafec3f2:
@@ -6154,241 +6154,241 @@ translate ptbr s_topics_intrusive_thoughts_0c255368:
 translate ptbr s_topics_zombie_apocalypse_51adf2ae:
 
     # s abbcaaa "You know, I have way too much free time on my hands, so I'm always thinking about stuff."
-    s abbcaaa "Sabe, eu tenho"
+    s abbcaaa "Sabe, eu tenho tempo livre demais nas minhas mãos, então eu sempre fico pensando nas coisas."
 
 # game/dialogs/script-topics.rpy:2778
 translate ptbr s_topics_zombie_apocalypse_fc5e5393:
 
     # s bbbcboa "...usually stupid stuff, ehehehe~"
-    s bbbcboa ""
+    s bbbcboa "... normalmente coisas bestas, ehehehe~"
 
 # game/dialogs/script-topics.rpy:2779
 translate ptbr s_topics_zombie_apocalypse_28391c2d:
 
     # s abbcbsa "Like a zombie apocalypse!"
-    s abbcbsa ""
+    s abbcbsa "Tipo um apocalipse zumbi!"
 
 # game/dialogs/script-topics.rpy:2780
 translate ptbr s_topics_zombie_apocalypse_54c3169d:
 
     # s abbcaca "What would I do if one happened? What {i}could{/i} I even do?"
-    s abbcaca ""
+    s abbcaca "O que iria fazer se um acontecesse? O que eu {i}poderia{/i} sequer fazer?"
 
 # game/dialogs/script-topics.rpy:2781
 translate ptbr s_topics_zombie_apocalypse_c2a22b20:
 
     # s bbeemoa "I'd like to think I'd become a really cool survival expert, but that probably isn't very realistic..."
-    s bbeemoa ""
+    s bbeemoa "Eu queria pensar que eu seria uma expert de sobrevivência da hora, mas isso provavelmente não é muito realista..."
 
 # game/dialogs/script-topics.rpy:2782
 translate ptbr s_topics_zombie_apocalypse_9d296253:
 
     # s abeeaca "I don't know how to shoot, can't run very fast, and would probably die of sadness if I wasn't able to eat pudding or pizza ever again!"
-    s abeeaca ""
+    s abeeaca "Eu não sei atirar, não posso correr muito rápdio, e provavelmente morrer de tristeza se eu nunca mais conseguisse comer pudim ou pizza!"
 
 # game/dialogs/script-topics.rpy:2783
 translate ptbr s_topics_zombie_apocalypse_31f5a023:
 
     # s abbccma "Mmmmh vanilla pudding... I could really go for some right now..."
-    s abbccma ""
+    s abbccma "Mmmmh pudim de baunilha... eu realmente podia comer um pouquinho agora..."
 
 # game/dialogs/script-topics.rpy:2785
 translate ptbr s_topics_zombie_apocalypse_35670e69:
 
     # s abfcaca "Ahem- anyway! I probably wouldn't be of much help and would have to join a group or something."
-    s abfcaca ""
+    s abfcaca "Ahem- enfim! Eu provavelmente não seria de muita ajuda e eu teria que entrar num grupo ou algo assim."
 
 # game/dialogs/script-topics.rpy:2786
 translate ptbr s_topics_zombie_apocalypse_701bbb1e:
 
     # s bbfcbca "Wait... what if I get left behind, or used as zombie bait?!"
-    s bbfcbca ""
+    s bbfcbca "Pera... e se eu for abandonada, ou ser usada como uma isca pros zumbis?!"
 
 # game/dialogs/script-topics.rpy:2787
 translate ptbr s_topics_zombie_apocalypse_dfeb40dc:
 
     # s abfcaca "You wouldn't use me as zombie bait, right, [player]?{nw}"
-    s abfcaca ""
+    s abfcaca "Você não me usaria como uma isca pros zumbis, né, [player]?{nw}"
 
 # game/dialogs/script-topics.rpy:2791
 translate ptbr s_topics_zombie_apocalypse_545a5131:
 
     # s "You wouldn't use me as zombie bait, right, [player]?{fast}" nointeract
-    s "" nointeract
+    s "Você não me usaria de isca pros zumbis, né, [player]?{fast}" nointeract
 
 # game/dialogs/script-topics.rpy:2793
 translate ptbr s_topics_zombie_apocalypse_3c3e24a0:
 
     # s abgcega "Whaaaat? That's so mean!"
-    s abgcega ""
+    s abgcega "Quêêêêêê? Que feio!"
 
 # game/dialogs/script-topics.rpy:2794
 translate ptbr s_topics_zombie_apocalypse_ca516de0:
 
     # s cbgcaca "If you used me as zombie bait I'd eat every single last chocolate bar on earth, and wouldn't share a single one with you!"
-    s cbgcaca ""
+    s cbgcaca "Se você me usasse de isca pros zumbis eu iria comer todas as barras chocolates que sobrarem na Terra, e não dividiria nem unzinho com você!"
 
 # game/dialogs/script-topics.rpy:2795
 translate ptbr s_topics_zombie_apocalypse_9f81605e:
 
     # s cbgcapa "Hmph!"
-    s cbgcapa ""
+    s cbgcapa "Hmph!"
 
 # game/dialogs/script-topics.rpy:2797
 translate ptbr s_topics_zombie_apocalypse_f03ea599:
 
     # s bbgbcoa "I'd never use you as bait either, ehehehe~"
-    s bbgbcoa ""
+    s bbgbcoa "Eu não te usaria de isca pra zumbi também, ehehehe~"
 
 # game/dialogs/script-topics.rpy:2798
 translate ptbr s_topics_zombie_apocalypse_a03facf8:
 
     # s abgccoa "After all, we're too cool to be zombie food!"
-    s abgccoa ""
+    s abgccoa "Afinal, nós somso da hora demais pra virar comida de zumbi!"
 
 # game/dialogs/script-topics.rpy:2799
 translate ptbr s_topics_zombie_apocalypse_cbc19549:
 
     # s abgcaoa "We won't need anyone to bait or distract them if we're as silent as ninjas!"
-    s abgcaoa ""
+    s abgcaoa "A gente não vai precisar de ninguém pra enganar ou distrair eles se nós somos silenciosos como ninjas!"
 
 # game/dialogs/script-topics.rpy:2801
 translate ptbr s_topics_zombie_apocalypse_272eb069:
 
     # s bbeeboa "Are you completely clueless about survival techniques too? I guess that makes two of us, ehehehe~"
-    s bbeeboa ""
+    s bbeeboa "Você também não tem a menor ideia de técnicas de sobrevivência também? Eu acho que a gente tá junto nessa, ehehehe~"
 
 # game/dialogs/script-topics.rpy:2803
 translate ptbr s_topics_zombie_apocalypse_6970c7ec:
 
     # s bbeeaca "...we really would get left behind, wouldn't we..."
-    s bbeeaca ""
+    s bbeeaca "... nós seríamos abandonados, não seríamos..."
 
 # game/dialogs/script-topics.rpy:2804
 translate ptbr s_topics_zombie_apocalypse_502ae9e6:
 
     # s abbccaa "Well, it's their loss anyways, they'd be losing the two coolest members of their stupid group!"
-    s abbccaa ""
+    s abbccaa "Bem, azar o deles também, eles tariam perdendo os dois membros mais da hora do grupo estúpido deles!"
 
 # game/dialogs/script-topics.rpy:2805
 translate ptbr s_topics_zombie_apocalypse_eaef8f27:
 
     # s abbcaoa "Besides, if we're together, we would show the zombies who they're really up against!"
-    s abbcaoa ""
+    s abbcaoa "Além do mais, se a gente tivesse junto, mostraria pros zumbis o que é bom pra tosse!"
 
 # game/dialogs/script-topics.rpy:2806
 translate ptbr s_topics_zombie_apocalypse_22dd1087:
 
     # s abbceea "Hiyaaaa!!"
-    s abbceea ""
+    s abbceea "Hiyaaaa!!"
 
 # game/dialogs/script-topics.rpy:2807
 translate ptbr s_topics_zombie_apocalypse_05214e6e:
 
     # s abfcbca "Oh, and the type of zombie infection would probably completely change our strategies, wouldn't it?"
-    s abfcbca ""
+    s abfcbca "Ah, e o tipo de infecção zumbi provavelmente mudaria completamenta as nossas estratégias, não é?"
 
 # game/dialogs/script-topics.rpy:2808
 translate ptbr s_topics_zombie_apocalypse_468218b2:
 
     # s fbbcbca "Lots of movies have slow, stupid brain eating zombies, but what if they're actually really fast and intelligent!?"
-    s fbbcbca ""
+    s fbbcbca "Um monte de filmes têm zumbis lerdos e burros que comem cérebros, mas e se na verdade eles são muito rápidos e inteligentes!?"
 
 # game/dialogs/script-topics.rpy:2809
 translate ptbr s_topics_zombie_apocalypse_99d930b0:
 
     # s abbcega "Those sound scary, I don't think I'd ever be able to survive that!"
-    s abbcega ""
+    s abbcega "Esses soam assusturadores, eu não acho que eu ia jamais conseguir sobreviver a isso!"
 
 # game/dialogs/script-topics.rpy:2810
 translate ptbr s_topics_zombie_apocalypse_f11f6c64:
 
     # s abbcloa "Well, I'm glad I don't have to!"
-    s abbcloa ""
+    s abbcloa "Bem, que bom que eu não preciso!"
 
 # game/dialogs/script-topics.rpy:2811
 translate ptbr s_topics_zombie_apocalypse_e6cd29ec:
 
     # s abbcaoa "I'd rather be safe and sound in this classroom than somewhere else where I'd get eaten alive!"
-    s abbcaoa ""
+    s abbcaoa "Eu prefiro ficar sã e salva nessa sala do que em outro lugar que eu seria comida viva!"
 
 # game/dialogs/script-topics.rpy:2812
 translate ptbr s_topics_zombie_apocalypse_638561d2:
 
     # s abeeaoa "I never thought I'd ever say that, I guess school isn’t so bad, ehehehe~"
-    s abeeaoa ""
+    s abeeaoa "Eu nunca pensei que eu falaria isso, eu acho que escola não é tão ruim assim, ehehehe~"
 
 # game/dialogs/script-topics.rpy:2831
 translate ptbr s_topics_alcohol_cd53525f:
 
     # s abbcaca "Hey, [player]."
-    s abbcaca ""
+    s abbcaca "Ei, [player]."
 
 # game/dialogs/script-topics.rpy:2832
 translate ptbr s_topics_alcohol_e2d8d4f4:
 
     # s abbcbca "Did Monika happen to mention the incident with Yuri that one time?"
-    s abbcbca ""
+    s abbcbca "A Monika chegou a mencionar o incidente com a Yuri aquela vez?"
 
 # game/dialogs/script-topics.rpy:2833
 translate ptbr s_topics_alcohol_57afa034:
 
     # s abbbaca "Well... If you didn't know already she kinda brought some alcohol to school once."
-    s abbbaca ""
+    s abbbaca "Bom... Se você não já sabe ela meio que trouxe álcool pra escola uma vez."
 
 # game/dialogs/script-topics.rpy:2834
 translate ptbr s_topics_alcohol_ccebbb20:
 
     # s "A bottle of wine actually."
-    s ""
+    s "Uma garrafa de vinho pra falar a verdade."
 
 # game/dialogs/script-topics.rpy:2835
 translate ptbr s_topics_alcohol_6323ca17:
 
     # s bbeemoa "She just pulled it out of her bag and casually offered us some."
-    s bbeemoa ""
+    s bbeemoa "Ela só tirou da mochila dela e casualmente nos ofereceu um pouco."
 
 # game/dialogs/script-topics.rpy:2836
 translate ptbr s_topics_alcohol_98e0a306:
 
     # s bbhemoaj "And I may have overreacted a teensy bit..."
-    s bbhemoaj ""
+    s bbhemoaj "E eu talvez surtei um pouquinho..."
 
 # game/dialogs/script-topics.rpy:2837
 translate ptbr s_topics_alcohol_12c7afa5:
 
     # s bbheioaj "But as her friend I didn't want her to get into trouble!"
-    s bbheioaj ""
+    s bbheioaj "Mas como amiga dela eu não queria que ela se metesse em problemas!"
 
 # game/dialogs/script-topics.rpy:2838
 translate ptbr s_topics_alcohol_613c6557:
 
     # s bahccoaj "I don't think it helped either when Natsuki just broke out laughing..."
-    s bahccoaj ""
+    s bahccoaj "Eu não acho que ajudou quando a Natsuki simplesmente caiu na gargalhada..."
 
 # game/dialogs/script-topics.rpy:2839
 translate ptbr s_topics_alcohol_13c3def1:
 
     # s bahcaoaj "I'm pretty sure she was really embarrassed at that moment ..."
-    s bahcaoaj ""
+    s bahcaoaj "Eu tenho bastatnte certeza que ela tava com muita vergonha na hora..."
 
 # game/dialogs/script-topics.rpy:2840
 translate ptbr s_topics_alcohol_47886d5b:
 
     # s abbcaaa "Monika had to step-in as the responsible one and kindly ask that she put it away and try to keep stuff like that off of school grounds."
-    s abbcaaa ""
+    s abbcaaa "A Monika teve que intervir como a responsável e gentilmente pediu que ela guardasse e tentasse deixar coisas assim fora do ambiente escolar."
 
 # game/dialogs/script-topics.rpy:2841
 translate ptbr s_topics_alcohol_81f9210a:
 
     # s bbbbaca "I'm pretty sure she was just trying to look out for her in her own way, but Yuri seemed more withdrawn than usual after..."
-    s bbbbaca ""
+    s bbbbaca "Eu tenho quase certeza que ela só tava tentando cuidar dela, mas a Yuri ficou parecendo mais isolada que o normal depois..."
 
 # game/dialogs/script-topics.rpy:2842
 translate ptbr s_topics_alcohol_762ef2f5:
 
     # s bbbbara "Maybe even ashamed..."
-    s bbbbara ""
+    s bbbbara "Talvez até envergonhada..."
 
 # game/dialogs/script-topics.rpy:2843
 translate ptbr s_topics_alcohol_75c1c462:
@@ -7908,7 +7908,7 @@ translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:1456
     old "Merch"
-    new "Produto"
+    new "Merch"
 
     # game/dialogs/script-topics.rpy:1480
     old "Oversleeping"
@@ -8464,7 +8464,7 @@ translate ptbr strings:
 
     # game/dialogs/script-topics.rpy:3288
     old "Secret Games"
-    new "Jgoos Secretos"
+    new "Jogos Secretos"
 
     # game/dialogs/script-topics.rpy:3339
     old "Can you remind me how to add custom music?"
