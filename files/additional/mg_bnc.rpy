@@ -102,11 +102,11 @@ translate ptbr strings:
 
     # game/additional/mg_bnc.rpy:52
     old "{color=#00cc00}Bulls: [bnc.bulls]{/color}"
-    new "{color=#00cc00}Acertos: [bnc.bulls]{/color}"
+    new "{color=#00cc00}Pretos: [bnc.bulls]{/color}"
 
     # game/additional/mg_bnc.rpy:53
     old "{color=#ffff00}Cows: [bnc.cows]{/color}"
-    new "{color=#ffff00}Acertos Parciais: [bnc.cows]{/color}"
+    new "{color=#ffff00}Brancos: [bnc.cows]{/color}"
 
     # game/additional/mg_bnc.rpy:56
     old "{i}Right answer: [bnc.guessed]{/i}"

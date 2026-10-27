@@ -16,7 +16,7 @@ translate ptbr fae_event_mr_cow_transform_17e6f8d7:
 translate ptbr fae_event_mr_cow_transform_76f6d3af:
 
     # s "I was messing with the code and accidentally turned myself into Mr. Cow!"
-    s "Eu tava mexendo com o código e acidentalmente me tornei no Mr. Cow!"
+    s "Eu tava mexendo com o código e acidentalmente me tornei no Mr. Vaquinha!"
 
 # game/dialogs/script-events.rpy:111
 translate ptbr fae_event_mr_cow_transform_f5deb510:
