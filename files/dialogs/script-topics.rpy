@@ -2038,7 +2038,7 @@ translate ptbr s_player_pets_01649e78:
 translate ptbr s_player_pets_b2fbed90:
 
     # s bbegcia "I'd love to have a dog, but I'd have to have the energy to keep up with it."
-    s bbegcia "Eu amaria ter um cachorro, mas eu teria que ter energia pra acompanhar eles.
+    s bbegcia "Eu amaria ter um cachorro, mas eu teria que ter energia pra acompanhar eles."
 
 # game/dialogs/script-topics.rpy:843
 translate ptbr s_player_pets_a1311dab:
