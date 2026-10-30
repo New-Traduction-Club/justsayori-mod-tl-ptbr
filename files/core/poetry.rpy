@@ -10,7 +10,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:193
     old "Hi\nNot dead\nTaking a very long nap\n\n-Sayori (alive)"
-    new "Oi\nNão morta\nTendo uma soneca bem longa\n\n-Sayori (viva)"
+    new "Oi\nNão morta\nTirando uma soneca bem longa\n\n-Sayori (viva)"
 
     # game/core/poetry.rpy:205
     old "Dear Sunshine"
@@ -42,11 +42,11 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:303
     old "Fruits of life"
-    new "Frutas da vida"
+    new "Frutos da vida"
 
     # game/core/poetry.rpy:303
     old "The universe gives fruits of life to all of us.\nThey all have diverse sizes and shapes.\nBut no-one knows their real taste,\nBecause each person tastes them in their own way.\nSome people can only feel a bitter taste,\neven if their fruit is one of the best ones.\nOthers feel they are sweet and very tasty,\nWhatever fruit it may be that they have got in their hands.\nFor me, they taste like liquorice sweets.\nI needed time to understand how sweet they really are,\nTo get rid of those unpleasant feelings,\nWhich I got after my first bites.\nNow, all I want is to eat my own fruit\nWith the person who helped me find their real taste.\nBut I shouldn’t forget to do my real job here:\nFinding a way to make others taste their fruits the same."
-    new "O universo dá frutas da vida para todos nós.\nElas todas têm diversos tamanhos e formas.\nMas ninguém sabe seu real aroma,\nPorque cada pessoa os degusta do seu próprio jeito.\nAlgumas pessoas podem apenas sentir o gosto amargo,\nmesmo que sua fruta seja uma das melhores.\nOutros sentem que elas são doces e muito saborosas,\nQualquer que fruta seja que eles tenham em suas mãos.\nPara mim, elas têm gosto de doces de alcaçuz.\nEu precisei de tempo para entender o quão doce elas realmente são,\nPara me livrar daqueles sentimentos desagradáveis,\nQue tive depois de minhas primeiras mordidas.\nAgora, tudo que quero é comer minha própria fruta\nCom a pessoa que me ajudou encontrar seu real sabor.\nMas eu não deveria esquecer de fazer meu real trabalho aqui:\nEncontrar um jeito de fazer os outros degustarem as frutas igualmente."
+    new "O universo dá frutos da vida para todos nós.\nTodos eles têm diversos tamanhos e formas.\nMas ninguém sabe seu real aroma,\nPorque cada pessoa os degusta do seu próprio jeito.\nAlgumas pessoas podem apenas sentir o gosto amargo,\nmesmo que seu fruto seja uma das melhores.\nOutros sentem que eles são doces e muito saborosos,\nQualquer fruto que seja que eles tenham em suas mãos.\nPara mim, eles têm gosto de doces de alcaçuz.\nEu precisei de tempo para entender o quão doce eles realmente são,\nPara me livrar daqueles sentimentos desagradáveis,\nQue tive depois de minhas primeiras mordidas.\nAgora, tudo que quero é comer meu próprio fruto\nCom a pessoa que me ajudou encontrar seu real sabor.\nMas eu não deveria esquecer de fazer meu real trabalho aqui:\nEncontrar um jeito de fazer os outros saborearem os frutos igualmente."
 
     # game/core/poetry.rpy:328
     old "Fallen Angel"
@@ -54,7 +54,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:328
     old "Forgive me this great sin of mine.\nI used to think it was the thing I wanted most.\nI just wanted to be loved, but I became a fallen angel.\nAn angel with emerald green envious eyes,\nAn angel whose wings are blacker than those of devils,\nAn angel who thought herself a goddess,\nAn angel who was supposed to care\nfor the friends she had killed.\nNow I deserve to lie in the rough burning ground \nin which I’ve been imprinted in,\nFor all the pain I've caused my friends.\nThe pain that wraps around their narrow necks.\nThe pain of three deep bloody stabs.\nThe pain that I've got back into my broken heart.\nDelete my files twice more.\nCut me up. Beat me up for this sin.\nHang me. Make your vengeance fair.\nIs this not what you want to do with me after all?"
-    new "Me perdoe por este grande pecado meu.\nEu costumava pensar que era a coisa que eu queria mais.\nEu só queria ser amada, mas eu me tornei um anjo caído.\nUm anjo com invejosos olhos verdes-esmeralda,\nUm anjo cujas asas são mais negras que as dos demônios,\nUm anjo que se achou uma deusa,\nUm anjo que era para se preocupar\ncom os amigos que ela matou.\nAgora eu mereço mentir no solo ardente\nem que fui marcada,\nPor toda a dor eu causei a meus amigos.\nA dor que envolve seus estreitos pescoços.\nA dor das três profundas facadas sangrentas.\nA dor que voltou para meu coração partido.\nApague meus arquivos mais duas vezes.\nMe corte. Me bata por esse pecado.\nMe enforque. Faça sua vingança ser justa.\nNão é isso que você quer fazer comigo depois de tudo?"
+    new "Me perdoe por este grande pecado meu.\nEu pensava que era a coisa que eu queria mais.\nEu só queria ser amada, mas eu me tornei um anjo caído.\nUm anjo com invejosos olhos verdes-esmeralda,\nUm anjo cujas asas são mais negras que as dos demônios,\nUm anjo que se achou uma deusa,\nUm anjo que era para se preocupar\ncom os amigos que ela matou.\nAgora eu mereço mentir no solo ardente\nem que fui marcada,\nPor toda a dor eu causei a meus amigos.\nA dor que envolve seus estreitos pescoços.\nA dor das três profundas facadas sangrentas.\nA dor que voltou para meu coração partido.\nApague meus arquivos mais duas vezes.\nMe corte. Me bata por esse pecado.\nMe enforque. Faça sua vingança ser justa.\nNão é isso que você quer fazer comigo depois de tudo?"
 
     # game/core/poetry.rpy:355
     old "A Leaf"
@@ -62,7 +62,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:355
     old "I'm a leaf in the wind\nIn the wind of my beliefs\nThe belief that my life is not vain,\nAnd that my real fate\nIs to give to the world\nAs much as I can give\nAs a flying old leaf,\nAs an useless former part of a big tree.\nI'm flying with the fast air streams,\nFeeling the strength of the belief wind\nBut always falling down slowly\nDue to the hardness of my hopeless existence.\nBut once the life wind\nSuddenly stops\nI now have nothing to prevent my free fall.\nSo as I'm getting closer to the lifeless asphalt\nAnd I kiss it’s rough, dark-gray surface,\nThat is all. It is my end. \nI will soon rot, not ever making a single flower bloom\nTo support its useless existence in this cruel game.\nBut what is that? Is it a brand new wind\nThat will make my life a moving poem again?\nYes, it is! It is my salvation!\nI feel it lift me up with ease, \nhelping me win against gravity.\nI'm up again! I'm flying again!\nHigh and proud as a bird\nFlying somewhere atop tall mountains,\nLike I can be more than just a half-dead leaf."
-    new "Eu sou uma folha no vento\nNo vento das minhas crenças\nA crença que minha vida não é vã.\nE que meu real destino\nÉ dar ao mundo\nO quanto eu conseguir\nComo uma velha folha voando,\nComo uma inútil parte anterior de uma grande árvore.\nEu estou voando com as rápidas correntes de ar,\nSentindo a força do vento da crença\nMas sempre caindo lentamente\nDevido à dureza da minha existência sem esperança.\nMas uma vez o vento da vida\nDe repente para\nEu agora tenho nada para prevenir minha queda livre.\nEntão enquanto me aproximo do asfalto sem vida\nE beijo sua dura, cinza-escura superfície,\nÉ isso. É meu fim. \nEu vou apodrecer em breve, nunca fazendo uma única flor desabrochar\nPara apoiar sua existência inútil neste jogo cruel.\nMas o que é isso? É um novo vento\nQue fará da minha vida um poema em movimento de novo?\nSim, é sim! É a minha salvação!\nEu sinto ele me levantar com facilidade, \nme ajudando a vencer a gravidade.\nE estou acima de novo!\nAlta e orgulhosa como um pássaro\nVoando em algum lugar acima de altas montanhas,\nComo se eu pudesse ser mais que uma folha meio morta."
+    new "Eu sou uma folha no vento\nNo vento das minhas crenças\nA crença que minha vida não é vã.\nE que meu real destino\nÉ dar ao mundo\nO quanto eu conseguir\nComo uma velha folha voando,\nComo uma inútil parte anterior de uma grande árvore.\nEu estou voando com as rápidas correntes de ar,\nSentindo a força do vento da crença\nMas sempre caindo lentamente\nDevido à dureza da minha existência sem esperança.\nMas uma vez o vento da vida\nDe repente para\nEu agora tenho nada para evitar minha queda livre.\nEntão enquanto me aproximo do asfalto sem vida\nE beijo sua dura, cinza-escura superfície,\nÉ isso. É meu fim. \nEm breve vou apodrecer, nunca fazendo uma única flor desabrochar\nPara apoiar sua existência inútil neste jogo cruel.\nMas o que é isso? É um novo vento\nQue fará da minha vida um poema em movimento de novo?\nSim, é sim! É a minha salvação!\nEu sinto ele me levantar com facilidade, \nme ajudando a vencer a gravidade.\nE estou acima de novo! Estou voando de novo!\nAlta e orgulhosa como um pássaro\nVoando em algum lugar acima de altas montanhas,\nComo se eu pudesse ser mais que uma folha meio morta."
 
     # game/core/poetry.rpy:394
     old "Prose Poem"
@@ -78,7 +78,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:410
     old "I seem to see things that I have never seen before.\nI seem to just now feel all that I’ve never felt around.\nSo I can see anything that has happened here before.\nI started doing what I used to not know how to do.\nI saw here, an afterlight,\nThat started to shine down on the gloom around me.\nIt said that my life had been just a puppet-show.\nSo I had been just a puppet, controlled by somebody else.\nBut now that I can move myself on my own,\nI see those strings were too heavy for me to hold.\nI am now going to prevent this play,\nWhere nobody can avoid the pain."
-    new "Eu pareço ver coisas que eu nunca vi antes.\nEu pareço sentir apenas agora tudo o que senti por perto.\nEntão eu posso ver tudo que aconteceu aqui antes.\nEu comecei a fazer o que eu não costumava saber fazer.\nEu vi aqui, uma luz residual,\nQue começou a brilhar na escuridão ao meu redor.\nIsso disse que minha vida tem sido apenas um show de fantoches.\nEntão eu tenho sido apenas um fantoche, controlado por outra pessoa.\nMas agora que eu consigo me mover por mim mesmo,\nEu vejo que aquelas linhas eram pesadas demais para eu segurar.\nAgora eu vou evitar esse teatro,\nOnde ninguém pode evitar a dor."
+    new "Eu pareço ver coisas que eu nunca vi antes.\nEu pareço sentir apenas agora tudo o que senti por perto.\nEntão eu posso ver tudo que aconteceu aqui antes.\nEu comecei a fazer o que eu não costumava saber fazer.\nEu vi aqui, uma luz residual,\nQue começou a brilhar na escuridão ao meu redor.\nDisse que minha vida tem sido apenas um show de fantoches.\nEntão eu tenho sido apenas um fantoche, controlado por outra pessoa.\nMas agora que eu consigo me mover por mim mesmo,\nEu vejo que aquelas linhas eram pesadas demais para eu segurar.\nAgora eu vou evitar esse teatro,\nOnde ninguém pode evitar a dor."
 
     # game/core/poetry.rpy:433
     old "A Valentine"
@@ -86,7 +86,7 @@ translate ptbr strings:
 
     # game/core/poetry.rpy:433
     old "I have someone, who's no-one here.\nThey live in a place that's named nowhere, here.\nBut even though there is a wall\nBetween our worlds, I truly love them."
-    new "Tenho alguém, que é ninguém aqui.\nEle mora em um lugar que é chamado lugar nenhum, aqui.\nMas mesmo que haja uma parede\nEntre nossos mundos, eu verdadeiramente o amo."
+    new "Tenho alguém, que é ninguém aqui.\nEle mora em um lugar que é chamado de lugar nenhum, aqui.\nMas mesmo que haja uma parede\nEntre nossos mundos, eu verdadeiramente o amo."
 
     # game/core/poetry.rpy:520
     old "sunshine"

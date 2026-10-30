@@ -5284,7 +5284,7 @@ translate ptbr s_answer_game_opinion_mc_9d31ad7d:
 translate ptbr s_answer_lostFriends_ad9b9619:
 
     # s bbaabca "Yes, I do."
-    s bbaabca "Sim, eu com certeza."
+    s bbaabca "Sim, eu ainda sinto saudade."
 
 # game/dialogs/script-topics.rpy:2319
 translate ptbr s_answer_lostFriends_6583adae:
